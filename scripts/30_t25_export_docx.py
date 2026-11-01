@@ -11,6 +11,9 @@
 解释器: 用 projects/01-epigenetic-clock/.venv（python-docx 装在那里；02 的 .venv 没有，见坑 86）
   投稿版: ../01-epigenetic-clock/.venv/Scripts/python.exe src/30_t25_export_docx.py
   阅读版: ... src/30_t25_export_docx.py --read --out manuscript/draft_v3_阅读版.docx
+  朴素投稿版（任务 #91，1.35 倍行距、无行号、黑标题、单线框表格）:
+    ... src/30_t25_export_docx.py --plain --src manuscript/submission/manuscript_v3.1.md \
+        --out manuscript/submission/manuscript_v3.1.docx
 """
 import os
 import re
@@ -26,10 +29,13 @@ from docx.shared import Pt, Inches, Cm, RGBColor
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 R = lambda *p: os.path.join(ROOT, *p)
-PANDOC = os.environ.get('PANDOC', 'pandoc')
+PANDOC = r'D:\code\escape-velocity\_desktop_scratch\t25\dl\pandoc-3.12.1\pandoc.exe'
 
 ZH = '--zh' in sys.argv
 READ = '--read' in sys.argv   # 任务 #33：阅读版（1.35 倍行距、无行号、两端对齐、深蓝分级标题、斑马表格）
+# 任务 #91：朴素投稿版——走投稿版 polish()，但 1.35 倍行距、无行号；标题强制黑色、表格强制单线框
+# （pandoc 自带模板的标题是蓝色，且没有 Table Grid 样式，原 polish() 两样都没管住）
+PLAIN = '--plain' in sys.argv
 
 
 def _opt_path(flag):
@@ -48,7 +54,10 @@ SRC = _opt_path('--src') or _opt_path('--zh') or R('manuscript', 'draft_v3.md')
 OUT = sys.argv[sys.argv.index('--out') + 1] if '--out' in sys.argv else R('manuscript', 'draft_v3.docx')
 TMP = os.path.splitext(OUT)[0] + '_export.md'
 
-FIGDIR = R('manuscript', 'figures')
+# 任务 #91：图片优先取源稿旁边的 figures/（submission/ 有自己的一份），没有再退回 manuscript/figures
+FIGDIR = os.path.join(os.path.dirname(os.path.abspath(SRC)), 'figures')
+if not os.path.isdir(FIGDIR):
+    FIGDIR = R('manuscript', 'figures')
 
 # 图注所在节的标题（中英两版）
 LEGEND_HEAD = '## 图注' if ZH else '## Figure legends'
@@ -61,6 +70,11 @@ def build_export_md(src, dst):
     text = re.sub(r'^<!--.*?-->\s*', '', text, flags=re.S)
 
     lines = text.split('\n')
+    # 1b. 任务 #91：连续的单位行（¹ … / ² …）在 markdown 里是同一段，pandoc 会并成一行；
+    # 前一行末尾补硬换行，让每个单位单独成行
+    for k in range(len(lines) - 1):
+        if re.match(r'^[¹²³⁴⁵⁶⁷⁸⁹]', lines[k]) and re.match(r'^[¹²³⁴⁵⁶⁷⁸⁹]', lines[k + 1]):
+            lines[k] = lines[k].rstrip() + '\\'
     # 2. 取出图注
     legends = {}
     try:
@@ -109,6 +123,21 @@ def run_pandoc(md, out):
     subprocess.run(cmd, check=True)
 
 
+def _grid_borders(table):
+    """直接写 tblBorders：0.5 pt 黑色单线，外框 + 内线（模板里没有 Table Grid 时用）。"""
+    tblPr = table._tbl.tblPr
+    old = tblPr.find(qn('w:tblBorders'))
+    if old is not None:
+        tblPr.remove(old)
+    b = OxmlElement('w:tblBorders')
+    for edge in ('top', 'left', 'bottom', 'right', 'insideH', 'insideV'):
+        e = OxmlElement(f'w:{edge}')
+        e.set(qn('w:val'), 'single'); e.set(qn('w:sz'), '4')
+        e.set(qn('w:space'), '0'); e.set(qn('w:color'), '000000')
+        b.append(e)
+    tblPr.append(b)
+
+
 def polish(path):
     d = docx.Document(path)
     font_name = 'Times New Roman'
@@ -127,10 +156,20 @@ def polish(path):
         if cjk:
             rf.set(qn('w:eastAsia'), cjk)
 
+    spacing = 1.35 if PLAIN else 2.0
     normal = d.styles['Normal']
     set_font(normal)
-    normal.paragraph_format.line_spacing = 2.0
+    normal.paragraph_format.line_spacing = spacing
     normal.paragraph_format.space_after = Pt(6)
+    if PLAIN:
+        # pandoc 的正文段落用 Body Text / First Paragraph / Compact，它们自带行距会盖过 Normal
+        for name in ('Body Text', 'First Paragraph', 'Compact', 'Block Text'):
+            try:
+                st = d.styles[name]
+            except KeyError:
+                continue
+            set_font(st)
+            st.paragraph_format.line_spacing = spacing
 
     for name, size in [('Title', 16), ('Heading 1', 14), ('Heading 2', 12), ('Heading 3', 12)]:
         try:
@@ -140,14 +179,22 @@ def polish(path):
         set_font(st)
         st.font.size = Pt(size)
         st.font.bold = True
-        st.paragraph_format.line_spacing = 2.0
+        st.paragraph_format.line_spacing = spacing
+        if PLAIN:
+            st.font.color.rgb = RGBColor(0, 0, 0)
+            # 去掉主题色引用，否则 Word 仍按主题显示蓝色
+            col = st.element.get_or_add_rPr().find(qn('w:color'))
+            if col is not None:
+                for a in ('w:themeColor', 'w:themeShade', 'w:themeTint'):
+                    col.attrib.pop(qn(a), None)
 
     # 表格：加框线、表内单倍行距、字号 10
     for t in d.tables:
         try:
             t.style = d.styles['Table Grid']
         except KeyError:
-            pass
+            if PLAIN:
+                _grid_borders(t)
         for row in t.rows:
             for cell in row.cells:
                 for p in cell.paragraphs:
@@ -170,10 +217,14 @@ def polish(path):
             for ext in p._p.findall('.//' + qn('a:ext')):
                 pass
 
-    # 行号（连续，全文）
+    # 行号（连续，全文）；朴素投稿版不要
     for section in d.sections:
         sectPr = section._sectPr
         ln = sectPr.find(qn('w:lnNumType'))
+        if PLAIN:
+            if ln is not None:
+                sectPr.remove(ln)
+            continue
         if ln is None:
             ln = sectPr.makeelement(qn('w:lnNumType'), {})
             sectPr.append(ln)
@@ -308,5 +359,6 @@ if __name__ == '__main__':
               f'阅读版：1.35 倍行距、无行号、两端对齐、深蓝分级标题、斑马表格、图注 8.5pt 灰、图限宽 16.3cm')
     else:
         d = polish(OUT)
+        mode = '朴素投稿版：无行号，1.35 倍行距，黑色标题，单线框表格' if PLAIN else '行号已开，双倍行距'
         print(f'  段落 {len(d.paragraphs)}，表格 {len(d.tables)}，'
-              f'图片 {len(d.inline_shapes)}；行号已开，双倍行距，{"宋体/" if ZH else ""}Times New Roman 12pt')
+              f'图片 {len(d.inline_shapes)}；{mode}，{"宋体/" if ZH else ""}Times New Roman 12pt')
