@@ -1,0 +1,13 @@
+﻿residue_human,naked_mole_rat_numbering,residue_set,PDB_residue_6CT9,secondary_structure,dist_to_site_A_DNA_A,dist_to_site_A_contact_residues_A,dist_to_catalytic_triad_A,dist_to_ATP_6CTA_A,dist_to_Zn_A,dist_to_symmetry_DNA_A,nearest_symmetry_DNA,dist_to_symmetry_cGAS_A,SASA_protein_alone_A2,relative_SASA,SASA_with_DNA_A2,CA_B_factor
+D431,S463,naked mole-rat position,ASP431,loop 425-433,26.7,19.8,13.0,12.5,29.5,none within 6 A,,none within 6 A,97.8,0.51,97.8,61.3
+K479,E511,naked mole-rat position,LYS479,loop 479-496,28.6,21.9,22.3,14.3,25.0,3.8,C/DT5,6.3,121.4,0.51,121.4,39.2
+L495,Y527,naked mole-rat position,LEU495,loop 479-496,26.2,20.1,17.1,8.1,29.9,none within 6 A,,none within 6 A,74.7,0.37,74.7,55.8
+K498,T530,naked mole-rat position,LYS498,alpha-helix 497-514,34.5,27.8,24.9,18.0,33.9,2.9,B/DT16,10.0,91.6,0.39,91.6,62.0
+S19C,43,African mole-rat lineage candidate (confidence C; outside or disordered in 6CT9 157-522),not modelled,,,,,,,,,,,,,
+A48S,72,African mole-rat lineage candidate (confidence C; outside or disordered in 6CT9 157-522),not modelled,,,,,,,,,,,,,
+R62K,86,"African mole-rat lineage candidate (confidence C; outside or disordered in 6CT9 157-522); excluded: the fourth bathyergid Bathyergus suillus (GCA_988425685.1) carries the ancestral arginine, so the lysine is not shared across Bathyergidae (task #30/#33)",not modelled,,,,,,,,,,,,,
+S201G,233,African mole-rat lineage candidate (confidence A),,,10.1,,24.4,,,,,,,,,
+K258Q,290,African mole-rat lineage candidate (confidence B; outside or disordered in 6CT9 157-522),not modelled,,,,,,,,,,,,,
+S326P,358,African mole-rat lineage candidate (confidence A),,,14.2,,19.6,,,,,,,,,
+N388S,420,African mole-rat lineage candidate (confidence B),,,5.3,,13.2,,,,,,,,,
+pairwise CA-CA distances between the four positions (A),,,,,431-479: 17.8 (nearest heavy atom 16.3); 431-495: 11.6 (nearest heavy atom 8.2); 431-498: 13.4 (nearest heavy atom 11.6); 479-495: 11.0 (nearest heavy atom 9.9); 479-498: 11.1 (nearest heavy atom 8.9); 495-498: 9.6 (nearest heavy atom 7.5),,,,,,,,,,,

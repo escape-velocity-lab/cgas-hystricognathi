@@ -1,0 +1,19 @@
+﻿图注物种名,拉丁名,Chen_寿命标注_年,Chen_分类群标注,Chen_463,Chen_511,Chen_527,Chen_530,Chen_裸鼹鼠型命中数,本项目_431,本项目_479,本项目_495,本项目_498,本项目_裸鼹鼠型命中数,本项目_最大寿命_年,本项目_LQ,本项目_序列来源,逐位点一致,结论
+Naked mole-rat,Heterocephalus glaber,37,Ctenohystrica,S,E,Y,T,4,S,E,Y,T,4,31.0,3.735,RefSeq NP_001431126.1,4/4,一致
+Damaraland mole-rat,Fukomys damarensis,20,Ctenohystrica,S,E,Y,T,4,S,E,Y,T,4,15.5,1.44,RefSeq XP_010639479.1,4/4,一致
+Chinchilla,Chinchilla lanigera,17,Ctenohystrica,S,E,Y,K,3,S,E,Y,K,3,17.2,1.306,RefSeq XP_005405385.2,4/4,一致
+Degu,Octodon degus,8,Ctenohystrica,S,E,Y,Q,3,S,E,Y,Q,3,14.0,1.247,RefSeq XP_004623235.1,4/4,一致
+Alpine marmot,Marmota marmota,17,Sciuromorpha,D,Q,H,K,0,D,Q,H,K,0,17.4,1.01,RefSeq XP_015343391.1,4/4,一致
+Woodchuck,Marmota monax,14,Sciuromorpha,D,Q,H,K,0,D,Q,H,K,0,14.0,0.796,RefSeq XP_046298973.1,4/4,一致
+Gray squirrel,Sciurus carolinensis,23,Sciuromorpha,D,Q,Y,K,1,D,Q,Y,K,1,23.6,1.846,RefSeq XP_047414467.1,4/4,一致
+Rat,Rattus norvegicus,5,Mouse-related clade,D,K,L,K,0,D,K,L,K,0,3.8,0.326,RefSeq NP_001431125.1,4/4,一致
+Mouse,Mus musculus,4,Mouse-related clade,D,K,L,R,0,D,K,L,R,0,4.0,0.525,RefSeq NP_775562.2,4/4,一致
+Blind mole-rat,Nannospalax galili,21,Mouse-related clade,D,K,L,T,1,D,K,L,T,1,20.2,1.912,RefSeq XP_008844336.1,4/4,一致
+Ord's kangaroo rat,Dipodomys ordii,9,Mouse-related clade,N,N,K,N,0,N,N,K,N,0,9.9,1.104,RefSeq XP_012890746.1,4/4,一致
+Greater horseshoe bat,Rhinolophus ferrumequinum,30,Other mammalian species,D,D,L,R,0,D,D,L,R,0,30.5,3.931,RefSeq XP_032958426.1,4/4,一致
+African elephant,Loxodonta africana,65,Other mammalian species,N,Q,E,K,0,N,Q,E,K,0,65.0,1.2,RefSeq XP_003404158.1,4/4,一致
+Asian elephant,Elephas maximus,79,Other mammalian species,N,Q,E,K,0,N,Q,E,K,0,79.6,1.569,RefSeq XP_049751449.1,4/4,一致
+Blue whale,Balaenoptera musculus,110,Other mammalian species,D,Q,D,K,0,D,Q,D,K,0,110.0,1.195,RefSeq XP_036728067.1,4/4,一致
+Sperm whale,Physeter macrocephalus,77,Other mammalian species,G,Q,H,K,0,G,Q,H,K,0,77.0,1.072,RefSeq XP_007116559.2,4/4,一致
+Rhesus monkey,Macaca mulatta,40,Other mammalian species,D,Q,L,K,0,D,Q,L,K,0,40.0,2.027,RefSeq XP_001109400.2,4/4,一致
+Human,Homo sapiens,122,Other mammalian species,D,K,L,K,0,D,K,L,K,0,122.5,4.507,RefSeq NP_612450.2,4/4,一致

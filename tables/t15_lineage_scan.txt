@@ -1,0 +1,148 @@
+===== tblastn 全长覆盖（裸鼹鼠 554 位）
+                       物种      WGS  覆盖裸鼹鼠位置   覆盖率  contig数
+             Cavia aperea   AVPZ01       99 0.179        1
+  Thryonomys swinderianus BAAFGX01      530 0.957        1
+      Coendou prehensilis JAPYYN01      549 0.991        1
+          Fukomys anselli JBPETH01      546 0.986        2
+            Octomys mimax   NDGM01      373 0.673        6
+   Tympanoctomys barrerae   NDGN01      484 0.874        6
+         Petromus typicus   PVIR01      538 0.971        5
+         Myocastor coypus   PVJA01      552 0.996        6
+         Hystrix cristata   PVJO01      551 0.995        1
+     Dolichotis patagonum   PVJX01      398 0.718        3
+      Ctenomys sociabilis   PVKA01      395 0.713       17
+           Cavia tschudii   PVKK01      529 0.955        2
+       Capromys pilorides   PVKN01      548 0.989        1
+Hydrochoerus hydrochaeris   PVLA01      549 0.991        1
+        Dinomys branickii   PVLD01      532 0.960        3
+        Hystrix brachyura   QZML01      551 0.995        1
+      Dasyprocta punctata   RJWM01      372 0.671        3
+           Cuniculus paca   RJWT01      344 0.621        5
+
+豪猪亚目 24 种；非洲鼹鼠科 3；其余豪猪亚目 21：Capromys pilorides, Cavia aperea, Cavia porcellus, Cavia tschudii, Chinchilla lanigera, Coendou prehensilis, Ctenomys sociabilis, Cuniculus paca, Dasyprocta punctata, Dinomys branickii, Dolichotis patagonum, Erethizon dorsatum, Hydrochoerus hydrochaeris, Hystrix brachyura, Hystrix cristata, Myocastor coypus, Octodon degus, Octomys mimax, Petromus typicus, Thryonomys swinderianus, Tympanoctomys barrerae
+
+===== 候选位置（严格 + 安氏鼹鼠读不到的放宽档）：7 个
+树：277 种上树；缺 ['Balaenoptera ricei', 'Bubalus kerabau', 'Cervus canadensis', 'Pteronotus mesoamericanus']
+非洲鼹鼠科父节点下含： Fukomys anselli, Fukomys damarensis, Heterocephalus glaber, Petromus typicus, Thryonomys swinderianus
+ 裸鼹鼠位置  人位置 人残基 非洲鼹鼠科状态 安氏鼹鼠 家豚鼠 其余豪猪亚目可读 其余豪猪亚目残基 梳趾鼠 豪猪亚目外哺乳动物有X  窗口同一性_豚鼠  P_X_非洲鼹鼠科祖先  P_X_父节点 主干上出现                         结构域
+    43   19   A       C    C   S    16/21     FLRS   A      12/218      0.55        0.932    0.250     是               N 端无序区（1–160）
+    72   48   A       S    S   V    16/21      APV   A      30/242      0.55        0.928    0.005     是               N 端无序区（1–160）
+    86   62   K       K    K   R    15/21      GRW   P      83/236      0.60        0.895    0.030   倾向是               N 端无序区（1–160）
+   233  201   S       G    G   T    18/21       ST   S      27/254      0.45        0.968    0.003     是   催化结构域 / NTase 核心（161–330）
+   290  258   K       Q    Q   K    21/21       KR   K      10/256      0.80        0.954    0.230     是   催化结构域 / NTase 核心（161–330）
+   358  326   S       P    P   L    20/21      LSV   P       4/256      0.70        0.939    0.019     是   催化结构域 / NTase 核心（161–330）
+   420  388   N       S    S   N    20/21      KNT   N      33/256      0.80        0.955    0.249     是 C 端结构域（331–522，含锌指 390–405）
+
+===== 每个候选 ±8 窗口（裸鼹鼠坐标；中间一列为位点）
+
+【裸鼹鼠 43 / 人 19  C】 N 端无序区（1–160）  Region 1-160:DNA-binding; 邻近(21) Modified residue:N6-acetyllysine; 邻近(21) Cross-link:Glycyl lysine isopeptide (Lys-Gly) (inte
+  Heterocephalus glaber      TVPEVRPACPGGPEPVP   C
+  Fukomys damarensis         SLPPLAQACGRGASPAP   C
+  Fukomys anselli            TVRGTRASCPGGPQ---   C
+  Thryonomys swinderianus    TAAEPRADLPGGPEPVP   L
+  Petromus typicus           TAAESRAARPAGPEPVP   R
+  Hystrix cristata           TAPS-QATSRDGPDLVS   S
+  Cavia porcellus            TAPQARDPSPGGPGPVP   S
+  Cavia tschudii             TAPQARDPSPGGPGPVP   S
+  Chinchilla lanigera        -----------------   -
+  Octodon degus              TAPEARGASLGGPELVP   S
+  Erethizon dorsatum         TAPEARAAFPGGPEPVL   F
+  Ctenodactylus gundi        ARARARPAAPPAPRPRP   A
+  Mus musculus               -----------------   -
+  Homo sapiens               RASEAGATAPGAP----   A
+
+【裸鼹鼠 72 / 人 48  S】 N 端无序区（1–160）  Region 1-160:DNA-binding; 邻近(47) Modified residue:N6-acetyllysine; 邻近(50) Modified residue:N6-acetyllysine
+  Heterocephalus glaber      APRAPRPRSGKCGQPAR   S
+  Fukomys damarensis         AKRRSRSRSGKCGPPAR   S
+  Fukomys anselli            APRGPRPRSGKCGPPAR   S
+  Thryonomys swinderianus    --RAARPRAGTRCQPVR   A
+  Petromus typicus           APRTTRPRAGTRPQPAR   A
+  Hystrix cristata           APRVTRPRAGKCGPPAR   A
+  Cavia porcellus            APLATPARVGQCGLPTR   V
+  Cavia tschudii             APLATPARVGQCGLPTR   V
+  Chinchilla lanigera        -----------------   -
+  Octodon degus              A-GAPTPRPGLRGPPAG   P
+  Erethizon dorsatum         ALPATPARAGQCGPPAW   A
+  Ctenodactylus gundi        AAPGARPGAGRCPQPAR   A
+  Mus musculus               APRAKKPSAKR----AP   A
+  Homo sapiens               APEAALPKAGKFGPARK   A
+
+【裸鼹鼠 86 / 人 62  K】 N 端无序区（1–160）  Region 1-160:DNA-binding; Modified residue:N6-acetyllysine; 邻近(63) Modified residue:N6-acetyllysine; 邻近(64) Modified residue:Phosphoserine
+  Heterocephalus glaber      PARSLPAQKRAARDPLK   K
+  Fukomys damarensis         PARSRPTQKRAARDPQK   K
+  Fukomys anselli            PARSRPTQKRAARDPQK   K
+  Thryonomys swinderianus    PVRPRPAPREAARDPRD   R
+  Petromus typicus           PARPRPAPRRAAPG-RG   R
+  Hystrix cristata           PARSRPAPWLAARDPRD   W
+  Cavia porcellus            PTRPPRAQRRAVRD---   R
+  Cavia tschudii             PTRPPRAQRRAVRD---   R
+  Chinchilla lanigera        -----------------   -
+  Octodon degus              PAGSTPARRRPARSREK   R
+  Erethizon dorsatum         PAWSPPAQRRAARKPRE   R
+  Ctenodactylus gundi        PARARRASPRA------   P
+  Mus musculus               -APTQPSRTRAHAESCG   T
+  Homo sapiens               ARKSGSRQKKSAPD---   K
+
+【裸鼹鼠 233 / 人 201  G】 催化结构域 / NTase 核心（161–330）  Region 173-215:DNA-binding
+  Heterocephalus glaber      RLLQALQTGPFRGVSLL   G
+  Fukomys damarensis         --------GTFRGVSLL   G
+  Fukomys anselli            RLLRALQTGTFRGVSLL   G
+  Thryonomys swinderianus    QLLRALQTSKFRGVSQL   S
+  Petromus typicus           QLLQALQTSKFHGVSQL   S
+  Hystrix cristata           RLLQALETSEFRGVKLL   S
+  Cavia porcellus            RLQRALQPTELRCSSKL   T
+  Cavia tschudii             RLQRALQPTELRCSSKL   T
+  Chinchilla lanigera        QLQRALQASEFCGASVL   S
+  Octodon degus              RLQQALKDSEFHGATSL   S
+  Erethizon dorsatum         RLQRALQTSEFRGASVL   S
+  Ctenodactylus gundi        HLQRRLQSSEFRGVSQL   S
+  Mus musculus               RLLRRMQESEFKGVEQL   S
+  Homo sapiens               HLLLRLKDSAFRGVGLL   S
+
+【裸鼹鼠 290 / 人 258  Q】 催化结构域 / NTase 核心（161–330）  
+  Heterocephalus glaber      FVKFKRNPQGNPLSQFV   Q
+  Fukomys damarensis         FVKFKRNPQENPLSQFV   Q
+  Fukomys anselli            FVKFKRNPQENPLSQFV   Q
+  Thryonomys swinderianus    FVKLKRNPRGSPLKEFV   R
+  Petromus typicus           FVKLKRNPRGNPLNEFV   R
+  Hystrix cristata           FVKFKRNPKGNPLQQFV   K
+  Cavia porcellus            FVKFKRNPKENPLNRFV   K
+  Cavia tschudii             FVKFKRNPKENPLNRFV   K
+  Chinchilla lanigera        YVKFKRNPKGNPLSKFV   K
+  Octodon degus              SVKFKRNPKENPLDKFV   K
+  Erethizon dorsatum         FVKFKRNPKENLLNKFV   K
+  Ctenodactylus gundi        LVRFKRNPKGNPLSQFL   K
+  Mus musculus               LVKFKRIPRGNPLSHFL   R
+  Homo sapiens               FVKFKRNPKENPLSQFL   K
+
+【裸鼹鼠 358 / 人 326  P】 催化结构域 / NTase 核心（161–330）  
+  Heterocephalus glaber      VDIILALEPQGSWPAST   P
+  Fukomys damarensis         VDIILALEPEGSWPART   P
+  Fukomys anselli            VDIILALEPEGSWPART   P
+  Thryonomys swinderianus    VDIILALESKSSWPAKT   S
+  Petromus typicus           VDIIFALEVKSSWPAKT   V
+  Hystrix cristata           VDVTLALESNSSWPART   S
+  Cavia porcellus            VDIILALELRSSWPLKT   L
+  Cavia tschudii             VDIILALELRSSWPLKT   L
+  Chinchilla lanigera        VDIILALESRSSWPPKT   S
+  Octodon degus              VDITLALESKSSWPPKT   S
+  Erethizon dorsatum         VDIILALESKSSWPPTT   S
+  Ctenodactylus gundi        VDVILALEPEGSWPAST   P
+  Mus musculus               VDIILALESKGSWPIST   S
+  Homo sapiens               VDITLALESKSSWPAST   S
+
+【裸鼹鼠 420 / 人 388  S】 C 端结构域（331–522，含锌指 390–405）  Region 384-407:DNA-binding; 邻近(390) Binding site:Zn(2+); 邻近(389) Modified residue:(Microbial infection) Deamidated asparag
+  Heterocephalus glaber      SYTEKHILSHHGDSKKC   S
+  Fukomys damarensis         SHIEKYILSHHGDSKKC   S
+  Fukomys anselli            SHIEKYILSHHGDSKKC   S
+  Thryonomys swinderianus    SHIEKDILTYHGASRTC   T
+  Petromus typicus           SYTEKYILKHHGVSKTC   K
+  Hystrix cristata           SHIEKEILNNHGSFKTC   N
+  Cavia porcellus            SHIEKDILNNHGDSKKC   N
+  Cavia tschudii             SHIEKDILNNHGDSKKC   N
+  Chinchilla lanigera        SHIEKDILNNHGNSKSC   N
+  Octodon degus              SHIEKSLLNDHGHSKTC   N
+  Erethizon dorsatum         SHIEKDILNNHGDSKKC   N
+  Ctenodactylus gundi        SHVEKDILNNHGESKTC   N
+  Mus musculus               SHTEKYILNNHGIEKTC   N
+  Homo sapiens               SHIEKEILNNHGKSKTC   N

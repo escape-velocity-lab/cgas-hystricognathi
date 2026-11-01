@@ -1,0 +1,42 @@
+狐蝠科（Old World fruit bats）cGAS 四位点 tblastn 读数
+裸鼹鼠型残基 = 431:S  479:E  495:Y  498:T；人 = D/K/L/K
+
+                        物种      WGS        用途      状态 431 479 495 498  裸鼹鼠型残基数 最佳HSP同一性
+     Cynopterus brachyotis   SSHV01      tian      ok   N   H   Q   K      0.0   76/114
+         Cynopterus sphinx JAKZJJ01      tian      ok   N   H   Q   K      0.0   75/114
+         Eidolon dupreanum JCBABP01       new      ok   N   H   Q   K      0.0   74/114
+            Eidolon helvum   AWHC01       gap      ok   N   H   Q   K      0.0    61/99
+        Eonycteris spelaea JCELFR01       new      ok   S   H   Q   K      1.0   74/114
+   Hypsignathus monstrosus CFOBSM01       new 未完成/空结果 NaN NaN NaN NaN      NaN      NaN
+     Macroglossus sobrinus   PVKZ01      tian      ok   N   D   Q   K      0.0   79/117
+           Pteropus alecto   ALWS01 tian+ctrl      ok   N   H   Q   K      0.0   71/114
+           Pteropus medius CACVBW01      ctrl      ok   N   H   Q   K      0.0   71/114
+        Pteropus pselaphon BAAJCM01       new 未完成/空结果 NaN NaN NaN NaN      NaN      NaN
+            Pteropus rufus JBWDIR01       new 未完成/空结果 NaN NaN NaN NaN      NaN      NaN
+         Pteropus vampyrus   ABRP02 tian+ctrl      ok   N   H   Q   K      0.0   70/114
+     Rousettus aegyptiacus JACASE02 tian+ctrl      ok   N   H   Q   K      0.0   71/114
+   Rousettus leschenaultii JBRKBD02       new 未完成/空结果 NaN NaN NaN NaN      NaN      NaN
+Rousettus madagascariensis JCASON01       new 未完成/空结果 NaN NaN NaN NaN      NaN      NaN
+
+读出 479 位的物种数: 10；各残基计数: {'H': 9, 'D': 1}
+携带裸鼹鼠型 E479 的物种: 无
+四个位点全是裸鼹鼠型的物种: 无
+
+阳性对照（有 RefSeq 注释，已知 479 = H）:
+                   物种 431 479 495 498
+      Pteropus alecto   N   H   Q   K
+      Pteropus medius   N   H   Q   K
+    Pteropus vampyrus   N   H   Q   K
+Rousettus aegyptiacus   N   H   Q   K
+
+479 位 ±15 窗口:
+  Cynopterus brachyotis          FDNCVAYFLEYLRTEHLKHFFIPGVNLFSPD
+  Cynopterus sphinx              FDNCVAYFLEYLRTEHLKHFFIPGVNLFSPD
+  Eidolon dupreanum              FDNCVEYFLEYLRTEHLENFFIPAVNLFSPQ
+  Eidolon helvum                 FDNCVEYFLEYLRTEHLENFFIPAVNLFSPQ
+  Eonycteris spelaea             FDNCVTYFLEYLRTEHLKHFFIPGVNLFSPD
+  Macroglossus sobrinus          FDNCVTYLLQYLRTEDLKHFIIPEVNLFSRD
+  Pteropus alecto                FDHCVAYFLEYLRTEHLKHFFIPGVNLFSPD
+  Pteropus medius                FDHCVAYFLEYLRTEHLKHFFIPGVNLFSPD
+  Pteropus vampyrus              FDHCVAYFLEYLKTEHLKHFFIPGVNLFSPD
+  Rousettus aegyptiacus          FANCVTYFLEYLRTEHLEHFFIPGVNLFSPD

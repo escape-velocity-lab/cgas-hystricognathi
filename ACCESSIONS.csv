@@ -1,0 +1,584 @@
+﻿source_table,species,kind,accession
+S1,Chrysochloris asiatica,protein,XP_006835851.1
+S1,Chrysochloris asiatica,assembly,GCF_000296735.1
+S1,Echinops telfairi,protein,XP_012859170.1
+S1,Echinops telfairi,assembly,GCF_000313985.2
+S1,Tenrec ecaudatus,protein,XP_075411011.1
+S1,Tenrec ecaudatus,assembly,GCF_050624435.1
+S1,Eubalaena glacialis,protein,XP_061063255.1
+S1,Eubalaena glacialis,assembly,GCF_028564815.1
+S1,Balaenoptera acutorostrata,protein,XP_057383692.1
+S1,Balaenoptera acutorostrata,assembly,GCF_949987535.1
+S1,Balaenoptera borealis,protein,XP_082261209.1
+S1,Balaenoptera borealis,assembly,GCF_965194805.1
+S1,Balaenoptera musculus,protein,XP_036728067.1
+S1,Balaenoptera musculus,assembly,GCF_009873245.2
+S1,Balaenoptera physalus,protein,XP_082330350.1
+S1,Balaenoptera physalus,assembly,GCF_965194825.1
+S1,Balaenoptera ricei,protein,XP_059798090.1
+S1,Balaenoptera ricei,assembly,GCF_028023285.1
+S1,Bison bison bison,protein,XP_010849577.1
+S1,Bison bison bison,assembly,GCF_000754665.1
+S1,Bos grunniens,protein,XP_086172925.1
+S1,Bos grunniens,assembly,GCF_055505025.1
+S1,Bos indicus,protein,XP_019822589.2
+S1,Bos indicus,assembly,GCF_029378745.1
+S1,Bos indicus x Bos taurus,protein,XP_027406740.1
+S1,Bos indicus x Bos taurus,assembly,GCF_003369695.1
+S1,Bos javanicus,protein,XP_061283191.1
+S1,Bos javanicus,assembly,GCF_032452875.1
+S1,Bos mutus,protein,XP_070232292.1
+S1,Bos mutus,assembly,GCF_027580195.1
+S1,Bos taurus,protein,XP_002690066.3
+S1,Bos taurus,assembly,GCF_002263795.3
+S1,Bubalus bubalis,protein,XP_025150664.1
+S1,Bubalus bubalis,assembly,GCF_019923935.1
+S1,Bubalus kerabau,protein,XP_055390774.1
+S1,Bubalus kerabau,assembly,GCF_029407905.1
+S1,Budorcas taxicolor,protein,XP_052502024.1
+S1,Budorcas taxicolor,assembly,GCF_023091745.1
+S1,Capra hircus,protein,XP_013821781.2
+S1,Capra hircus,assembly,GCF_001704415.1
+S1,Capricornis sumatraensis,protein,XP_068841455.1
+S1,Capricornis sumatraensis,assembly,GCF_032405125.1
+S1,Oryx dammah,protein,XP_040094971.1
+S1,Oryx dammah,assembly,GCF_014754425.2
+S1,Ovis aries,protein,XP_027828083.1
+S1,Ovis aries,assembly,GCF_016772045.2
+S1,Ovis canadensis,protein,XP_069455039.1
+S1,Ovis canadensis,assembly,GCF_042477335.2
+S1,Camelus bactrianus,protein,XP_074202443.1
+S1,Camelus bactrianus,assembly,GCF_048773025.1
+S1,Camelus dromedarius,protein,XP_031303608.1
+S1,Camelus dromedarius,assembly,GCF_036321535.1
+S1,Camelus ferus,protein,XP_032316213.1
+S1,Camelus ferus,assembly,GCF_009834535.1
+S1,Vicugna pacos,protein,XP_072798729.1
+S1,Vicugna pacos,assembly,GCF_048564905.1
+S1,Cervus canadensis,protein,XP_043295040.1
+S1,Cervus canadensis,assembly,GCF_019320065.1
+S1,Cervus elaphus,protein,XP_043746143.1
+S1,Cervus elaphus,assembly,GCF_910594005.1
+S1,Dama dama,protein,XP_060988007.1
+S1,Dama dama,assembly,GCF_033118175.1
+S1,Muntiacus reevesi,protein,XP_065767746.1
+S1,Muntiacus reevesi,assembly,GCF_963930625.1
+S1,Odocoileus virginianus,protein,XP_070336897.1
+S1,Odocoileus virginianus,assembly,GCF_023699985.2
+S1,Aethalodelphis obliquidens,protein,XP_026948254.1
+S1,Aethalodelphis obliquidens,assembly,GCF_003676395.1
+S1,Delphinus delphis,protein,XP_059886341.1
+S1,Delphinus delphis,assembly,GCF_949987515.2
+S1,Globicephala melas,protein,XP_030715163.1
+S1,Globicephala melas,assembly,GCF_963455315.2
+S1,Grampus griseus,protein,XP_082525035.1
+S1,Grampus griseus,assembly,GCF_964374135.1
+S1,Lagenorhynchus albirostris,protein,XP_060023479.1
+S1,Lagenorhynchus albirostris,assembly,GCF_949774975.1
+S1,Leucopleurus acutus,protein,XP_082711474.1
+S1,Leucopleurus acutus,assembly,GCF_964270905.1
+S1,Orcinus orca,protein,XP_033284517.1
+S1,Orcinus orca,assembly,GCF_937001465.1
+S1,Pseudorca crassidens,protein,XP_067558876.1
+S1,Pseudorca crassidens,assembly,GCF_039906515.1
+S1,Stenella coeruleoalba,protein,XP_079795880.1
+S1,Stenella coeruleoalba,assembly,GCF_951394435.1
+S1,Tursiops truncatus,protein,XP_019784845.1
+S1,Tursiops truncatus,assembly,GCF_011762595.2
+S1,Eschrichtius robustus,protein,XP_068407709.1
+S1,Eschrichtius robustus,assembly,GCF_028021215.1
+S1,Giraffa tippelskirchi,protein,XP_081386214.1
+S1,Giraffa tippelskirchi,assembly,GCF_054371585.1
+S1,Hippopotamus amphibius kiboko,protein,XP_057596342.1
+S1,Hippopotamus amphibius kiboko,assembly,GCF_030028045.1
+S1,Lipotes vexillifer,protein,XP_007458461.1
+S1,Lipotes vexillifer,assembly,GCF_000442215.2
+S1,Delphinapterus leucas,protein,XP_022446094.1
+S1,Delphinapterus leucas,assembly,GCF_002288925.2
+S1,Monodon monoceros,protein,XP_029079180.1
+S1,Monodon monoceros,assembly,GCF_005190385.1
+S1,Moschus berezovskii,protein,XP_088697050.1
+S1,Moschus berezovskii,assembly,GCF_049115385.1
+S1,Neophocaena asiaeorientalis asiaeorientalis,protein,XP_024587658.1
+S1,Neophocaena asiaeorientalis asiaeorientalis,assembly,GCF_003031525.2
+S1,Phocoena phocoena,protein,XP_065745041.1
+S1,Phocoena phocoena,assembly,GCF_963924675.1
+S1,Phocoena sinus,protein,XP_032507834.1
+S1,Phocoena sinus,assembly,GCF_008692025.1
+S1,Kogia breviceps,protein,XP_058891944.1
+S1,Kogia breviceps,assembly,GCF_026419965.1
+S1,Physeter macrocephalus,protein,XP_007116559.2
+S1,Physeter macrocephalus,assembly,GCF_002837175.3
+S1,Phacochoerus africanus,protein,XP_047619814.1
+S1,Phacochoerus africanus,assembly,GCF_016906955.1
+S1,Sus scrofa,protein,NP_001431575.1
+S1,Sus scrofa,assembly,GCF_054392235.1
+S1,Hyperoodon ampullatus,protein,XP_079572453.1
+S1,Hyperoodon ampullatus,assembly,GCF_949752795.1
+S1,Mesoplodon bidens,protein,XP_081107019.1
+S1,Mesoplodon bidens,assembly,GCF_964165515.1
+S1,Mesoplodon densirostris,protein,XP_059971098.1
+S1,Mesoplodon densirostris,assembly,GCF_025265405.1
+S1,Mesoplodon mirus,protein,XP_082489467.1
+S1,Mesoplodon mirus,assembly,GCF_964341445.2
+S1,Canis aureus,protein,XP_077759505.1
+S1,Canis aureus,assembly,GCF_053574225.1
+S1,Canis lupus baileyi,protein,XP_072688444.1
+S1,Canis lupus baileyi,assembly,GCF_048164855.1
+S1,Canis lupus dingo,protein,XP_035553920.2
+S1,Canis lupus dingo,assembly,GCF_003254725.2
+S1,Canis lupus familiaris,protein,XP_038348166.1
+S1,Canis lupus familiaris,assembly,GCF_014441545.1
+S1,Nyctereutes procyonoides,protein,XP_055186578.1
+S1,Nyctereutes procyonoides,assembly,GCF_905146905.1
+S1,Vulpes lagopus,protein,XP_041587901.1
+S1,Vulpes lagopus,assembly,GCF_018345385.1
+S1,Vulpes vulpes,protein,XP_025863154.1
+S1,Vulpes vulpes,assembly,GCF_048418805.1
+S1,Acinonyx jubatus,protein,XP_026913206.1
+S1,Acinonyx jubatus,assembly,GCF_027475565.1
+S1,Felis catus,protein,XP_006931905.2
+S1,Felis catus,assembly,GCF_018350175.1
+S1,Herpailurus yagouaroundi,protein,XP_040329888.1
+S1,Herpailurus yagouaroundi,assembly,GCF_014898765.1
+S1,Leopardus geoffroyi,protein,XP_045354722.1
+S1,Leopardus geoffroyi,assembly,GCF_018350155.1
+S1,Lynx canadensis,protein,XP_030171704.1
+S1,Lynx canadensis,assembly,GCF_007474595.2
+S1,Lynx rufus,protein,XP_046958807.1
+S1,Lynx rufus,assembly,GCF_022079265.1
+S1,Neofelis nebulosa,protein,XP_058590451.1
+S1,Neofelis nebulosa,assembly,GCF_028018385.1
+S1,Panthera leo,protein,XP_042793272.1
+S1,Panthera leo,assembly,GCF_018350215.1
+S1,Panthera onca,protein,XP_060471926.2
+S1,Panthera onca,assembly,GCF_046562875.1
+S1,Panthera pardus,protein,XP_019273283.1
+S1,Panthera pardus,assembly,GCF_024362965.1
+S1,Panthera tigris,protein,XP_007090173.2
+S1,Panthera tigris,assembly,GCF_018350195.1
+S1,Panthera uncia,protein,XP_049509857.1
+S1,Panthera uncia,assembly,GCF_023721935.1
+S1,Prionailurus bengalensis,protein,XP_043447748.1
+S1,Prionailurus bengalensis,assembly,GCF_016509475.1
+S1,Prionailurus viverrinus,protein,XP_047716730.1
+S1,Prionailurus viverrinus,assembly,GCF_022837055.1
+S1,Puma concolor,protein,XP_025781607.2
+S1,Puma concolor,assembly,GCF_028749965.1
+S1,Suricata suricatta,protein,XP_029801253.1
+S1,Suricata suricatta,assembly,GCF_006229205.1
+S1,Crocuta crocuta,protein,XP_077626599.1
+S1,Crocuta crocuta,assembly,GCF_008692635.1
+S1,Hyaena hyaena,protein,XP_039104861.1
+S1,Hyaena hyaena,assembly,GCF_003009895.1
+S1,Enhydra lutris kenyoni,protein,XP_022366539.1
+S1,Enhydra lutris kenyoni,assembly,GCF_002288905.1
+S1,Lontra canadensis,protein,XP_032720253.1
+S1,Lontra canadensis,assembly,GCF_010015895.1
+S1,Lutra lutra,protein,XP_047591117.1
+S1,Lutra lutra,assembly,GCF_902655055.1
+S1,Martes martes,protein,XP_080662054.1
+S1,Martes martes,assembly,GCF_963455335.1
+S1,Meles meles,protein,XP_045860290.1
+S1,Meles meles,assembly,GCF_922984935.2
+S1,Mustela erminea,protein,XP_032196362.1
+S1,Mustela erminea,assembly,GCF_009829155.1
+S1,Mustela lutreola,protein,XP_059034444.1
+S1,Mustela lutreola,assembly,GCF_030435805.1
+S1,Mustela nigripes,protein,XP_059255001.1
+S1,Mustela nigripes,assembly,GCF_022355385.1
+S1,Mustela nivalis,protein,XP_082585908.1
+S1,Mustela nivalis,assembly,GCF_964662115.1
+S1,Mustela putorius furo,protein,XP_004770785.1
+S1,Mustela putorius furo,assembly,GCF_011764305.1
+S1,Neogale vison,protein,XP_044093833.1
+S1,Neogale vison,assembly,GCF_020171115.1
+S1,Odobenus rosmarus divergens,protein,XP_004413146.1
+S1,Odobenus rosmarus divergens,assembly,GCF_000321225.1
+S1,Callorhinus ursinus,protein,XP_025746606.1
+S1,Callorhinus ursinus,assembly,GCF_003265705.2
+S1,Eumetopias jubatus,protein,XP_027953511.1
+S1,Eumetopias jubatus,assembly,GCF_037043125.1
+S1,Zalophus californianus,protein,XP_027457575.1
+S1,Zalophus californianus,assembly,GCF_009762305.2
+S1,Halichoerus grypus,protein,XP_035956996.1
+S1,Halichoerus grypus,assembly,GCF_964656455.1
+S1,Leptonychotes weddellii,protein,XP_081684666.1
+S1,Leptonychotes weddellii,assembly,GCF_054177405.1
+S1,Mirounga angustirostris,protein,XP_064453843.1
+S1,Mirounga angustirostris,assembly,GCF_029215605.1
+S1,Mirounga leonina,protein,XP_034846699.1
+S1,Mirounga leonina,assembly,GCF_011800145.1
+S1,Neomonachus schauinslandi,protein,XP_021549191.1
+S1,Neomonachus schauinslandi,assembly,GCF_002201575.2
+S1,Phoca vitulina,protein,XP_032265352.1
+S1,Phoca vitulina,assembly,GCF_004348235.1
+S1,Ailuropoda melanoleuca,protein,XP_034504022.1
+S1,Ailuropoda melanoleuca,assembly,GCF_002007445.2
+S1,Ursus americanus,protein,XP_045659619.2
+S1,Ursus americanus,assembly,GCF_024610735.1
+S1,Ursus arctos,protein,XP_026362868.2
+S1,Ursus arctos,assembly,GCF_023065955.2
+S1,Ursus maritimus,protein,XP_008683129.2
+S1,Ursus maritimus,assembly,GCF_017311325.1
+S1,Saccopteryx bilineata,protein,XP_066109089.1
+S1,Saccopteryx bilineata,assembly,GCF_036850765.1
+S1,Saccopteryx leptura,protein,XP_066217459.1
+S1,Saccopteryx leptura,assembly,GCF_036850995.1
+S1,Hipposideros armiger,protein,XP_019507076.1
+S1,Hipposideros armiger,assembly,GCF_001890085.2
+S1,Miniopterus natalensis,protein,XP_087673269.1
+S1,Miniopterus natalensis,assembly,GCF_054644295.1
+S1,Miniopterus schreibersii,protein,XP_080996942.1
+S1,Miniopterus schreibersii,assembly,GCF_964146895.1
+S1,Molossus molossus,protein,XP_036104657.1
+S1,Molossus molossus,assembly,GCF_014108415.1
+S1,Pteronotus mesoamericanus,protein,XP_054424813.1
+S1,Pteronotus mesoamericanus,assembly,GCF_021234165.1
+S1,Artibeus jamaicensis,protein,XP_037003247.2
+S1,Artibeus jamaicensis,assembly,GCF_021234435.1
+S1,Desmodus rotundus,protein,XP_024432361.3
+S1,Desmodus rotundus,assembly,GCF_022682495.2
+S1,Phyllostomus discolor,protein,XP_028366018.1
+S1,Phyllostomus discolor,assembly,GCF_004126475.2
+S1,Phyllostomus hastatus,protein,XP_045699325.1
+S1,Phyllostomus hastatus,assembly,GCF_019186645.2
+S1,Sturnira hondurensis,protein,XP_036890200.1
+S1,Sturnira hondurensis,assembly,GCF_014824575.4
+S1,Pteropus alecto,protein,XP_006926445.1
+S1,Pteropus alecto,assembly,GCF_000325575.1
+S1,Pteropus medius,protein,XP_039709140.1
+S1,Pteropus medius,assembly,GCF_902729225.1
+S1,Pteropus vampyrus,protein,XP_011379319.1
+S1,Pteropus vampyrus,assembly,GCF_000151845.1
+S1,Rousettus aegyptiacus,protein,XP_015997158.2
+S1,Rousettus aegyptiacus,assembly,GCF_014176215.1
+S1,Rhinolophus ferrumequinum,protein,XP_032958426.1
+S1,Rhinolophus ferrumequinum,assembly,GCF_004115265.2
+S1,Rhinolophus hipposideros,protein,XP_080887375.1
+S1,Rhinolophus hipposideros,assembly,GCF_964194185.1
+S1,Rhinolophus sinicus,protein,XP_019604830.3
+S1,Rhinolophus sinicus,assembly,GCF_057876585.1
+S1,Cnephaeus nilssonii,protein,XP_079636011.1
+S1,Cnephaeus nilssonii,assembly,GCF_951640355.1
+S1,Eptesicus fuscus,protein,XP_054578538.1
+S1,Eptesicus fuscus,assembly,GCF_027574615.1
+S1,Myotis brandtii,protein,XP_014391297.1
+S1,Myotis brandtii,assembly,GCF_000412655.1
+S1,Myotis daubentonii,protein,XP_059557163.1
+S1,Myotis daubentonii,assembly,GCF_963259705.1
+S1,Myotis davidii,protein,XP_006772261.1
+S1,Myotis davidii,assembly,GCF_000327345.1
+S1,Myotis lucifugus,protein,XP_006089414.1
+S1,Myotis lucifugus,assembly,GCF_000147115.1
+S1,Myotis myotis,protein,XP_036173430.1
+S1,Myotis myotis,assembly,GCF_014108235.1
+S1,Myotis nattereri,protein,XP_080950635.1
+S1,Myotis nattereri,assembly,GCF_964212035.1
+S1,Myotis yumanensis,protein,XP_070275435.1
+S1,Myotis yumanensis,assembly,GCF_028538775.1
+S1,Pipistrellus hanaki,protein,XP_084745358.1
+S1,Pipistrellus hanaki,assembly,GCF_964339955.1
+S1,Pipistrellus kuhlii,protein,XP_045428572.1
+S1,Pipistrellus kuhlii,assembly,GCF_014108245.1
+S1,Plecotus auritus,protein,XP_080521231.1
+S1,Plecotus auritus,assembly,GCF_963455305.1
+S1,Antechinus flavipes,protein,XP_051853228.1
+S1,Antechinus flavipes,assembly,GCF_016432865.1
+S1,Sarcophilus harrisii,protein,XP_003769257.1
+S1,Sarcophilus harrisii,assembly,GCF_902635505.1
+S1,Sminthopsis crassicaudata,protein,XP_074166592.1
+S1,Sminthopsis crassicaudata,assembly,GCF_048593235.1
+S1,Cynocephalus volans,protein,XP_062954526.1
+S1,Cynocephalus volans,assembly,GCF_027409185.1
+S1,Galeopterus variegatus,protein,XP_008577119.1
+S1,Galeopterus variegatus,assembly,GCF_000696425.1
+S1,Gracilinanus agilis,protein,XP_044531298.1
+S1,Gracilinanus agilis,assembly,GCF_016433145.1
+S1,Monodelphis domestica,protein,XP_001373479.1
+S1,Monodelphis domestica,assembly,GCF_027887165.2
+S1,Notamacropus eugenii,protein,XP_072498705.1
+S1,Notamacropus eugenii,assembly,GCF_028372415.1
+S1,Petaurus breviceps papuanus,protein,XP_068923130.1
+S1,Petaurus breviceps papuanus,assembly,GCF_028583685.1
+S1,Trichosurus vulpecula,protein,XP_036624812.1
+S1,Trichosurus vulpecula,assembly,GCF_011100635.1
+S1,Phascolarctos cinereus,protein,XP_020855801.1
+S1,Phascolarctos cinereus,assembly,GCF_003287225.1
+S1,Vombatus ursinus,protein,XP_027708778.1
+S1,Vombatus ursinus,assembly,GCF_900497805.2
+S1,Erinaceus europaeus,protein,XP_060061368.1
+S1,Erinaceus europaeus,assembly,GCF_950295315.1
+S1,Sorex araneus,protein,XP_004606035.2
+S1,Sorex araneus,assembly,GCF_027595985.1
+S1,Sorex fumeus,protein,XP_055965929.1
+S1,Sorex fumeus,assembly,GCF_029834395.1
+S1,Suncus etruscus,protein,XP_049633594.1
+S1,Suncus etruscus,assembly,GCF_024139225.1
+S1,Condylura cristata,protein,XP_004674105.1
+S1,Condylura cristata,assembly,GCF_000260355.1
+S1,Talpa europaea,protein,XP_084114811.1
+S1,Talpa europaea,assembly,GCF_964194135.1
+S1,Talpa occidentalis,protein,XP_037374640.1
+S1,Talpa occidentalis,assembly,GCF_014898055.3
+S1,Lepus europaeus,protein,XP_062043208.1
+S1,Lepus europaeus,assembly,GCF_033115175.1
+S1,Oryctolagus cuniculus,protein,XP_051711481.2
+S1,Oryctolagus cuniculus,assembly,GCF_051225735.1
+S1,Ochotona curzoniae,protein,XP_040839566.1
+S1,Ochotona curzoniae,assembly,GCF_017591425.1
+S1,Ochotona princeps,protein,XP_004580610.2
+S1,Ochotona princeps,assembly,GCF_030435755.1
+S1,Elephantulus edwardii,protein,XP_006902945.1
+S1,Elephantulus edwardii,assembly,GCF_000299155.1
+S1,Dromiciops gliroides,protein,XP_043820423.1
+S1,Dromiciops gliroides,assembly,GCF_019393635.1
+S1,Ornithorhynchus anatinus,protein,XP_028918680.1
+S1,Ornithorhynchus anatinus,assembly,GCF_004115215.2
+S1,Tachyglossus aculeatus,protein,XP_038601728.1
+S1,Tachyglossus aculeatus,assembly,GCF_015852505.1
+S1,Macrotis lagotis,protein,XP_074046111.1
+S1,Macrotis lagotis,assembly,GCF_037893015.1
+S1,Equus asinus,protein,XP_044613034.2
+S1,Equus asinus,assembly,GCF_041296235.1
+S1,Equus caballus,protein,XP_014589284.2
+S1,Equus caballus,assembly,GCF_041296265.1
+S1,Equus przewalskii,protein,XP_008535543.2
+S1,Equus przewalskii,assembly,GCF_037783145.1
+S1,Equus quagga,protein,XP_046532466.1
+S1,Equus quagga,assembly,GCF_021613505.1
+S1,Ceratotherium simum simum,protein,XP_014636528.2
+S1,Ceratotherium simum simum,assembly,GCF_057802395.1
+S1,Diceros bicornis minor,protein,XP_058422753.1
+S1,Diceros bicornis minor,assembly,GCF_020826845.1
+S1,Manis javanica,protein,XP_073080387.1
+S1,Manis javanica,assembly,GCF_040802235.1
+S1,Manis pentadactyla,protein,XP_057350268.1
+S1,Manis pentadactyla,assembly,GCF_030020395.1
+S1,Choloepus didactylus,protein,XP_037699315.1
+S1,Choloepus didactylus,assembly,GCF_015220235.1
+S1,Tamandua tetradactyla,protein,XP_077018352.1
+S1,Tamandua tetradactyla,assembly,GCF_023851605.1
+S1,Aotus nancymaae,protein,XP_021525974.1
+S1,Aotus nancymaae,assembly,GCF_030222135.1
+S1,Callithrix jacchus,protein,XP_008992911.3
+S1,Callithrix jacchus,assembly,GCF_049354715.1
+S1,Cebus imitator,protein,XP_017379836.1
+S1,Cebus imitator,assembly,GCF_001604975.1
+S1,Saimiri boliviensis,protein,XP_074254150.1
+S1,Saimiri boliviensis,assembly,GCF_048565385.1
+S1,Sapajus apella,protein,XP_032131405.1
+S1,Sapajus apella,assembly,GCF_009761245.1
+S1,Cercocebus atys,protein,XP_011922823.1
+S1,Cercocebus atys,assembly,GCF_000955945.1
+S1,Chlorocebus sabaeus,protein,XP_008011680.2
+S1,Chlorocebus sabaeus,assembly,GCF_047675955.1
+S1,Colobus angolensis palliatus,protein,XP_011799826.1
+S1,Colobus angolensis palliatus,assembly,GCF_000951035.1
+S1,Macaca fascicularis,protein,XP_015304668.3
+S1,Macaca fascicularis,assembly,GCF_037993035.2
+S1,Macaca mulatta,protein,XP_001109400.2
+S1,Macaca mulatta,assembly,GCF_049350105.2
+S1,Macaca nemestrina,protein,XP_011735712.2
+S1,Macaca nemestrina,assembly,GCF_043159975.1
+S1,Macaca thibetana thibetana,protein,XP_050642465.1
+S1,Macaca thibetana thibetana,assembly,GCF_024542745.1
+S1,Mandrillus leucophaeus,protein,XP_011842510.1
+S1,Mandrillus leucophaeus,assembly,GCF_000951045.1
+S1,Papio anubis,protein,NP_001162411.1
+S1,Papio anubis,assembly,GCF_008728515.1
+S1,Piliocolobus tephrosceles,protein,XP_023075011.1
+S1,Piliocolobus tephrosceles,assembly,GCF_002776525.5
+S1,Rhinopithecus bieti,protein,XP_017726826.1
+S1,Rhinopithecus bieti,assembly,GCF_001698545.2
+S1,Rhinopithecus roxellana,protein,XP_010370516.2
+S1,Rhinopithecus roxellana,assembly,GCF_007565055.1
+S1,Theropithecus gelada,protein,XP_025237119.1
+S1,Theropithecus gelada,assembly,GCF_040869185.1
+S1,Trachypithecus francoisi,protein,XP_033073562.1
+S1,Trachypithecus francoisi,assembly,GCF_009764315.1
+S1,Microcebus murinus,protein,XP_075859302.1
+S1,Microcebus murinus,assembly,GCF_040939455.1
+S1,Otolemur garnettii,protein,XP_023368910.1
+S1,Otolemur garnettii,assembly,GCF_000181295.1
+S1,Gorilla gorilla gorilla,protein,XP_018885803.1
+S1,Gorilla gorilla gorilla,assembly,GCF_029281585.2
+S1,Homo sapiens,protein,NP_612450.2
+S1,Homo sapiens,assembly,GCF_000001405.40
+S1,Pan paniscus,protein,XP_034818270.3
+S1,Pan paniscus,assembly,GCF_029289425.2
+S1,Pan troglodytes,protein,XP_009449827.1
+S1,Pan troglodytes,assembly,GCF_028858775.2
+S1,Pongo abelii,protein,XP_002817108.2
+S1,Pongo abelii,assembly,GCF_028885655.2
+S1,Pongo pygmaeus,protein,XP_054348969.1
+S1,Pongo pygmaeus,assembly,GCF_028885625.2
+S1,Hylobates moloch,protein,XP_032009051.2
+S1,Hylobates moloch,assembly,GCF_009828535.3
+S1,Nomascus leucogenys,protein,XP_012358279.2
+S1,Nomascus leucogenys,assembly,GCF_006542625.1
+S1,Symphalangus syndactylus,protein,XP_055112100.1
+S1,Symphalangus syndactylus,assembly,GCF_028878055.3
+S1,Propithecus coquereli,protein,XP_012501490.1
+S1,Propithecus coquereli,assembly,GCF_000956105.1
+S1,Eulemur rufifrons,protein,XP_069344477.1
+S1,Eulemur rufifrons,assembly,GCF_041146395.1
+S1,Lemur catta,protein,XP_045398218.1
+S1,Lemur catta,assembly,GCF_020740605.2
+S1,Nycticebus coucang,protein,XP_053457139.1
+S1,Nycticebus coucang,assembly,GCF_027406575.1
+S1,Carlito syrichta,protein,XP_021567148.1
+S1,Carlito syrichta,assembly,GCF_000164805.1
+S1,Elephas maximus indicus,protein,XP_049751449.1
+S1,Elephas maximus indicus,assembly,GCF_024166365.1
+S1,Loxodonta africana,protein,XP_003404158.1
+S1,Loxodonta africana,assembly,GCF_030014295.1
+S1,Fukomys damarensis,protein,XP_010639479.1
+S1,Fukomys damarensis,assembly,GCF_012274545.1
+S1,Heterocephalus glaber,protein,NP_001431126.1
+S1,Heterocephalus glaber,assembly,GCF_053883595.1
+S1,Castor canadensis,protein,XP_073935270.1
+S1,Castor canadensis,assembly,GCF_047511655.1
+S1,Cavia porcellus,protein,XP_003478309.1
+S1,Cavia porcellus,assembly,GCF_034190915.1
+S1,Chinchilla lanigera,protein,XP_005405385.2
+S1,Chinchilla lanigera,assembly,GCF_000276665.1
+S1,Alexandromys fortis,protein,XP_049982442.1
+S1,Alexandromys fortis,assembly,GCF_014885135.2
+S1,Arvicola amphibius,protein,XP_038178899.1
+S1,Arvicola amphibius,assembly,GCF_903992535.2
+S1,Chionomys nivalis,protein,XP_057624078.1
+S1,Chionomys nivalis,assembly,GCF_950005125.1
+S1,Cricetulus griseus,protein,XP_003503244.1
+S1,Cricetulus griseus,assembly,GCF_000223135.1
+S1,Mesocricetus auratus,protein,XP_040596007.1
+S1,Mesocricetus auratus,assembly,GCF_017639785.1
+S1,Microtus ochrogaster,protein,XP_005347755.1
+S1,Microtus ochrogaster,assembly,GCF_000317375.1
+S1,Microtus oregoni,protein,XP_041535673.1
+S1,Microtus oregoni,assembly,GCF_018167655.1
+S1,Microtus pennsylvanicus,protein,XP_075821257.1
+S1,Microtus pennsylvanicus,assembly,GCF_037038515.1
+S1,Myodes glareolus,protein,XP_048291669.3
+S1,Myodes glareolus,assembly,GCF_982192425.1
+S1,Onychomys torridus,protein,XP_036049919.1
+S1,Onychomys torridus,assembly,GCF_903995425.1
+S1,Peromyscus californicus insignis,protein,XP_052571015.1
+S1,Peromyscus californicus insignis,assembly,GCF_007827085.1
+S1,Peromyscus eremicus,protein,XP_059124252.1
+S1,Peromyscus eremicus,assembly,GCF_949786415.1
+S1,Peromyscus leucopus,protein,XP_037064125.1
+S1,Peromyscus leucopus,assembly,GCF_004664715.2
+S1,Peromyscus maniculatus bairdii,protein,XP_006995151.3
+S1,Peromyscus maniculatus bairdii,assembly,GCF_049852395.1
+S1,Phodopus roborovskii,protein,XP_051034859.1
+S1,Phodopus roborovskii,assembly,GCF_943737965.1
+S1,Jaculus jaculus,protein,XP_045015985.1
+S1,Jaculus jaculus,assembly,GCF_020740685.1
+S1,Muscardinus avellanarius,protein,XP_080556200.1
+S1,Muscardinus avellanarius,assembly,GCF_963383645.1
+S1,Dipodomys merriami,protein,XP_069868271.1
+S1,Dipodomys merriami,assembly,GCF_024711535.1
+S1,Dipodomys ordii,protein,XP_012890746.1
+S1,Dipodomys ordii,assembly,GCF_000151885.1
+S1,Dipodomys spectabilis,protein,XP_042543041.1
+S1,Dipodomys spectabilis,assembly,GCF_019054845.1
+S1,Perognathus longimembris pacificus,protein,XP_048210449.1
+S1,Perognathus longimembris pacificus,assembly,GCF_023159225.1
+S1,Acomys minous,protein,XP_084608392.1
+S1,Acomys minous,assembly,GCF_964271855.1
+S1,Acomys russatus,protein,XP_050996092.1
+S1,Acomys russatus,assembly,GCF_903995435.1
+S1,Apodemus sylvaticus,protein,XP_052043723.1
+S1,Apodemus sylvaticus,assembly,GCF_947179515.1
+S1,Arvicanthis niloticus,protein,XP_034340251.1
+S1,Arvicanthis niloticus,assembly,GCF_011762505.2
+S1,Grammomys surdaster,protein,XP_028642181.1
+S1,Grammomys surdaster,assembly,GCF_004785775.1
+S1,Meriones unguiculatus,protein,XP_021512156.2
+S1,Meriones unguiculatus,assembly,GCF_030254825.1
+S1,Micromys minutus,protein,XP_080790280.1
+S1,Micromys minutus,assembly,GCF_963924665.1
+S1,Mus caroli,protein,XP_021029031.1
+S1,Mus caroli,assembly,GCF_978045245.1
+S1,Mus musculus,protein,NP_775562.2
+S1,Mus musculus,assembly,GCF_000001635.27
+S1,Mus pahari,protein,XP_021063666.1
+S1,Mus pahari,assembly,GCF_900095145.1
+S1,Psammomys obesus,protein,XP_055458477.1
+S1,Psammomys obesus,assembly,GCF_907164565.1
+S1,Rattus norvegicus,protein,NP_001431125.1
+S1,Rattus norvegicus,assembly,GCF_036323735.1
+S1,Rattus rattus,protein,XP_032765735.1
+S1,Rattus rattus,assembly,GCF_011064425.1
+S1,Octodon degus,protein,XP_004623235.1
+S1,Octodon degus,assembly,GCF_000260255.1
+S1,Callospermophilus lateralis,protein,XP_076716116.1
+S1,Callospermophilus lateralis,assembly,GCF_048772815.1
+S1,Ictidomys tridecemlineatus,protein,XP_077875852.1
+S1,Ictidomys tridecemlineatus,assembly,GCF_052094955.1
+S1,Marmota flaviventris,protein,XP_027784144.2
+S1,Marmota flaviventris,assembly,GCF_047511675.1
+S1,Marmota marmota marmota,protein,XP_015343391.1
+S1,Marmota marmota marmota,assembly,GCF_001458135.2
+S1,Marmota monax,protein,XP_046298973.1
+S1,Marmota monax,assembly,GCF_021218885.2
+S1,Sciurus carolinensis,protein,XP_047414467.1
+S1,Sciurus carolinensis,assembly,GCF_902686445.1
+S1,Sciurus vulgaris,protein,XP_079002660.1
+S1,Sciurus vulgaris,assembly,GCF_902686455.1
+S1,Spermophilus citellus,protein,XP_081151200.1
+S1,Spermophilus citellus,assembly,GCF_964194105.1
+S1,Urocitellus parryii,protein,XP_026247147.2
+S1,Urocitellus parryii,assembly,GCF_045843805.1
+S1,Nannospalax galili,protein,XP_008844336.1
+S1,Nannospalax galili,assembly,GCF_000622305.1
+S1,Tupaia belangeri chinensis,protein,XP_027624028.1
+S1,Tupaia belangeri chinensis,assembly,GCF_000334495.1
+S1,Trichechus manatus latirostris,protein,XP_004381446.1
+S1,Trichechus manatus latirostris,assembly,GCF_000243295.1
+S1,Orycteropus afer afer,protein,XP_007943407.1
+S1,Orycteropus afer afer,assembly,GCF_000298275.1
+S1,Cavia aperea,WGS project / assembly,AVPZ01 / GCA_000688575.1
+S1,Thryonomys swinderianus,WGS project / assembly,BAAFGX01 / GCA_041154305.1
+S1,Coendou prehensilis,WGS project / assembly,JAPYYN01 / GCA_028534165.1
+S1,Fukomys anselli,WGS project / assembly,JBPETH01 / GCA_053478225.1
+S1,Octomys mimax,WGS project / assembly,NDGM01 / GCA_002564305.1
+S1,Tympanoctomys barrerae,WGS project / assembly,NDGN01 / GCA_002564285.1
+S1,Petromus typicus,WGS project / assembly,PVIR01 / GCA_004026965.1
+S1,Myocastor coypus,WGS project / assembly,PVJA01 / GCA_004027025.1
+S1,Hystrix cristata,WGS project / assembly,PVJO01 / GCA_004026905.1
+S1,Dolichotis patagonum,WGS project / assembly,PVJX01 / GCA_004027295.1
+S1,Ctenomys sociabilis,WGS project / assembly,PVKA01 / GCA_004027165.1
+S1,Cavia tschudii,WGS project / assembly,PVKK01 / GCA_004027695.1
+S1,Capromys pilorides,WGS project / assembly,PVKN01 / GCA_004027915.1
+S1,Hydrochoerus hydrochaeris,WGS project / assembly,PVLA01 / GCA_004027455.1
+S1,Dinomys branickii,WGS project / assembly,PVLD01 / GCA_004027595.1
+S1,Hystrix brachyura,WGS project / assembly,QZML01 / GCA_016801275.1
+S1,Dasyprocta punctata,WGS project / assembly,RJWM01 / GCA_004363535.1
+S1,Cuniculus paca,WGS project / assembly,RJWT01 / GCA_004365215.1
+S8,Cynopterus brachyotis,assembly / WGS project,GCA_009793145.1 / SSHV01
+S8,Cynopterus sphinx,assembly / WGS project,GCA_030015415.1 / JAKZJJ01
+S8,Eidolon dupreanum,assembly / WGS project,GCA_059749105.1 / JCBABP01
+S8,Eidolon helvum,assembly / WGS project,GCA_000465285.1 / AWHC01
+S8,Eonycteris spelaea,assembly / WGS project,GCA_062009626.1 / JCELFR01
+S8,Hypsignathus monstrosus,assembly / WGS project,GCA_985612075.1 / CFOBSM01
+S8,Macroglossus sobrinus,assembly / WGS project,GCA_004027375.1 / PVKZ01
+S8,Pteropus alecto,assembly / WGS project,GCA_000325575.1 / ALWS01
+S8,Pteropus medius,assembly / WGS project,GCA_902729225.1 / CACVBW01
+S8,Pteropus pselaphon,assembly / WGS project,GCA_056242155.1 / BAAJCM01
+S8,Pteropus rufus,assembly / WGS project,GCA_056363655.1 / JBWDIR01
+S8,Pteropus vampyrus,assembly / WGS project,GCA_000151845.2 / ABRP02
+S8,Rousettus aegyptiacus,assembly / WGS project,GCA_014176215.2 / JACASE02
+S8,Rousettus leschenaultii,assembly / WGS project,GCA_053538355.2 / JBRKBD02
+S8,Rousettus madagascariensis,assembly / WGS project,GCA_059802175.1 / JCASON01
+Methods,,"NCBI GeneID, human CGAS",115004
+Methods,,"NCBI taxid, Mammalia",40674
+Methods,,"UniProt, human cGAS",Q8N884
+Methods,,"RefSeq, human cGAS",NP_612450.2
+Methods,,"UniProt, naked mole-rat cGAS (lineage scan query)",A0AAX6RS70
+Methods,,"GenBank, Erethizon dorsatum",KAM6166271.1
+Methods,,"GenBank, Ctenodactylus gundi",KAM5256511.1
+Methods,,"assembly, Bathyergus suillus",GCA_988425685.1
+Methods,,"PDB, human cGAS crystal structures",6CT9 6CTA 4O68 4KM5 6EDB 6EDC
+Methods,,"PDB, cGAS-nucleosome cryo-EM structures",7CCQ 6Y5D 6Y5E

@@ -1,0 +1,133 @@
+# 每个位点 ±15 aa（人编号），第 16 个字符 = 位点本身；「-」= 比对缺口
+
+== 人 D431（裸鼹鼠型 S）==
+Homo sapiens Q8N884                                          LLEQLKERFKDKKHLDKFSSYHVKTAFFHVC
+                                                                            ^
+Cavia porcellus | ENSCPOP00000009514 | Ensembl（release 当前，co LLEQLKKKFEKRKELSEFCSYHVKTAFFHLC  S
+Cavia porcellus | XP_003478309.1 | RefSeq（NCBI Eukaryotic An LLEQLKKKFEKRKELSEFCSYHVKTAFFHLC  S
+Cavia porcellus | XP_063082961.1 | RefSeq（NCBI Eukaryotic An -------------------------------  -
+Cavia porcellus | H0VH90 | UniProt TrEMBL                    LLEQLKKKFEKRKELSEFCSYHVKTAFFHLC  S
+Chinchilla lanigera | ENSCLAP00000019290 | Ensembl（release 当 LLEQLKKKFEKREELSKFCSYHVKTAFLHLC  S
+Chinchilla lanigera | XP_005405385.2 | RefSeq（NCBI Eukaryoti LLEQLKKKFEKREELSKFCSYHVKTAFLHLC  S
+Chinchilla lanigera | A0A8C2YS49 | UniProt TrEMBL            LLEQLKKKFEKREELSKFCSYHVKTAFLHLC  S
+Ctenodactylus gundi | KAM5256511.1 | GenBank 提交者注释           LLEQLKKKFEKRKEMCKFCSYHMKTAFFHIC  C
+Erethizon dorsatum | KAM6166271.1 | GenBank 提交者注释            LLEQLKKKFEKRKELTKFCSYHVKTAFLHLC  T
+Fukomys damarensis | KFO37345.1 | GenBank 提交者注释              LLEQLKKKF-NRQELSEFCSYHMKTAFFHLC  S
+Fukomys damarensis | XP_010639479.1 | RefSeq（NCBI Eukaryotic LLEQLKKKF-NRQELSEFCSYHMKTAFFHLC  S
+Heterocephalus glaber | ENSHGLP00000001811 | Ensembl（release LLEQLKEKFKKQKELSKFCSYHVKTSFFHLC  S
+Heterocephalus glaber | ENSHGLP00100057303.1 | Ensembl（雄性个体组 LLEQLKEKFKKQKELSKFCSYHVKTSFFHLC  S
+Heterocephalus glaber | NP_001431126.1 | RefSeq（NCBI Eukaryo LLEQLKEKFKKQKELSKFCSYHVKTSFFHLC  S
+Heterocephalus glaber | XP_021099395.2 | RefSeq（NCBI Eukaryo LLEQLKEKFKKQKELSKFCSYHVKTSFFHLC  S
+Heterocephalus glaber | XP_087063694.1 | RefSeq（NCBI Eukaryo MNQVLHERHQQGWH-------HAKCAIFHAC  -
+Heterocephalus glaber | A0AAX6RNK1 | UniProt TrEMBL          -------------------------------  -
+Heterocephalus glaber | A0AAX6RQ14 | UniProt TrEMBL          LVPAR--------------------------  -
+Heterocephalus glaber | A0AAX6RS70 | UniProt TrEMBL          LLEQLKEKFKKQKELSKFCSYHVKTSFFHLC  S
+Heterocephalus glaber | A0AAX6RSF6 | UniProt TrEMBL          LD-----------------------------  -
+Heterocephalus glaber | A0AAX6RTF7 | UniProt TrEMBL          LLEQLKEKFKKQKELSKFCSYHVKTSFFHLC  S
+Heterocephalus glaber | A0AAX6RUG7 | UniProt TrEMBL          -LKDSKIRTHQKVGKTSASAQNSATIG----  T
+Octodon degus | ENSODEP00000020478 | Ensembl（release 当前，comp LLEQLKKKFEKRKEMSKFCSYHVKTAFFHFC  S
+Octodon degus | XP_004623235.1 | RefSeq（NCBI Eukaryotic Anno LLEQLKKKFEKRKEMSKFCSYHVKTAFFHFC  S
+Octodon degus | XP_023564936.1 | RefSeq（NCBI Eukaryotic Anno -------------------------------  -
+Octodon degus | XP_023564946.1 | RefSeq（NCBI Eukaryotic Anno -------------------------------  -
+Octodon degus | A0A6P3ETQ9 | UniProt TrEMBL                  LLEQLKKKFEKRKEMSKFCSYHVKTAFFHFC  S
+Octodon degus | A0A6P6DY63 | UniProt TrEMBL                  -------------------------------  -
+Octodon degus | A0A6P6DY73 | UniProt TrEMBL                  -------------------------------  -
+
+== 人 K479（裸鼹鼠型 E）==
+Homo sapiens Q8N884                                          FDNCVTYFLQCLRTEKLENYFIPEFNLFSSN
+                                                                            ^
+Cavia porcellus | ENSCPOP00000009514 | Ensembl（release 当前，co FDECVAFFLERLRKEELQHFFIPGVNLFSQE  E
+Cavia porcellus | XP_003478309.1 | RefSeq（NCBI Eukaryotic An FDECVAFFLERLRKEELQHFFIPGVNLFSQE  E
+Cavia porcellus | XP_063082961.1 | RefSeq（NCBI Eukaryotic An -------------------------------  -
+Cavia porcellus | H0VH90 | UniProt TrEMBL                    FDECVAFFLERLRKEELQHFFIPGVNLFSQE  E
+Chinchilla lanigera | ENSCLAP00000019290 | Ensembl（release 当 FDDCVGFFLDRLKEEELKHFFIPEVNLFSPE  E
+Chinchilla lanigera | XP_005405385.2 | RefSeq（NCBI Eukaryoti FDDCVGFFLDRLKEEELKHFFIPEVNLFSPE  E
+Chinchilla lanigera | A0A8C2YS49 | UniProt TrEMBL            FDDCVGFFLDRLKEEELKHFFIPEVNLFSPE  E
+Ctenodactylus gundi | KAM5256511.1 | GenBank 提交者注释           FDKCVLFLLECLREETLKHFFIPGVNLFSKD  T
+Erethizon dorsatum | KAM6166271.1 | GenBank 提交者注释            FDDCVAFFLERLRKEELKHFFIPGVNLFSQE  E
+Fukomys damarensis | KFO37345.1 | GenBank 提交者注释              FDNCVAFFLERLRKEELEHYFIPGVNFFSQE  E
+Fukomys damarensis | XP_010639479.1 | RefSeq（NCBI Eukaryotic FDNCVAFFLERLRKEELEHYFIPGVNFFSQE  E
+Heterocephalus glaber | ENSHGLP00000001811 | Ensembl（release FDNCVEFFLERLRKEELEHYFIPGVNLLSQE  E
+Heterocephalus glaber | ENSHGLP00100057303.1 | Ensembl（雄性个体组 FDNCVEFFLERLRKEELEHYFIPGVNLFSQE  E
+Heterocephalus glaber | NP_001431126.1 | RefSeq（NCBI Eukaryo FDNCVEFFLERLRKEELEHYFIPGVNLFSQE  E
+Heterocephalus glaber | XP_021099395.2 | RefSeq（NCBI Eukaryo FDNCVEFFLERLRKEELEHYFIPGVNLLSQE  E
+Heterocephalus glaber | XP_087063694.1 | RefSeq（NCBI Eukaryo ---CEQFLIQAAHTRSLEHSY----------  S
+Heterocephalus glaber | A0AAX6RNK1 | UniProt TrEMBL          -------------------------------  -
+Heterocephalus glaber | A0AAX6RQ14 | UniProt TrEMBL          -------------------------------  -
+Heterocephalus glaber | A0AAX6RS70 | UniProt TrEMBL          FDNCVEFFLERLRKEELEHYFIPGVNLFSQE  E
+Heterocephalus glaber | A0AAX6RSF6 | UniProt TrEMBL          -------------------------------  -
+Heterocephalus glaber | A0AAX6RTF7 | UniProt TrEMBL          FDNCVEFFLERLRKEELEHYFIPGVNLFSQE  E
+Heterocephalus glaber | A0AAX6RUG7 | UniProt TrEMBL          -------------------------------  -
+Octodon degus | ENSODEP00000020478 | Ensembl（release 当前，comp FDTCVVFFIERLREEELKHFFIPEVNLFSQE  E
+Octodon degus | XP_004623235.1 | RefSeq（NCBI Eukaryotic Anno FDTCVVFFIERLREEELKHFFIPEVNLFSQE  E
+Octodon degus | XP_023564936.1 | RefSeq（NCBI Eukaryotic Anno -------------------------------  -
+Octodon degus | XP_023564946.1 | RefSeq（NCBI Eukaryotic Anno -------------------------------  -
+Octodon degus | A0A6P3ETQ9 | UniProt TrEMBL                  FDTCVVFFIERLREEELKHFFIPEVNLFSQE  E
+Octodon degus | A0A6P6DY63 | UniProt TrEMBL                  -------------------------------  -
+Octodon degus | A0A6P6DY73 | UniProt TrEMBL                  -------------------------------  -
+
+== 人 L495（裸鼹鼠型 Y）==
+Homo sapiens Q8N884                                          LENYFIPEFNLFSSNLIDKRSKEFLTKQIEY
+                                                                            ^
+Cavia porcellus | ENSCPOP00000009514 | Ensembl（release 当前，co LQHFFIPGVNLFSQEYIDTKSKIFLAKQIEY  Y
+Cavia porcellus | XP_003478309.1 | RefSeq（NCBI Eukaryotic An LQHFFIPGVNLFSQEYIDTKSKIFLAKQIEY  Y
+Cavia porcellus | XP_063082961.1 | RefSeq（NCBI Eukaryotic An -------------------------------  -
+Cavia porcellus | H0VH90 | UniProt TrEMBL                    LQHFFIPGVNLFSQEYIDTKSKIFLAKQIEY  Y
+Chinchilla lanigera | ENSCLAP00000019290 | Ensembl（release 当 LKHFFIPEVNLFSPEYINKRSKTFLEKQIEE  Y
+Chinchilla lanigera | XP_005405385.2 | RefSeq（NCBI Eukaryoti LKHFFIPEVNLFSPEYINKRSKTFLEKQIEE  Y
+Chinchilla lanigera | A0A8C2YS49 | UniProt TrEMBL            LKHFFIPEVNLFSPEYINKRSKTFLEKQIEE  Y
+Ctenodactylus gundi | KAM5256511.1 | GenBank 提交者注释           LKHFFIPGVNLFSKDHIDKPSKEFLLKQIEY  H
+Erethizon dorsatum | KAM6166271.1 | GenBank 提交者注释            LKHFFIPGVNLFSQEHIDTRSKTFLAEQIEY  H
+Fukomys damarensis | KFO37345.1 | GenBank 提交者注释              LEHYFIPGVNFFSQEYIDTKCKEFLAEKIEY  Y
+Fukomys damarensis | XP_010639479.1 | RefSeq（NCBI Eukaryotic LEHYFIPGVNFFSQEYIDTKCKEFLAEKIEY  Y
+Heterocephalus glaber | ENSHGLP00000001811 | Ensembl（release LEHYFIPGVNLLSQEYIDTKSKEFLAKKIEY  Y
+Heterocephalus glaber | ENSHGLP00100057303.1 | Ensembl（雄性个体组 LEHYFIPGVNLFSQEYIDTKSKEFLAKKIEY  Y
+Heterocephalus glaber | NP_001431126.1 | RefSeq（NCBI Eukaryo LEHYFIPGVNLFSQEYIDTKSKEFLAKKIEY  Y
+Heterocephalus glaber | XP_021099395.2 | RefSeq（NCBI Eukaryo LEHYFIPGVNLLSQEYIDTKSKEFLAKKIEY  Y
+Heterocephalus glaber | XP_087063694.1 | RefSeq（NCBI Eukaryo LEHSY--------------------------  -
+Heterocephalus glaber | A0AAX6RNK1 | UniProt TrEMBL          -------------------------------  -
+Heterocephalus glaber | A0AAX6RQ14 | UniProt TrEMBL          -------------------------------  -
+Heterocephalus glaber | A0AAX6RS70 | UniProt TrEMBL          LEHYFIPGVNLFSQEYIDTKSKEFLAKKIEY  Y
+Heterocephalus glaber | A0AAX6RSF6 | UniProt TrEMBL          -------------------------------  -
+Heterocephalus glaber | A0AAX6RTF7 | UniProt TrEMBL          LEHYFIPGVNLFSQEYIDTKSKEFLAKKIEY  Y
+Heterocephalus glaber | A0AAX6RUG7 | UniProt TrEMBL          -------------------------------  -
+Octodon degus | ENSODEP00000020478 | Ensembl（release 当前，comp LKHFFIPEVNLFSQEYIDQKSKTFLAKQIEY  Y
+Octodon degus | XP_004623235.1 | RefSeq（NCBI Eukaryotic Anno LKHFFIPEVNLFSQEYIDQKSKTFLAKQIEY  Y
+Octodon degus | XP_023564936.1 | RefSeq（NCBI Eukaryotic Anno -------------------------------  -
+Octodon degus | XP_023564946.1 | RefSeq（NCBI Eukaryotic Anno -------------------------------  -
+Octodon degus | A0A6P3ETQ9 | UniProt TrEMBL                  LKHFFIPEVNLFSQEYIDQKSKTFLAKQIEY  Y
+Octodon degus | A0A6P6DY63 | UniProt TrEMBL                  -------------------------------  -
+Octodon degus | A0A6P6DY73 | UniProt TrEMBL                  -------------------------------  -
+
+== 人 K498（裸鼹鼠型 T）==
+Homo sapiens Q8N884                                          YFIPEFNLFSSNLIDKRSKEFLTKQIEYERN
+                                                                            ^
+Cavia porcellus | ENSCPOP00000009514 | Ensembl（release 当前，co FFIPGVNLFSQEYIDTKSKIFLAKQIEYERN  T
+Cavia porcellus | XP_003478309.1 | RefSeq（NCBI Eukaryotic An FFIPGVNLFSQEYIDTKSKIFLAKQIEYERN  T
+Cavia porcellus | XP_063082961.1 | RefSeq（NCBI Eukaryotic An -------------------------------  -
+Cavia porcellus | H0VH90 | UniProt TrEMBL                    FFIPGVNLFSQEYIDTKSKIFLAKQIEYERN  T
+Chinchilla lanigera | ENSCLAP00000019290 | Ensembl（release 当 FFIPEVNLFSPEYINKRSKTFLEKQIEEERN  K
+Chinchilla lanigera | XP_005405385.2 | RefSeq（NCBI Eukaryoti FFIPEVNLFSPEYINKRSKTFLEKQIEEERN  K
+Chinchilla lanigera | A0A8C2YS49 | UniProt TrEMBL            FFIPEVNLFSPEYINKRSKTFLEKQIEEERN  K
+Ctenodactylus gundi | KAM5256511.1 | GenBank 提交者注释           FFIPGVNLFSKDHIDKPSKEFLLKQIEYERN  K
+Erethizon dorsatum | KAM6166271.1 | GenBank 提交者注释            FFIPGVNLFSQEHIDTRSKTFLAEQIEYERN  T
+Fukomys damarensis | KFO37345.1 | GenBank 提交者注释              YFIPGVNFFSQEYIDTKCKEFLAEKIEYERN  T
+Fukomys damarensis | XP_010639479.1 | RefSeq（NCBI Eukaryotic YFIPGVNFFSQEYIDTKCKEFLAEKIEYERN  T
+Heterocephalus glaber | ENSHGLP00000001811 | Ensembl（release YFIPGVNLLSQEYIDTKSKEFLAKKIEYERN  T
+Heterocephalus glaber | ENSHGLP00100057303.1 | Ensembl（雄性个体组 YFIPGVNLFSQEYIDTKSKEFLAKKIEYERN  T
+Heterocephalus glaber | NP_001431126.1 | RefSeq（NCBI Eukaryo YFIPGVNLFSQEYIDTKSKEFLAKKIEYERN  T
+Heterocephalus glaber | XP_021099395.2 | RefSeq（NCBI Eukaryo YFIPGVNLLSQEYIDTKSKEFLAKKIEYERN  T
+Heterocephalus glaber | XP_087063694.1 | RefSeq（NCBI Eukaryo SY-----------------------------  -
+Heterocephalus glaber | A0AAX6RNK1 | UniProt TrEMBL          -------------------------------  -
+Heterocephalus glaber | A0AAX6RQ14 | UniProt TrEMBL          -------------------------------  -
+Heterocephalus glaber | A0AAX6RS70 | UniProt TrEMBL          YFIPGVNLFSQEYIDTKSKEFLAKKIEYERN  T
+Heterocephalus glaber | A0AAX6RSF6 | UniProt TrEMBL          -------------------------------  -
+Heterocephalus glaber | A0AAX6RTF7 | UniProt TrEMBL          YFIPGVNLFSQEYIDTKSKEFLAKKIEYERN  T
+Heterocephalus glaber | A0AAX6RUG7 | UniProt TrEMBL          -------------------------------  -
+Octodon degus | ENSODEP00000020478 | Ensembl（release 当前，comp FFIPEVNLFSQEYIDQKSKTFLAKQIEYERN  Q
+Octodon degus | XP_004623235.1 | RefSeq（NCBI Eukaryotic Anno FFIPEVNLFSQEYIDQKSKTFLAKQIEYERN  Q
+Octodon degus | XP_023564936.1 | RefSeq（NCBI Eukaryotic Anno -------------------------------  -
+Octodon degus | XP_023564946.1 | RefSeq（NCBI Eukaryotic Anno -------------------------------  -
+Octodon degus | A0A6P3ETQ9 | UniProt TrEMBL                  FFIPEVNLFSQEYIDQKSKTFLAKQIEYERN  Q
+Octodon degus | A0A6P6DY63 | UniProt TrEMBL                  -------------------------------  -
+Octodon degus | A0A6P6DY73 | UniProt TrEMBL                  -------------------------------  -

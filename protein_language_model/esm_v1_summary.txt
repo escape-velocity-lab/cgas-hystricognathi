@@ -1,0 +1,122 @@
+## 人背景：4 个位点上裸鼹鼠型 LLR 在该位点「哺乳动物里出现过的非人型残基」中的位置
+D431S: LLR=+0.80；人型秩=4，裸鼹鼠型秩=2；自然出现过的非人型残基 7 种，LLR 中位数 -0.26，范围 [-1.01, +1.42]，裸鼹鼠型分位 0.71；19 种非人型全体中分位 0.89
+   模型最偏好的前 5：K(+1.42, 自然 8 种), S(+0.80, 自然 5 种), E(+0.72, 自然 33 种), D(+0.00, 自然 179 种), Q(-0.12, 自然 0 种)
+K479E: LLR=-2.12；人型秩=2，裸鼹鼠型秩=8；自然出现过的非人型残基 11 种，LLR 中位数 -1.45，范围 [-2.70, +0.03]，裸鼹鼠型分位 0.36；19 种非人型全体中分位 0.63
+   模型最偏好的前 5：N(+0.03, 自然 11 种), K(+0.00, 自然 45 种), R(-0.67, 自然 19 种), S(-1.21, 自然 4 种), Q(-1.28, 自然 118 种)
+L495Y: LLR=+0.03；人型秩=17，裸鼹鼠型秩=15；自然出现过的非人型残基 9 种，LLR 中位数 +0.94，范围 [-0.47, +2.22]，裸鼹鼠型分位 0.11；19 种非人型全体中分位 0.21
+   模型最偏好的前 5：K(+2.22, 自然 31 种), S(+1.92, 自然 0 种), N(+1.47, 自然 1 种), G(+1.33, 自然 0 种), R(+1.13, 自然 7 种)
+K498T: LLR=-1.63；人型秩=1，裸鼹鼠型秩=9；自然出现过的非人型残基 6 种，LLR 中位数 -1.25，范围 [-1.63, -0.42]，裸鼹鼠型分位 0.00；19 种非人型全体中分位 0.58
+   模型最偏好的前 5：K(+0.00, 自然 206 种), P(-0.42, 自然 1 种), S(-0.75, 自然 1 种), A(-1.05, 自然 0 种), R(-1.25, 自然 22 种)
+
+## 物种：可用且已打分 262 种，其中有 LQ 的 204 种
+
+### PLL/L 口径：整条（Spearman ρ, n）
+分布： {'count': 262.0, 'mean': -1.8348, 'std': 0.1501, 'min': -2.2877, '25%': -1.8997, '50%': -1.8602, '75%': -1.8193, 'max': -0.9347}
+与蛋白长度 ρ = (np.float64(0.128), 262)
+分目中位数（n≥5）：Chiroptera -1.705(n=29); Perissodactyla -1.796(n=6); Artiodactyla -1.837(n=58); Rodentia -1.860(n=50); Carnivora -1.883(n=47); Eulipotyphla -1.897(n=7); Primates -1.908(n=35); Diprotodontia -1.945(n=5)
+全体：LQ (np.float64(0.061), 204) | log10 最大寿命 (np.float64(-0.036), 205) | log10 体重 (np.float64(-0.131), 221)
+  Primates       目内：LQ (np.float64(-0.343), 26) | log10 寿命 (np.float64(-0.534), 26) | 长度 (np.float64(0.209), 35)
+  Rodentia       目内：LQ (np.float64(0.014), 38) | log10 寿命 (np.float64(-0.088), 39) | 长度 (np.float64(-0.093), 50)
+  Chiroptera     目内：LQ (np.float64(0.257), 22) | log10 寿命 (np.float64(-0.05), 22) | 长度 (np.float64(0.92), 29)
+  Artiodactyla   目内：LQ (np.float64(0.47), 43) | log10 寿命 (np.float64(0.609), 43) | 长度 (np.float64(0.205), 58)
+  Carnivora      目内：LQ (np.float64(-0.098), 42) | log10 寿命 (np.float64(-0.391), 42) | 长度 (np.float64(0.462), 47)
+按寿命分组中位数： {'中间': -1.8537, '短寿': -1.8534, '长寿': -1.8717}  n= {'中间': 71, '短寿': 72, '长寿': 61}
+最高 8 种：Tachyglossus aculeatus(Monotremata, L=1017, -0.935); Ornithorhynchus anatinus(Monotremata, L=926, -0.992); Myotis davidii(Chiroptera, L=801, -1.292); Myotis daubentonii(Chiroptera, L=751, -1.301); Pipistrellus hanaki(Chiroptera, L=785, -1.340); Sminthopsis crassicaudata(Dasyuromorphia, L=774, -1.341); Myotis myotis(Chiroptera, L=749, -1.347); Nycticebus coucang(Primates, L=695, -1.399)
+
+### PLL/L 口径：催化域161_522（Spearman ρ, n）
+分布： {'count': 262.0, 'mean': -1.6449, 'std': 0.061, 'min': -2.147, '25%': -1.6668, '50%': -1.6383, '75%': -1.6079, 'max': -1.4698}
+与蛋白长度 ρ = (np.float64(0.065), 262)
+分目中位数（n≥5）：Perissodactyla -1.608(n=6); Chiroptera -1.617(n=29); Artiodactyla -1.622(n=58); Carnivora -1.632(n=47); Rodentia -1.637(n=50); Primates -1.661(n=35); Diprotodontia -1.669(n=5); Eulipotyphla -1.673(n=7)
+全体：LQ (np.float64(0.106), 204) | log10 最大寿命 (np.float64(0.118), 205) | log10 体重 (np.float64(0.103), 221)
+  Primates       目内：LQ (np.float64(-0.056), 26) | log10 寿命 (np.float64(-0.208), 26) | 长度 (np.float64(-0.191), 35)
+  Rodentia       目内：LQ (np.float64(-0.159), 38) | log10 寿命 (np.float64(-0.21), 39) | 长度 (np.float64(0.013), 50)
+  Chiroptera     目内：LQ (np.float64(-0.11), 22) | log10 寿命 (np.float64(-0.246), 22) | 长度 (np.float64(0.325), 29)
+  Artiodactyla   目内：LQ (np.float64(0.594), 43) | log10 寿命 (np.float64(0.596), 43) | 长度 (np.float64(0.278), 58)
+  Carnivora      目内：LQ (np.float64(-0.24), 42) | log10 寿命 (np.float64(-0.533), 42) | 长度 (np.float64(0.575), 47)
+按寿命分组中位数： {'中间': -1.6328, '短寿': -1.6465, '长寿': -1.6373}  n= {'中间': 71, '短寿': 72, '长寿': 61}
+最高 8 种：Molossus molossus(Chiroptera, L=749, -1.470); Desmodus rotundus(Chiroptera, L=630, -1.533); Sturnira hondurensis(Chiroptera, L=548, -1.540); Phyllostomus discolor(Chiroptera, L=544, -1.548); Artibeus jamaicensis(Chiroptera, L=562, -1.553); Muscardinus avellanarius(Rodentia, L=684, -1.565); Myotis yumanensis(Chiroptera, L=683, -1.569); Cnephaeus nilssonii(Chiroptera, L=640, -1.571)
+
+### PLL/L 口径：位点窗421_508（Spearman ρ, n）
+分布： {'count': 262.0, 'mean': -1.8595, 'std': 0.0853, 'min': -2.0744, '25%': -1.9154, '50%': -1.8548, '75%': -1.8009, 'max': -1.5006}
+与蛋白长度 ρ = (np.float64(0.174), 262)
+分目中位数（n≥5）：Primates -1.794(n=35); Chiroptera -1.795(n=29); Rodentia -1.834(n=50); Artiodactyla -1.868(n=58); Eulipotyphla -1.871(n=7); Carnivora -1.894(n=47); Perissodactyla -1.915(n=6); Diprotodontia -1.942(n=5)
+全体：LQ (np.float64(0.152), 204) | log10 最大寿命 (np.float64(-0.011), 205) | log10 体重 (np.float64(-0.172), 221)
+  Primates       目内：LQ (np.float64(-0.255), 26) | log10 寿命 (np.float64(-0.213), 26) | 长度 (np.float64(-0.163), 35)
+  Rodentia       目内：LQ (np.float64(-0.384), 38) | log10 寿命 (np.float64(-0.399), 39) | 长度 (np.float64(-0.195), 50)
+  Chiroptera     目内：LQ (np.float64(0.18), 22) | log10 寿命 (np.float64(-0.086), 22) | 长度 (np.float64(0.531), 29)
+  Artiodactyla   目内：LQ (np.float64(0.454), 43) | log10 寿命 (np.float64(0.505), 43) | 长度 (np.float64(0.432), 58)
+  Carnivora      目内：LQ (np.float64(-0.187), 42) | log10 寿命 (np.float64(-0.489), 42) | 长度 (np.float64(0.526), 47)
+按寿命分组中位数： {'中间': -1.8584, '短寿': -1.8591, '长寿': -1.8276}  n= {'中间': 71, '短寿': 72, '长寿': 61}
+最高 8 种：Molossus molossus(Chiroptera, L=749, -1.501); Chinchilla lanigera(Rodentia, L=432, -1.649); Mus musculus(Rodentia, L=507, -1.689); Myotis lucifugus(Chiroptera, L=688, -1.700); Myotis yumanensis(Chiroptera, L=683, -1.702); Microtus oregoni(Rodentia, L=509, -1.706); Meriones unguiculatus(Rodentia, L=491, -1.708); Sturnira hondurensis(Chiroptera, L=548, -1.713)
+
+### S_nmr = Σ[log p(裸鼹鼠型) − log p(人型)]（在各物种自己的序列上，逐位遮住）
+S_nmr 分布： {'count': 262.0, 'mean': -1.678, 'std': 1.385, 'min': -4.743, '25%': -2.698, '50%': -2.119, '75%': -1.029, 'max': 3.371}
+S_nmr 与命中数 ρ = (np.float64(0.017), 262)
+按命中数 S_nmr 中位数： {0: -2.121, 1: -1.007, 3: -2.397, 4: -2.295}  n= {0: 247, 1: 10, 3: 2, 4: 3}
+S_nmr 与 LQ：全体 (np.float64(0.168), 204) | 豪猪亚目以外 (np.float64(0.185), 199) | 豪猪亚目以外 vs log10 寿命 (np.float64(-0.109), 200)
+  D431 单位点 nmr−人 与 LQ（豪猪亚目以外） (np.float64(0.237), 199) ；全体中位数 +0.96，>0 的物种比例 0.99
+  K479 单位点 nmr−人 与 LQ（豪猪亚目以外） (np.float64(0.085), 199) ；全体中位数 -1.74，>0 的物种比例 0.19
+  L495 单位点 nmr−人 与 LQ（豪猪亚目以外） (np.float64(-0.127), 199) ；全体中位数 +0.31，>0 的物种比例 0.78
+  K498 单位点 nmr−人 与 LQ（豪猪亚目以外） (np.float64(0.073), 199) ；全体中位数 -1.56，>0 的物种比例 0.01
+按寿命分组 S_nmr 中位数： {'中间': -2.282, '短寿': -2.426, '长寿': -1.665}
+
+### 模型对各物种「自己现有残基」的评价（在自己序列上遮住该位）
+D431: 自身残基秩 中位数 4，秩=1 的比例 0.02，秩 ≤3 的比例 0.19
+K479: 自身残基秩 中位数 4，秩=1 的比例 0.14，秩 ≤3 的比例 0.35
+L495: 自身残基秩 中位数 11，秩=1 的比例 0.10，秩 ≤3 的比例 0.11
+K498: 自身残基秩 中位数 2，秩=1 的比例 0.31，秩 ≤3 的比例 0.79
+
+### S_nmr 最高 12 种
+                         物种            目                 科    LQ  裸鼹鼠型命中数 D431_残基 K479_残基 L495_残基 K498_残基  S_nmr  PLL_per_res  PLL_per_res_催化域161_522  PLL_per_res_位点窗421_508
+          Molossus molossus   Chiroptera        Molossidae 0.780        0       T       Y       K       R 3.3707     -1.47938                -1.46984                -1.50059
+   Ornithorhynchus anatinus  Monotremata Ornithorhynchidae 1.544        0       D       Q       Q       K 1.9694     -0.99247                -1.63729                -1.94237
+        Cynocephalus volans   Dermoptera    Cynocephalidae   NaN        0       D       Q       Q       K 1.9500     -1.89792                -1.63101                -1.75851
+              Acomys minous     Rodentia           Muridae   NaN        0       E       N       L       Q 1.4724     -1.86971                -1.67726                -1.90612
+Odobenus rosmarus divergens    Carnivora        Odobenidae   NaN        0       D       Q       Q       K 1.3905     -1.90027                -1.63378                -1.93343
+           Mirounga leonina    Carnivora          Phocidae   NaN        0       D       Q       Q       K 1.2930     -1.89186                -1.63342                -1.88921
+             Phoca vitulina    Carnivora          Phocidae 1.588        0       D       Q       Q       K 1.2809     -1.88903                -1.63239                -1.88462
+         Halichoerus grypus    Carnivora          Phocidae 1.252        0       D       Q       Q       K 1.2764     -1.88805                -1.63285                -1.88406
+    Mirounga angustirostris    Carnivora          Phocidae   NaN        0       D       Q       Q       K 1.2640     -1.88989                -1.63066                -1.88901
+     Chrysochloris asiatica Afrosoricida   Chrysochloridae   NaN        0       D       Q       Q       K 1.2634     -1.98842                -1.67439                -1.87074
+     Zalophus californianus    Carnivora         Otariidae 1.109        0       D       Q       Q       K 1.2417     -1.88342                -1.62180                -1.89393
+         Eumetopias jubatus    Carnivora         Otariidae 0.893        0       D       Q       Q       K 1.2063     -1.88037                -1.62393                -1.89506
+
+### S_nmr 最低 8 种
+                   物种            目               科    LQ  裸鼹鼠型命中数 D431_残基 K479_残基 L495_残基 K498_残基   S_nmr  PLL_per_res  PLL_per_res_催化域161_522  PLL_per_res_位点窗421_508
+   Nannospalax galili     Rodentia      Spalacidae 1.912        1       D       K       L       T -4.7427     -1.72576                -1.67159                -1.71831
+           Mus caroli     Rodentia         Muridae   NaN        0       D       K       L       P -4.4770     -1.83457                -1.60436                -1.76890
+           Mus pahari     Rodentia         Muridae   NaN        0       D       K       L       Q -4.0288     -1.88250                -1.60173                -1.83509
+         Mus musculus     Rodentia         Muridae 0.525        0       D       K       L       R -3.8357     -1.82135                -1.57468                -1.68924
+        Rattus rattus     Rodentia         Muridae 0.384        0       D       K       L       K -3.6052     -1.84003                -1.62124                -1.74286
+Balaenoptera musculus Artiodactyla Balaenopteridae 1.195        0       D       Q       D       K -3.5952     -1.80883                -1.60449                -1.81421
+    Rattus norvegicus     Rodentia         Muridae 0.326        0       D       K       L       K -3.5601     -1.83142                -1.61259                -1.74155
+  Apodemus sylvaticus     Rodentia         Muridae 0.809        0       D       K       L       Q -3.5354     -1.83295                -1.59880                -1.75295
+
+### 豪猪亚目 + 对照
+                   物种        目             科    LQ  裸鼹鼠型命中数 D431_残基 K479_残基 L495_残基 K498_残基   S_nmr  PLL_per_res  PLL_per_res_催化域161_522  PLL_per_res_位点窗421_508
+         Homo sapiens Primates     Hominidae 4.507        0       D       K       L       K -2.9247     -1.93272                -1.65874                -1.79311
+   Fukomys damarensis Rodentia  Bathyergidae 1.440        4       S       E       Y       T -2.2952     -1.86936                -1.64089                -1.86447
+Heterocephalus glaber Rodentia  Bathyergidae 3.735        4       S       E       Y       T -2.8130     -1.81489                -1.68152                -1.82249
+      Cavia porcellus Rodentia      Caviidae 0.893        4       S       E       Y       T -0.4211     -1.77650                -1.63833                -1.83370
+  Chinchilla lanigera Rodentia Chinchillidae 1.306        3       S       E       Y       K -1.6796     -1.75667                -1.65067                -1.64933
+         Mus musculus Rodentia       Muridae 0.525        0       D       K       L       R -3.8357     -1.82135                -1.57468                -1.68924
+    Rattus norvegicus Rodentia       Muridae 0.326        0       D       K       L       K -3.5601     -1.83142                -1.61259                -1.74155
+        Octodon degus Rodentia  Octodontidae 1.247        3       S       E       Y       Q -3.1139     -1.82438                -1.70299                -1.93339
+   Nannospalax galili Rodentia    Spalacidae 1.912        1       D       K       L       T -4.7427     -1.72576                -1.67159                -1.71831
+
+### LQ 最高 12 种
+                       物种          目                科    LQ  裸鼹鼠型命中数 D431_残基 K479_残基 L495_残基 K498_残基   S_nmr  PLL_per_res  PLL_per_res_催化域161_522  PLL_per_res_位点窗421_508
+         Myotis lucifugus Chiroptera Vespertilionidae 4.996        0       G       N       K       R -2.1206     -1.47548                -1.57480                -1.69980
+ Rhinolophus hipposideros Chiroptera    Rhinolophidae 4.886        0       D       D       L       R  0.1938     -1.87172                -1.64966                -1.87632
+            Myotis myotis Chiroptera Vespertilionidae 4.616        0       G       N       K       R -1.7892     -1.34741                -1.59937                -1.77003
+         Plecotus auritus Chiroptera Vespertilionidae 4.585        0       G       C       K       R -1.7733     -1.67646                -1.61134                -1.79461
+             Homo sapiens   Primates        Hominidae 4.507        0       D       K       L       K -2.9247     -1.93272                -1.65874                -1.79311
+       Myotis daubentonii Chiroptera Vespertilionidae 4.222        0       G       N       K       R -1.5338     -1.30137                -1.61711                -1.75047
+Rhinolophus ferrumequinum Chiroptera    Rhinolophidae 3.931        0       D       D       L       R -0.3010     -1.90366                -1.65630                -1.88366
+    Heterocephalus glaber   Rodentia     Bathyergidae 3.735        4       S       E       Y       T -2.8130     -1.81489                -1.68152                -1.82249
+         Myotis nattereri Chiroptera Vespertilionidae 3.645        0       G       N       K       R -1.6333     -1.53906                -1.61676                -1.75100
+        Desmodus rotundus Chiroptera   Phyllostomidae 3.547        0       K       S       E       K -1.2636     -1.55447                -1.53311                -1.77937
+ Miniopterus schreibersii Chiroptera    Miniopteridae 3.101        0       D       H       K       R -0.3916     -1.70519                -1.73607                -1.83788
+          Pteropus medius Chiroptera     Pteropodidae 3.037        0       N       H       Q       K  0.4000     -1.90129                -1.64813                -1.98255
+
+未打分 / 不可用：6 种；其中未打分 0： []

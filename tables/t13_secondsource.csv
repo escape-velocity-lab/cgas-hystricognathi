@@ -1,0 +1,30 @@
+﻿物种,来源,accession,说明,长度,431,479,495,498,命中,本序列中的位置
+Cavia porcellus,Ensembl（release 当前，compara 直系同源）,ENSCPOP00000009514,ortholog_one2one,387,S,E,Y,T,4,296/344/360/363
+Cavia porcellus,RefSeq（NCBI Eukaryotic Annotation Pipeline）,XP_003478309.1,Cgas [organism=Cavia porcellus] [GeneID=100713978] [isoform=X1],472,S,E,Y,T,4,381/429/445/448
+Cavia porcellus,RefSeq（NCBI Eukaryotic Annotation Pipeline）,XP_063082961.1,Cgas [organism=Cavia porcellus] [GeneID=100713978] [isoform=X2],243,-,-,-,-,0,None/None/None/None
+Cavia porcellus,UniProt TrEMBL,H0VH90,Uncharacterized protein OS=Cavia porcellus OX=10141 GN=Cgas PE=3 SV=2,387,S,E,Y,T,4,296/344/360/363
+Chinchilla lanigera,Ensembl（release 当前，compara 直系同源）,ENSCLAP00000019290,ortholog_one2one,357,S,E,Y,K,3,266/314/330/333
+Chinchilla lanigera,RefSeq（NCBI Eukaryotic Annotation Pipeline）,XP_005405385.2,Cgas [organism=Chinchilla lanigera] [GeneID=102009194],432,S,E,Y,K,3,341/389/405/408
+Chinchilla lanigera,UniProt TrEMBL,A0A8C2YS49,Cyclic GMP-AMP synthase OS=Chinchilla lanigera OX=34839 GN=Cgas PE=3 SV=2,357,S,E,Y,K,3,266/314/330/333
+Ctenodactylus gundi,GenBank 提交者注释,KAM5256511.1,cyclic GMP-AMP synthase [Ctenodactylus gundi],471,C,T,H,K,0,380/428/444/447
+Erethizon dorsatum,GenBank 提交者注释,KAM6166271.1,cyclic GMP-AMP synthase [Erethizon dorsatum],489,T,E,H,T,2,398/446/462/465
+Fukomys damarensis,GenBank 提交者注释,KFO37345.1,Protein MB21D1 [Fukomys damarensis],455,S,E,Y,T,4,364/412/428/431
+Fukomys damarensis,RefSeq（NCBI Eukaryotic Annotation Pipeline）,XP_010639479.1,Cgas [organism=Fukomys damarensis] [GeneID=104874185],481,S,E,Y,T,4,390/438/454/457
+Heterocephalus glaber,Ensembl（release 当前，compara 直系同源）,ENSHGLP00000001811,ortholog_one2one,554,S,E,Y,T,4,463/511/527/530
+Heterocephalus glaber,Ensembl（雄性个体组装 HetGla_1.0）,ENSHGLP00100057303.1,ENSHGLG00100034506,554,S,E,Y,T,4,463/511/527/530
+Heterocephalus glaber,RefSeq（NCBI Eukaryotic Annotation Pipeline）,NP_001431126.1,Cgas [organism=Heterocephalus glaber] [GeneID=101717623],530,S,E,Y,T,4,439/487/503/506
+Heterocephalus glaber,RefSeq（NCBI Eukaryotic Annotation Pipeline）,XP_021099395.2,Cgas [organism=Heterocephalus glaber] [GeneID=101717623] [isoform=X2],475,S,E,Y,T,4,384/432/448/451
+Heterocephalus glaber,RefSeq（NCBI Eukaryotic Annotation Pipeline）,XP_087063694.1,Cgas [organism=Heterocephalus glaber] [GeneID=101717623] [isoform=X1],518,-,S,-,-,0,None/513/None/None
+Heterocephalus glaber,UniProt TrEMBL,A0AAX6RNK1,Cyclic GMP-AMP synthase isoform X6 OS=Heterocephalus glaber OX=10181 GN=Mb21d1 P,308,-,-,-,-,0,None/None/None/None
+Heterocephalus glaber,UniProt TrEMBL,A0AAX6RQ14,Cyclic GMP-AMP synthase isoform X5 OS=Heterocephalus glaber OX=10181 GN=Mb21d1 P,450,-,-,-,-,0,None/None/None/None
+Heterocephalus glaber,UniProt TrEMBL,A0AAX6RS70,Cyclic GMP-AMP synthase isoform X1 OS=Heterocephalus glaber OX=10181 GN=Mb21d1 P,554,S,E,Y,T,4,463/511/527/530
+Heterocephalus glaber,UniProt TrEMBL,A0AAX6RSF6,Cyclic GMP-AMP synthase isoform X4 OS=Heterocephalus glaber OX=10181 GN=Mb21d1 P,461,-,-,-,-,0,None/None/None/None
+Heterocephalus glaber,UniProt TrEMBL,A0AAX6RTF7,Cyclic GMP-AMP synthase isoform X2 OS=Heterocephalus glaber OX=10181 GN=Mb21d1 P,475,S,E,Y,T,4,384/432/448/451
+Heterocephalus glaber,UniProt TrEMBL,A0AAX6RUG7,Cyclic GMP-AMP synthase isoform X3 OS=Heterocephalus glaber OX=10181 GN=Mb21d1 P,464,T,-,-,-,0,453/None/None/None
+Octodon degus,Ensembl（release 当前，compara 直系同源）,ENSODEP00000020478,ortholog_one2one,459,S,E,Y,Q,3,368/416/432/435
+Octodon degus,RefSeq（NCBI Eukaryotic Annotation Pipeline）,XP_004623235.1,Cgas [organism=Octodon degus] [GeneID=101577880] [isoform=X1],514,S,E,Y,Q,3,423/471/487/490
+Octodon degus,RefSeq（NCBI Eukaryotic Annotation Pipeline）,XP_023564936.1,Cgas [organism=Octodon degus] [GeneID=101577880] [isoform=X2],306,-,-,-,-,0,None/None/None/None
+Octodon degus,RefSeq（NCBI Eukaryotic Annotation Pipeline）,XP_023564946.1,Cgas [organism=Octodon degus] [GeneID=101577880] [isoform=X3],237,-,-,-,-,0,None/None/None/None
+Octodon degus,UniProt TrEMBL,A0A6P3ETQ9,Cyclic GMP-AMP synthase isoform X1 OS=Octodon degus OX=10160 GN=Cgas PE=3 SV=1,514,S,E,Y,Q,3,423/471/487/490
+Octodon degus,UniProt TrEMBL,A0A6P6DY63,Cyclic GMP-AMP synthase isoform X2 OS=Octodon degus OX=10160 GN=Cgas PE=4 SV=1,306,-,-,-,-,0,None/None/None/None
+Octodon degus,UniProt TrEMBL,A0A6P6DY73,Cyclic GMP-AMP synthase isoform X3 OS=Octodon degus OX=10160 GN=Cgas PE=4 SV=1,237,-,-,-,-,0,None/None/None/None

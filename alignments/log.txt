@@ -1,0 +1,6 @@
+！CDS 未找到 Lipotes vexillifer XP_007458461.1
+物种 279；4 位点核对 vs #13：全部一致
+全长覆盖 <30% 剔除： []
+上树缺失（剔除）： ['Balaenoptera ricei', 'Bubalus kerabau', 'Cervus canadensis', 'Pteronotus mesoamericanus']
+豪猪亚目冠群 23 种：['Capromys pilorides', 'Cavia porcellus', 'Cavia tschudii', 'Chinchilla lanigera', 'Coendou prehensilis', 'Ctenomys sociabilis', 'Cuniculus paca', 'Dasyprocta punctata', 'Dinomys branickii', 'Dolichotis patagonum', 'Erethizon dorsatum', 'Fukomys anselli', 'Fukomys damarensis', 'Heterocephalus glaber', 'Hydrochoerus hydrochaeris', 'Hystrix brachyura', 'Hystrix cristata', 'Myocastor coypus', 'Octodon degus', 'Octomys mimax', 'Petromus typicus', 'Thryonomys swinderianus', 'Tympanoctomys barrerae']
+输出：275 条 × 522 密码子 → results/t17_codon/aln.fasta；树 tree_fg.nwk（45 条前景枝，含冠群主干）

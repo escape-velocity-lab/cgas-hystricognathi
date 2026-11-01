@@ -1,0 +1,282 @@
+﻿物种,科,目,来源,431,479,495,498,最大寿命_年,成年体重_g,LQ,寿命来源,命中
+Chrysochloris asiatica,Chrysochloridae,Afrosoricida,RefSeq XP_006835851.1,D,Q,Q,K,,,,,0
+Echinops telfairi,Tenrecidae,Afrosoricida,RefSeq XP_012859170.1,D,H,K,K,19.0,180.0,1.766,taxid 精确,0
+Tenrec ecaudatus,Tenrecidae,Afrosoricida,RefSeq XP_075411011.1,D,R,K,K,8.7,900.0,0.626,taxid 精确,0
+Eubalaena glacialis,Balaenidae,Artiodactyla,RefSeq XP_061063255.1,D,Q,H,K,67.0,23000000.0,0.965,taxid 精确,0
+Balaenoptera acutorostrata,Balaenopteridae,Artiodactyla,RefSeq XP_057383692.1,D,Q,Q,K,50.0,7500000.0,0.86,taxid 精确,0
+Balaenoptera borealis,Balaenopteridae,Artiodactyla,RefSeq XP_082261209.1,D,Q,R,K,74.0,20000000.0,1.09,taxid 精确,0
+Balaenoptera musculus,Balaenopteridae,Artiodactyla,RefSeq XP_036728067.1,D,Q,D,K,110.0,136000000.0,1.195,taxid 精确,0
+Balaenoptera physalus,Balaenopteridae,Artiodactyla,RefSeq XP_082330350.1,D,Q,H,K,114.0,70000000.0,1.376,taxid 精确,0
+Balaenoptera ricei,Balaenopteridae,Artiodactyla,RefSeq XP_059798090.1,D,Q,R,K,,,,,0
+Bison bison,Bovidae,Artiodactyla,RefSeq XP_010849577.1,D,H,E,K,33.5,630000.0,0.854,taxid 精确,0
+Bos grunniens,Bovidae,Artiodactyla,RefSeq XP_086172925.1,D,H,E,K,26.3,667000.0,0.664,taxid 精确,0
+Bos indicus,Bovidae,Artiodactyla,RefSeq XP_019822589.2,D,H,E,K,,,,,0
+Bos javanicus,Bovidae,Artiodactyla,RefSeq XP_061283191.1,D,H,E,K,27.1,700000.0,0.679,taxid 精确,0
+Bos mutus,Bovidae,Artiodactyla,RefSeq XP_070232292.1,D,H,E,K,,,,,0
+Bos taurus,Bovidae,Artiodactyla,RefSeq XP_002690066.3,D,H,E,K,20.0,750000.0,0.496,taxid 精确,0
+Bubalus bubalis,Bovidae,Artiodactyla,RefSeq XP_025150664.1,D,H,E,K,34.9,725000.0,0.87,taxid 精确,0
+Bubalus kerabau,Bovidae,Artiodactyla,RefSeq XP_055390774.1,D,H,E,K,,,,,0
+Budorcas taxicolor,Bovidae,Artiodactyla,RefSeq XP_052502024.1,D,H,K,K,21.9,180000.0,0.681,taxid 精确,0
+Capra hircus,Bovidae,Artiodactyla,RefSeq XP_013821781.2,D,H,K,K,20.8,61000.0,0.767,taxid 精确,0
+Capricornis sumatraensis,Bovidae,Artiodactyla,RefSeq XP_068841455.1,D,H,K,K,18.5,95000.0,0.636,taxid 精确,0
+Oryx dammah,Bovidae,Artiodactyla,RefSeq XP_040094971.1,D,H,K,K,27.5,177500.0,0.857,taxid 精确,0
+Ovis aries,Bovidae,Artiodactyla,RefSeq XP_027828083.1,D,H,K,K,22.8,80000.0,0.806,taxid 精确,0
+Ovis canadensis,Bovidae,Artiodactyla,RefSeq XP_069455039.1,D,H,K,K,20.6,70275.0,0.743,taxid 精确,0
+Camelus bactrianus,Camelidae,Artiodactyla,RefSeq XP_074202443.1,T,Q,Q,K,35.4,475000.0,0.943,taxid 精确,0
+Camelus dromedarius,Camelidae,Artiodactyla,RefSeq XP_031303608.1,T,Q,Q,K,28.4,434000.0,0.768,taxid 精确,0
+Camelus ferus,Camelidae,Artiodactyla,RefSeq XP_032316213.1,T,Q,Q,K,,,,,0
+Vicugna pacos,Camelidae,Artiodactyla,RefSeq XP_072798729.1,T,Q,Q,K,25.8,62000.0,0.949,taxid 精确,0
+Cervus canadensis,Cervidae,Artiodactyla,RefSeq XP_043295040.1,D,R,E,K,,,,,0
+Cervus elaphus,Cervidae,Artiodactyla,RefSeq XP_043746143.1,D,R,E,K,31.5,200000.0,0.963,taxid 精确,0
+Dama dama,Cervidae,Artiodactyla,RefSeq XP_060988007.1,D,R,E,K,27.0,70000.0,0.975,taxid 精确,0
+Muntiacus reevesi,Cervidae,Artiodactyla,RefSeq XP_065767746.1,D,R,E,K,23.2,18000.0,1.039,taxid 精确,0
+Odocoileus virginianus,Cervidae,Artiodactyla,RefSeq XP_070336897.1,D,R,E,K,23.0,87000.0,0.802,taxid 精确,0
+Aethalodelphis obliquidens,Delphinidae,Artiodactyla,RefSeq XP_026948254.1,D,Q,H,K,46.0,103000.0,1.562,taxid 精确,0
+Delphinus delphis,Delphinidae,Artiodactyla,RefSeq XP_059886341.1,D,Q,H,K,25.0,80000.0,0.884,taxid 精确,0
+Globicephala melas,Delphinidae,Artiodactyla,RefSeq XP_030715163.1,D,Q,H,K,60.0,1060000.0,1.408,taxid 精确,0
+Grampus griseus,Delphinidae,Artiodactyla,RefSeq XP_082525035.1,D,Q,H,K,42.5,425000.0,1.153,taxid 精确,0
+Lagenorhynchus albirostris,Delphinidae,Artiodactyla,RefSeq XP_060023479.1,D,Q,H,K,,,,,0
+Leucopleurus acutus,Delphinidae,Artiodactyla,RefSeq XP_082711474.1,D,Q,H,K,27.0,208000.0,0.82,taxid 精确,0
+Orcinus orca,Delphinidae,Artiodactyla,RefSeq XP_033284517.1,D,Q,H,K,90.0,3987500.0,1.711,taxid 精确,0
+Pseudorca crassidens,Delphinidae,Artiodactyla,RefSeq XP_067558876.1,D,Q,H,K,62.5,748000.0,1.55,taxid 精确,0
+Stenella coeruleoalba,Delphinidae,Artiodactyla,RefSeq XP_079795880.1,D,Q,H,K,57.5,112500.0,1.925,taxid 精确,0
+Tursiops truncatus,Delphinidae,Artiodactyla,RefSeq XP_019784845.1,D,Q,H,K,51.6,200000.0,1.577,taxid 精确,0
+Eschrichtius robustus,Eschrichtiidae,Artiodactyla,RefSeq XP_068407709.1,D,Q,H,K,77.0,28500000.0,1.072,taxid 精确,0
+Giraffa tippelskirchi,Giraffidae,Artiodactyla,RefSeq XP_081386214.1,D,H,E,K,,,,,0
+Hippopotamus amphibius,Hippopotamidae,Artiodactyla,RefSeq XP_057596342.1,D,Q,H,K,61.2,3750000.0,1.175,taxid 精确,0
+Lipotes vexillifer,Lipotidae,Artiodactyla,RefSeq XP_007458461.1,D,Q,H,K,24.0,83500.0,0.842,taxid 精确,0
+Delphinapterus leucas,Monodontidae,Artiodactyla,RefSeq XP_022446094.1,D,Q,H,K,40.0,1430000.0,0.895,taxid 精确,0
+Monodon monoceros,Monodontidae,Artiodactyla,RefSeq XP_029079180.1,D,Q,H,K,50.0,1250000.0,1.143,taxid 精确,0
+Moschus berezovskii,Moschidae,Artiodactyla,RefSeq XP_088697050.1,D,R,Q,K,,12000.0,,taxid 精确,0
+Neophocaena asiaeorientalis,Phocoenidae,Artiodactyla,RefSeq XP_024587658.1,D,Q,R,K,,,,,0
+Phocoena phocoena,Phocoenidae,Artiodactyla,RefSeq XP_065745041.1,D,Q,R,K,20.4,52500.0,0.771,taxid 精确,0
+Phocoena sinus,Phocoenidae,Artiodactyla,RefSeq XP_032507834.1,D,Q,R,K,,,,,0
+Kogia breviceps,Physeteridae,Artiodactyla,RefSeq XP_058891944.1,D,Q,H,K,17.0,424600.0,0.461,taxid 精确,0
+Physeter macrocephalus,Physeteridae,Artiodactyla,RefSeq XP_007116559.2,G,Q,H,K,77.0,28500000.0,1.072,taxid 精确,0
+Phacochoerus africanus,Suidae,Artiodactyla,RefSeq XP_047619814.1,A,Q,L,K,30.0,100000.0,1.023,taxid 精确,0
+Sus scrofa,Suidae,Artiodactyla,RefSeq NP_001431575.1,A,Q,L,K,27.0,130000.0,0.884,taxid 精确,0
+Hyperoodon ampullatus,Ziphiidae,Artiodactyla,RefSeq XP_079572453.1,D,Q,H,K,37.0,6500000.0,0.651,taxid 精确,0
+Mesoplodon bidens,Ziphiidae,Artiodactyla,RefSeq XP_081107019.1,D,Q,H,K,,,,,0
+Mesoplodon densirostris,Ziphiidae,Artiodactyla,RefSeq XP_059971098.1,D,Q,H,K,,1088000.0,,taxid 精确,0
+Mesoplodon mirus,Ziphiidae,Artiodactyla,RefSeq XP_082489467.1,D,Q,H,K,,,,,0
+Canis aureus,Canidae,Carnivora,RefSeq XP_077759505.1,D,Q,Q,K,18.8,11000.0,0.91,taxid 精确,0
+Canis lupus,Canidae,Carnivora,RefSeq XP_038348166.1,D,Q,Q,K,20.6,26625.0,0.867,taxid 精确,0
+Nyctereutes procyonoides,Canidae,Carnivora,RefSeq XP_055186578.1,D,Q,Q,K,16.6,6500.0,0.873,taxid 精确,0
+Vulpes lagopus,Canidae,Carnivora,RefSeq XP_041587901.1,D,Q,Q,K,16.3,5200.0,0.889,taxid 精确,0
+Vulpes vulpes,Canidae,Carnivora,RefSeq XP_025863154.1,D,Q,Q,K,21.3,4131.7,1.204,taxid 精确,0
+Acinonyx jubatus,Felidae,Carnivora,RefSeq XP_026913206.1,D,H,Q,K,20.5,53500.0,0.772,taxid 精确,0
+Felis catus,Felidae,Carnivora,RefSeq XP_006931905.2,D,H,Q,K,30.0,3900.0,1.712,taxid 精确,0
+Herpailurus yagouaroundi,Felidae,Carnivora,RefSeq XP_040329888.1,D,H,Q,K,18.6,7000.0,0.967,taxid 精确,0
+Leopardus geoffroyi,Felidae,Carnivora,RefSeq XP_045354722.1,D,H,Q,K,23.0,4000.0,1.307,taxid 精确,0
+Lynx canadensis,Felidae,Carnivora,RefSeq XP_030171704.1,D,H,Q,K,26.8,10100.0,1.315,taxid 精确,0
+Lynx rufus,Felidae,Carnivora,RefSeq XP_046958807.1,D,H,Q,K,32.3,8600.0,1.626,taxid 精确,0
+Neofelis nebulosa,Felidae,Carnivora,RefSeq XP_058590451.1,D,H,Q,K,19.8,19500.0,0.875,taxid 精确,0
+Panthera leo,Felidae,Carnivora,RefSeq XP_042793272.1,D,H,Q,K,28.0,175000.0,0.874,taxid 精确,0
+Panthera onca,Felidae,Carnivora,RefSeq XP_060471926.2,D,H,Q,K,28.0,81150.0,0.987,taxid 精确,0
+Panthera pardus,Felidae,Carnivora,RefSeq XP_019273283.1,D,H,Q,K,27.3,53750.0,1.028,taxid 精确,0
+Panthera tigris,Felidae,Carnivora,RefSeq XP_007090173.2,D,H,Q,K,26.3,119700.0,0.872,taxid 精确,0
+Panthera uncia,Felidae,Carnivora,RefSeq XP_049509857.1,D,H,Q,K,21.2,50000.0,0.807,taxid 精确,0
+Prionailurus bengalensis,Felidae,Carnivora,RefSeq XP_043447748.1,D,H,Q,K,17.0,5000.0,0.933,taxid 精确,0
+Prionailurus viverrinus,Felidae,Carnivora,RefSeq XP_047716730.1,D,H,Q,K,17.2,10650.0,0.837,taxid 精确,0
+Puma concolor,Felidae,Carnivora,RefSeq XP_025781607.2,D,H,Q,K,27.0,63000.0,0.991,taxid 精确,0
+Suricata suricatta,Herpestidae,Carnivora,RefSeq XP_029801253.1,E,H,Q,K,20.6,776.0,1.518,taxid 精确,0
+Crocuta crocuta,Hyaenidae,Carnivora,RefSeq XP_077626599.1,E,H,Q,K,41.1,63000.0,1.509,taxid 精确,0
+Hyaena hyaena,Hyaenidae,Carnivora,RefSeq XP_039104861.1,E,H,Q,K,25.0,40000.0,0.986,taxid 精确,0
+Enhydra lutris,Mustelidae,Carnivora,RefSeq XP_022366539.1,E,Q,Q,K,27.0,25850.0,1.141,taxid 精确,0
+Lontra canadensis,Mustelidae,Carnivora,RefSeq XP_032720253.1,E,Q,Q,K,27.0,9000.0,1.349,taxid 精确,0
+Lutra lutra,Mustelidae,Carnivora,RefSeq XP_047591117.1,E,Q,Q,K,18.2,6750.0,0.952,taxid 精确,0
+Martes martes,Mustelidae,Carnivora,RefSeq XP_080662054.1,E,Q,Q,K,18.2,1300.0,1.236,taxid 精确,0
+Meles meles,Mustelidae,Carnivora,RefSeq XP_045860290.1,E,Q,Q,K,18.6,13000.0,0.877,taxid 精确,0
+Mustela erminea,Mustelidae,Carnivora,RefSeq XP_032196362.1,E,Q,Q,K,12.5,110.3,1.255,taxid 精确,0
+Mustela lutreola,Mustelidae,Carnivora,RefSeq XP_059034444.1,E,Q,Q,K,8.4,590.0,0.647,taxid 精确,0
+Mustela nigripes,Mustelidae,Carnivora,RefSeq XP_059255001.1,E,Q,Q,K,9.4,1021.0,0.663,taxid 精确,0
+Mustela nivalis,Mustelidae,Carnivora,RefSeq XP_082585908.1,E,Q,Q,K,9.1,46.9,1.047,taxid 精确,0
+Mustela putorius,Mustelidae,Carnivora,RefSeq XP_004770785.1,E,Q,Q,K,11.1,809.0,0.813,taxid 精确,0
+Neogale vison,Mustelidae,Carnivora,RefSeq XP_044093833.1,E,Q,Q,K,11.4,925.0,0.817,taxid 精确,0
+Odobenus rosmarus,Odobenidae,Carnivora,RefSeq XP_004413146.1,D,Q,Q,K,,1012500.0,,taxid 精确,0
+Callorhinus ursinus,Otariidae,Carnivora,RefSeq XP_025746606.1,D,Q,Q,K,,165500.0,,taxid 精确,0
+Eumetopias jubatus,Otariidae,Carnivora,RefSeq XP_027953511.1,D,Q,Q,K,32.8,415000.0,0.893,taxid 精确,0
+Zalophus californianus,Otariidae,Carnivora,RefSeq XP_027457575.1,D,Q,Q,K,35.7,180000.0,1.109,taxid 精确,0
+Halichoerus grypus,Phocidae,Carnivora,RefSeq XP_035956996.1,D,Q,Q,K,42.9,268000.0,1.252,taxid 精确,0
+Mirounga angustirostris,Phocidae,Carnivora,RefSeq XP_064453843.1,D,Q,Q,K,,1600000.0,,taxid 精确,0
+Mirounga leonina,Phocidae,Carnivora,RefSeq XP_034846699.1,D,Q,Q,K,,1400000.0,,taxid 精确,0
+Neomonachus schauinslandi,Phocidae,Carnivora,RefSeq XP_021549191.1,D,Q,Q,K,,222500.0,,taxid 精确,0
+Phoca vitulina,Phocidae,Carnivora,RefSeq XP_032265352.1,D,Q,Q,K,47.6,115000.0,1.588,taxid 精确,0
+Ailuropoda melanoleuca,Ursidae,Carnivora,RefSeq XP_034504022.1,D,Q,Q,K,36.8,117500.0,1.224,taxid 精确,0
+Ursus americanus,Ursidae,Carnivora,RefSeq XP_045659619.2,D,Q,Q,K,34.0,154250.0,1.083,taxid 精确,0
+Ursus arctos,Ursidae,Carnivora,RefSeq XP_026362868.2,D,Q,Q,K,40.0,277500.0,1.161,taxid 精确,0
+Ursus maritimus,Ursidae,Carnivora,RefSeq XP_008683129.2,D,Q,Q,K,43.8,475000.0,1.167,taxid 精确,0
+Saccopteryx bilineata,Emballonuridae,Chiroptera,RefSeq XP_066109089.1,A,H,Q,K,6.0,7.9,0.915,taxid 精确,0
+Saccopteryx leptura,Emballonuridae,Chiroptera,RefSeq XP_066217459.1,A,H,Q,K,,,,,0
+Miniopterus natalensis,Miniopteridae,Chiroptera,RefSeq XP_087673269.1,D,H,K,R,,,,,0
+Miniopterus schreibersii,Miniopteridae,Chiroptera,RefSeq XP_080996942.1,D,H,K,R,22.0,13.0,3.101,taxid 精确,0
+Molossus molossus,Molossidae,Chiroptera,RefSeq XP_036104657.1,T,Y,K,R,5.6,14.0,0.78,taxid 精确,0
+Pteronotus mesoamericanus,Mormoopidae,Chiroptera,RefSeq XP_054424813.1,K,S,H,K,,,,,0
+Artibeus jamaicensis,Phyllostomidae,Chiroptera,RefSeq XP_037003247.2,K,H,E,K,19.2,42.2,2.245,taxid 精确,0
+Desmodus rotundus,Phyllostomidae,Chiroptera,RefSeq XP_024432361.3,K,S,E,K,29.2,33.2,3.547,taxid 精确,0
+Phyllostomus discolor,Phyllostomidae,Chiroptera,RefSeq XP_028366018.1,K,S,K,K,9.0,43.4,1.048,taxid 精确,0
+Phyllostomus hastatus,Phyllostomidae,Chiroptera,RefSeq XP_045699325.1,K,R,K,K,18.0,81.0,1.898,taxid 精确,0
+Sturnira hondurensis,Phyllostomidae,Chiroptera,RefSeq XP_036890200.1,K,H,E,K,,,,,0
+Pteropus alecto,Pteropodidae,Chiroptera,RefSeq XP_006926445.1,N,H,Q,K,20.3,672.1,1.531,taxid 精确,0
+Pteropus medius,Pteropodidae,Chiroptera,RefSeq XP_039709140.1,N,H,Q,K,44.0,1175.0,3.037,taxid 精确,0
+Pteropus vampyrus,Pteropodidae,Chiroptera,RefSeq XP_011379319.1,N,H,Q,K,20.9,872.0,1.512,taxid 精确,0
+Rousettus aegyptiacus,Pteropodidae,Chiroptera,RefSeq XP_015997158.2,N,H,Q,K,22.9,125.0,2.255,taxid 精确,0
+Rhinolophus ferrumequinum,Rhinolophidae,Chiroptera,RefSeq XP_032958426.1,D,D,L,R,30.5,22.875,3.931,taxid 精确,0
+Rhinolophus hipposideros,Rhinolophidae,Chiroptera,RefSeq XP_080887375.1,D,D,L,R,29.4,4.6,4.886,taxid 精确,0
+Rhinolophus sinicus,Rhinolophidae,Chiroptera,RefSeq XP_019604830.3,E,D,H,R,,,,,0
+Cnephaeus nilssonii,Vespertilionidae,Chiroptera,RefSeq XP_079636011.1,G,R,K,R,20.0,13.0,2.819,taxid 精确,0
+Eptesicus fuscus,Vespertilionidae,Chiroptera,RefSeq XP_054578538.1,G,C,K,R,19.0,23.0,2.447,taxid 精确,0
+Myotis daubentonii,Vespertilionidae,Chiroptera,RefSeq XP_059557163.1,G,N,K,R,28.0,8.5,4.222,taxid 精确,0
+Myotis davidii,Vespertilionidae,Chiroptera,RefSeq XP_006772261.1,G,N,K,R,,,,,0
+Myotis lucifugus,Vespertilionidae,Chiroptera,RefSeq XP_006089414.1,G,N,K,R,34.0,10.0,4.996,taxid 精确,0
+Myotis myotis,Vespertilionidae,Chiroptera,RefSeq XP_036173430.1,G,N,K,R,37.1,28.55,4.616,taxid 精确,0
+Myotis nattereri,Vespertilionidae,Chiroptera,RefSeq XP_080950635.1,G,N,K,R,23.7,7.5,3.645,taxid 精确,0
+Myotis yumanensis,Vespertilionidae,Chiroptera,RefSeq XP_070275435.1,G,N,K,R,14.0,6.25,2.216,taxid 精确,0
+Pipistrellus hanaki,Vespertilionidae,Chiroptera,RefSeq XP_084745358.1,G,R,K,R,,,,,0
+Pipistrellus kuhlii,Vespertilionidae,Chiroptera,RefSeq XP_045428572.1,G,C,K,R,8.0,6.0,1.275,taxid 精确,0
+Plecotus auritus,Vespertilionidae,Chiroptera,RefSeq XP_080521231.1,G,C,K,R,30.0,7.8,4.585,taxid 精确,0
+Antechinus flavipes,Dasyuridae,Dasyuromorphia,RefSeq XP_051853228.1,N,Q,L,K,3.9,45.0,0.451,taxid 精确,0
+Sarcophilus harrisii,Dasyuridae,Dasyuromorphia,RefSeq XP_003769257.1,N,Q,L,K,13.0,6500.0,0.684,taxid 精确,0
+Sminthopsis crassicaudata,Dasyuridae,Dasyuromorphia,RefSeq XP_074166592.1,K,Q,L,K,5.0,15.0,0.689,taxid 精确,0
+Cynocephalus volans,Cynocephalidae,Dermoptera,RefSeq XP_062954526.1,D,Q,Q,K,,1300.0,,taxid 精确,0
+Galeopterus variegatus,Cynocephalidae,Dermoptera,RefSeq XP_008577119.1,D,Q,Q,K,,,,,0
+Gracilinanus agilis,Didelphidae,Didelphimorphia,RefSeq XP_044531298.1,D,Q,L,K,6.1,22.0,0.791,taxid 精确,0
+Monodelphis domestica,Didelphidae,Didelphimorphia,RefSeq XP_001373479.1,D,Q,L,T,5.1,105.0,0.516,taxid 精确,1
+Notamacropus eugenii,Macropodidae,Diprotodontia,RefSeq XP_072498705.1,D,Q,L,K,15.1,6500.0,0.795,taxid 精确,0
+Petaurus breviceps,Petauridae,Diprotodontia,RefSeq XP_068923130.1,D,Q,L,K,17.8,110.0,1.788,taxid 精确,0
+Trichosurus vulpecula,Phalangeridae,Diprotodontia,RefSeq XP_036624812.1,D,Q,L,K,15.9,2395.0,0.98,taxid 精确,0
+Phascolarctos cinereus,Phascolarctidae,Diprotodontia,RefSeq XP_020855801.1,E,Q,L,K,22.1,9300.0,1.099,taxid 精确,0
+Vombatus ursinus,Vombatidae,Diprotodontia,RefSeq XP_027708778.1,K,Q,L,K,30.0,25500.0,1.271,taxid 精确,0
+Erinaceus europaeus,Erinaceidae,Eulipotyphla,RefSeq XP_060061368.1,D,S,R,Q,11.7,750.0,0.867,taxid 精确,0
+Sorex araneus,Soricidae,Eulipotyphla,RefSeq XP_004606035.2,E,Q,L,K,3.2,9.0,0.478,taxid 精确,0
+Sorex fumeus,Soricidae,Eulipotyphla,RefSeq XP_055965929.1,E,Q,L,K,,7.5,,taxid 精确,0
+Suncus etruscus,Soricidae,Eulipotyphla,RefSeq XP_049633594.1,E,K,L,S,3.2,2.1,0.602,taxid 精确,0
+Condylura cristata,Talpidae,Eulipotyphla,RefSeq XP_004674105.1,D,Q,Q,K,2.5,55.3,0.28,taxid 精确,0
+Talpa europaea,Talpidae,Eulipotyphla,RefSeq XP_084114811.1,D,N,Q,R,,92.5,,taxid 精确,0
+Talpa occidentalis,Talpidae,Eulipotyphla,RefSeq XP_037374640.1,D,N,Q,R,,,,,0
+Oryctolagus cuniculus,Leporidae,Lagomorpha,RefSeq XP_051711481.2,G,Q,K,K,13.0,1800.0,0.838,taxid 精确,0
+Ochotona curzoniae,Ochotonidae,Lagomorpha,RefSeq XP_040839566.1,D,C,Q,K,,,,,0
+Ochotona princeps,Ochotonidae,Lagomorpha,RefSeq XP_004580610.2,D,R,Q,K,7.0,100.0,0.714,taxid 精确,0
+Elephantulus edwardii,Macroscelididae,Macroscelidea,RefSeq XP_006902945.1,D,Q,Q,R,,50.0,,taxid 精确,0
+Dromiciops gliroides,Microbiotheriidae,Microbiotheria,RefSeq XP_043820423.1,D,Q,F,K,,24.05,,taxid 精确,0
+Ornithorhynchus anatinus,Ornithorhynchidae,Monotremata,RefSeq XP_028918680.1,D,Q,Q,K,22.6,1250.0,1.544,taxid 精确,0
+Tachyglossus aculeatus,Tachyglossidae,Monotremata,RefSeq XP_038601728.1,D,Q,Q,K,49.5,3500.0,2.873,taxid 精确,0
+Macrotis lagotis,Peramelidae,Peramelemorphia,RefSeq XP_074046111.1,D,K,L,K,9.6,1300.0,0.652,taxid 精确,0
+Equus asinus,Equidae,Perissodactyla,RefSeq XP_044613034.2,D,R,Q,K,47.0,164998.0,1.481,taxid 精确,0
+Equus caballus,Equidae,Perissodactyla,RefSeq XP_014589284.2,D,R,Q,K,57.0,300000.0,1.634,taxid 精确,0
+Equus przewalskii,Equidae,Perissodactyla,RefSeq XP_008535543.2,D,R,Q,K,,,,,0
+Equus quagga,Equidae,Perissodactyla,RefSeq XP_046532466.1,D,R,Q,K,38.0,280000.0,1.101,taxid 精确,0
+Ceratotherium simum,Rhinocerotidae,Perissodactyla,RefSeq XP_014636528.2,D,R,Q,K,45.0,2175000.0,0.942,taxid 精确,0
+Diceros bicornis,Rhinocerotidae,Perissodactyla,RefSeq XP_058422753.1,D,R,Q,K,57.0,1100000.0,1.329,taxid 精确,0
+Choloepus didactylus,Megalonychidae,Pilosa,RefSeq XP_037699315.1,D,E,Q,K,36.8,6250.0,1.948,taxid 精确,1
+Tamandua tetradactyla,Myrmecophagidae,Pilosa,RefSeq XP_077018352.1,T,E,K,K,19.0,4500.0,1.06,taxid 精确,1
+Aotus nancymaae,Aotidae,Primates,RefSeq XP_021525974.1,D,K,L,K,,,,,0
+Callithrix jacchus,Cebidae,Primates,RefSeq XP_008992911.3,D,K,L,K,22.8,255.2,2.005,taxid 精确,0
+Cebus imitator,Cebidae,Primates,RefSeq XP_017379836.1,D,K,L,K,,,,,0
+Saimiri boliviensis,Cebidae,Primates,RefSeq XP_074254150.1,D,K,L,K,30.3,615.0,2.317,taxid 精确,0
+Sapajus apella,Cebidae,Primates,RefSeq XP_032131405.1,D,K,L,K,46.0,2642.5,2.792,taxid 精确,0
+Cercocebus atys,Cercopithecidae,Primates,RefSeq XP_011922823.1,D,Q,L,K,,,,,0
+Chlorocebus sabaeus,Cercopithecidae,Primates,RefSeq XP_008011680.2,D,K,L,T,,,,,1
+Colobus angolensis,Cercopithecidae,Primates,RefSeq XP_011799826.1,E,K,L,K,35.3,8625.0,1.776,taxid 精确,0
+Macaca fascicularis,Cercopithecidae,Primates,RefSeq XP_015304668.3,D,Q,L,K,39.0,6362.5,2.059,taxid 精确,0
+Macaca mulatta,Cercopithecidae,Primates,RefSeq XP_001109400.2,D,Q,L,K,40.0,8235.0,2.027,taxid 精确,0
+Macaca nemestrina,Cercopithecidae,Primates,RefSeq XP_011735712.2,D,Q,L,K,37.6,7912.5,1.918,taxid 精确,0
+Macaca thibetana,Cercopithecidae,Primates,RefSeq XP_050642465.1,D,Q,L,K,27.0,10300.0,1.321,taxid 精确,0
+Mandrillus leucophaeus,Cercopithecidae,Primates,RefSeq XP_011842510.1,D,Q,L,K,39.0,18250.0,1.742,taxid 精确,0
+Papio anubis,Cercopithecidae,Primates,RefSeq NP_001162411.1,D,K,L,K,,,,,0
+Piliocolobus tephrosceles,Cercopithecidae,Primates,RefSeq XP_023075011.1,E,K,L,K,,,,,0
+Rhinopithecus bieti,Cercopithecidae,Primates,RefSeq XP_017726826.1,E,K,L,K,,9960.0,,taxid 精确,0
+Rhinopithecus roxellana,Cercopithecidae,Primates,RefSeq XP_010370516.2,E,K,L,K,29.5,14750.0,1.363,taxid 精确,0
+Theropithecus gelada,Cercopithecidae,Primates,RefSeq XP_025237119.1,D,K,L,K,36.0,16200.0,1.639,taxid 精确,0
+Trachypithecus francoisi,Cercopithecidae,Primates,RefSeq XP_033073562.1,E,K,L,K,26.3,7325.0,1.358,taxid 精确,0
+Microcebus murinus,Cheirogaleidae,Primates,RefSeq XP_075859302.1,D,Q,Q,K,18.2,64.8,1.989,taxid 精确,0
+Otolemur garnettii,Galagidae,Primates,RefSeq XP_023368910.1,D,Q,Q,K,20.0,1300.0,1.358,taxid 精确,0
+Gorilla gorilla,Hominidae,Primates,RefSeq XP_018885803.1,D,R,L,K,60.1,139842.0,1.944,taxid 精确,0
+Homo sapiens,Hominidae,Primates,RefSeq NP_612450.2,D,K,L,K,122.5,62035.0,4.507,taxid 精确,0
+Pan paniscus,Hominidae,Primates,RefSeq XP_034818270.3,D,K,L,K,55.0,39925.0,2.17,taxid 精确,0
+Pan troglodytes,Hominidae,Primates,RefSeq XP_009449827.1,D,K,L,K,68.0,44983.5,2.633,taxid 精确,0
+Pongo abelii,Hominidae,Primates,RefSeq XP_002817108.2,D,Q,L,K,59.0,64475.0,2.158,借用近缘种（AnAge 只有婆罗洲猩猩记录，苏门答腊猩猩 2001 年才拆分为独立种）,0
+Pongo pygmaeus,Hominidae,Primates,RefSeq XP_054348969.1,D,Q,L,K,59.0,64475.0,2.158,taxid 精确,0
+Hylobates moloch,Hylobatidae,Primates,RefSeq XP_032009051.2,D,Q,L,K,45.0,6207.5,2.385,taxid 精确,0
+Nomascus leucogenys,Hylobatidae,Primates,RefSeq XP_012358279.2,D,Q,L,K,44.1,6000.0,2.35,taxid 精确,0
+Symphalangus syndactylus,Hylobatidae,Primates,RefSeq XP_055112100.1,D,Q,L,K,43.0,10900.0,2.085,taxid 精确,0
+Propithecus coquereli,Indriidae,Primates,RefSeq XP_012501490.1,D,Q,Q,K,,,,,0
+Eulemur rufifrons,Lemuridae,Primates,RefSeq XP_069344477.1,D,Q,Q,K,,,,,0
+Lemur catta,Lemuridae,Primates,RefSeq XP_045398218.1,D,Q,Q,K,37.3,2555.0,2.276,taxid 精确,0
+Nycticebus coucang,Lorisidae,Primates,RefSeq XP_053457139.1,D,Q,Q,K,25.8,890.5,1.861,taxid 精确,0
+Carlito syrichta,Tarsiidae,Primates,RefSeq XP_021567148.1,D,E,Q,K,16.0,119.2,1.587,taxid 精确,1
+Elephas maximus,Elephantidae,Proboscidea,RefSeq XP_049751449.1,N,Q,E,K,79.6,3178000.0,1.569,taxid 精确,0
+Loxodonta africana,Elephantidae,Proboscidea,RefSeq XP_003404158.1,N,Q,E,K,65.0,4800000.0,1.2,taxid 精确,0
+Fukomys damarensis,Bathyergidae,Rodentia,RefSeq XP_010639479.1,S,E,Y,T,15.5,180.0,1.44,taxid 精确,4
+Heterocephalus glaber,Bathyergidae,Rodentia,RefSeq NP_001431126.1,S,E,Y,T,31.0,35.0,3.735,taxid 精确,4
+Castor canadensis,Castoridae,Rodentia,RefSeq XP_073935270.1,N,K,N,K,23.4,20250.0,1.028,taxid 精确,0
+Cavia porcellus,Caviidae,Rodentia,RefSeq XP_003478309.1,S,E,Y,T,12.0,728.0,0.893,taxid 精确,4
+Chinchilla lanigera,Chinchillidae,Rodentia,RefSeq XP_005405385.2,S,E,Y,K,17.2,642.5,1.306,taxid 精确,3
+Alexandromys fortis,Cricetidae,Rodentia,RefSeq XP_049982442.1,E,K,L,Q,,,,,0
+Arvicola amphibius,Cricetidae,Rodentia,RefSeq XP_038178899.1,E,K,L,Q,2.5,120.0,0.248,taxid 精确,0
+Chionomys nivalis,Cricetidae,Rodentia,RefSeq XP_057624078.1,E,K,L,Q,,,,,0
+Cricetulus griseus,Cricetidae,Rodentia,RefSeq XP_003503244.1,D,K,L,Q,,,,,0
+Mesocricetus auratus,Cricetidae,Rodentia,RefSeq XP_040596007.1,D,T,L,Q,3.9,105.0,0.395,taxid 精确,0
+Microtus ochrogaster,Cricetidae,Rodentia,RefSeq XP_005347755.1,E,K,L,Q,5.3,40.0,0.625,taxid 精确,0
+Microtus oregoni,Cricetidae,Rodentia,RefSeq XP_041535673.1,E,K,L,Q,,,,,0
+Microtus pennsylvanicus,Cricetidae,Rodentia,RefSeq XP_075821257.1,E,K,L,Q,,49.0,,taxid 精确,0
+Myodes glareolus,Cricetidae,Rodentia,RefSeq XP_048291669.3,D,K,L,Q,4.9,20.8,0.641,taxid 精确,0
+Onychomys torridus,Cricetidae,Rodentia,RefSeq XP_036049919.1,D,K,E,Q,4.6,22.0,0.597,taxid 精确,0
+Peromyscus californicus,Cricetidae,Rodentia,RefSeq XP_052571015.1,D,K,E,Q,5.5,42.0,0.644,taxid 精确,0
+Peromyscus eremicus,Cricetidae,Rodentia,RefSeq XP_059124252.1,D,K,E,Q,7.4,25.0,0.94,taxid 精确,0
+Peromyscus leucopus,Cricetidae,Rodentia,RefSeq XP_037064125.1,D,K,E,Q,7.9,23.0,1.017,taxid 精确,0
+Peromyscus maniculatus,Cricetidae,Rodentia,RefSeq XP_006995151.3,D,K,E,Q,8.3,20.5,1.088,taxid 精确,0
+Phodopus roborovskii,Cricetidae,Rodentia,RefSeq XP_051034859.1,D,K,L,K,4.8,,,taxid 精确,0
+Jaculus jaculus,Dipodidae,Rodentia,RefSeq XP_045015985.1,D,I,K,K,7.3,55.0,0.819,taxid 精确,0
+Muscardinus avellanarius,Gliridae,Rodentia,RefSeq XP_080556200.1,D,Q,E,K,5.3,27.3,0.664,taxid 精确,0
+Dipodomys merriami,Heteromyidae,Rodentia,RefSeq XP_069868271.1,N,K,R,N,9.7,42.0,1.135,taxid 精确,0
+Dipodomys ordii,Heteromyidae,Rodentia,RefSeq XP_012890746.1,N,N,K,N,9.9,57.0,1.104,taxid 精确,0
+Dipodomys spectabilis,Heteromyidae,Rodentia,RefSeq XP_042543041.1,N,K,K,N,12.7,145.0,1.221,taxid 精确,0
+Perognathus longimembris,Heteromyidae,Rodentia,RefSeq XP_048210449.1,N,K,K,R,8.3,8.0,1.264,taxid 精确,0
+Acomys minous,Muridae,Rodentia,RefSeq XP_084608392.1,E,N,L,Q,,62.5,,taxid 精确,0
+Acomys russatus,Muridae,Rodentia,RefSeq XP_050996092.1,E,N,L,Q,,54.4,,taxid 精确,0
+Apodemus sylvaticus,Muridae,Rodentia,RefSeq XP_052043723.1,D,K,L,Q,6.3,23.4,0.809,taxid 精确,0
+Arvicanthis niloticus,Muridae,Rodentia,RefSeq XP_034340251.1,D,E,L,Q,6.7,110.0,0.673,taxid 精确,1
+Grammomys surdaster,Muridae,Rodentia,RefSeq XP_028642181.1,D,E,L,Q,,,,,1
+Meriones unguiculatus,Muridae,Rodentia,RefSeq XP_021512156.2,D,K,L,K,6.3,53.2,0.71,taxid 精确,0
+Micromys minutus,Muridae,Rodentia,RefSeq XP_080790280.1,E,R,L,Q,3.8,6.0,0.606,taxid 精确,0
+Mus caroli,Muridae,Rodentia,RefSeq XP_021029031.1,D,K,L,P,,11.2,,taxid 精确,0
+Mus musculus,Muridae,Rodentia,RefSeq NP_775562.2,D,K,L,R,4.0,20.5,0.525,taxid 精确,0
+Mus pahari,Muridae,Rodentia,RefSeq XP_021063666.1,D,K,L,Q,,,,,0
+Psammomys obesus,Muridae,Rodentia,RefSeq XP_055458477.1,D,K,L,K,3.2,212.0,0.29,taxid 精确,0
+Rattus norvegicus,Muridae,Rodentia,RefSeq NP_001431125.1,D,K,L,K,3.8,300.0,0.326,taxid 精确,0
+Rattus rattus,Muridae,Rodentia,RefSeq XP_032765735.1,D,K,L,K,4.2,200.0,0.384,taxid 精确,0
+Octodon degus,Octodontidae,Rodentia,RefSeq XP_004623235.1,S,E,Y,Q,14.0,235.0,1.247,taxid 精确,3
+Callospermophilus lateralis,Sciuridae,Rodentia,RefSeq XP_076716116.1,D,Q,H,K,10.4,157.6,0.987,taxid 精确,0
+Ictidomys tridecemlineatus,Sciuridae,Rodentia,RefSeq XP_077875852.1,D,Q,H,K,7.9,172.7,0.739,taxid 精确,0
+Marmota flaviventris,Sciuridae,Rodentia,RefSeq XP_027784144.2,D,Q,H,K,21.2,3500.0,1.231,taxid 精确,0
+Marmota marmota,Sciuridae,Rodentia,RefSeq XP_015343391.1,D,Q,H,K,17.4,3500.0,1.01,taxid 精确,0
+Marmota monax,Sciuridae,Rodentia,RefSeq XP_046298973.1,D,Q,H,K,14.0,4000.0,0.796,taxid 精确,0
+Sciurus carolinensis,Sciuridae,Rodentia,RefSeq XP_047414467.1,D,Q,Y,K,23.6,533.0,1.846,taxid 精确,1
+Sciurus vulgaris,Sciuridae,Rodentia,RefSeq XP_079002660.1,D,Q,Y,K,14.8,600.0,1.136,taxid 精确,1
+Spermophilus citellus,Sciuridae,Rodentia,RefSeq XP_081151200.1,D,Q,H,K,6.7,217.0,0.604,taxid 精确,0
+Urocitellus parryii,Sciuridae,Rodentia,RefSeq XP_026247147.2,D,Q,H,K,,,,,0
+Nannospalax galili,Spalacidae,Rodentia,RefSeq XP_008844336.1,D,K,L,T,20.2,160.0,1.912,借用近缘种（AnAge 只有 S. ehrenbergi 复合种记录，N. galili 是从该复合种拆出的种）,1
+Tupaia belangeri,Tupaiidae,Scandentia,RefSeq XP_027624028.1,D,Q,K,K,11.1,200.0,1.014,taxid 精确,0
+Trichechus manatus,Trichechidae,Sirenia,RefSeq XP_004381446.1,N,Q,Q,K,69.0,322000.0,1.955,taxid 精确,0
+Orycteropus afer,Orycteropodidae,Tubulidentata,RefSeq XP_007943407.1,D,Q,L,K,29.8,60000.0,1.102,taxid 精确,0
+Erethizon dorsatum,Erethizontidae,Rodentia,GenBank KAM6166271.1,T,E,H,T,23.4,8600.0,1.178,AnAge acceptable（异名 Erethizon dorsatus）,2
+Ctenodactylus gundi,Ctenodactylidae,Rodentia,GenBank KAM5256511.1,C,T,H,K,5.8,288.8,0.5,AnAge acceptable,0
+Cavia aperea,Caviidae,Rodentia,tblastn AVPZ01（GCA_000688575.1）,S,?,?,?,6.0,341.0,0.504,AnAge high,1
+Thryonomys swinderianus,Thryonomyidae,Rodentia,tblastn BAAFGX01（GCA_041154305.1）,S,E,N,T,5.4,6600.0,0.283,AnAge acceptable,3
+Coendou prehensilis,Erethizontidae,Rodentia,tblastn JAPYYN01（GCA_028534165.1）,T,E,H,T,26.6,3900.0,1.518,AnAge acceptable,2
+Fukomys anselli,Bathyergidae,Rodentia,tblastn JBPETH01（GCA_053478225.1）,S,E,Y,T,20.6,90.0,2.137,AnAge acceptable（异名 Cryptomys anselli）,4
+Octomys mimax,Octodontidae,Rodentia,tblastn NDGM01（GCA_002564305.1）,S,E,Y,Q,,,,,3
+Tympanoctomys barrerae,Octodontidae,Rodentia,tblastn NDGN01（GCA_002564285.1）,S,E,Y,Q,,,,,3
+Petromus typicus,Petromuridae,Rodentia,tblastn PVIR01（GCA_004026965.1）,S,E,N,T,,,,,3
+Myocastor coypus,Echimyidae,Rodentia,tblastn PVJA01（GCA_004027025.1）,S,E,H,R,19.0,7850.0,0.97,AnAge acceptable,2
+Hystrix cristata,Hystricidae,Rodentia,tblastn PVJO01（GCA_004026905.1）,S,E,H,T,28.0,20000.0,1.233,AnAge acceptable,3
+Dolichotis patagonum,Caviidae,Rodentia,tblastn PVJX01（GCA_004027295.1）,S,E,H,T,14.4,12500.0,0.683,AnAge high,3
+Ctenomys sociabilis,Ctenomyidae,Rodentia,tblastn PVKA01（GCA_004027165.1）,S,E,Y,Q,,,,,3
+Cavia tschudii,Caviidae,Rodentia,tblastn PVKK01（GCA_004027695.1）,S,E,Y,T,6.3,637.5,0.479,AnAge acceptable,4
+Capromys pilorides,Echimyidae,Rodentia,tblastn PVKN01（GCA_004027915.1）,S,E,Y,R,13.8,4683.3,0.765,AnAge acceptable,3
+Hydrochoerus hydrochaeris,Caviidae,Rodentia,tblastn PVLA01（GCA_004027455.1）,S,E,H,T,15.1,55000.0,0.566,AnAge high,3
+Dinomys branickii,Dinomyidae,Rodentia,tblastn PVLD01（GCA_004027595.1）,S,E,H,K,12.8,12250.0,0.609,AnAge acceptable,2
+Hystrix brachyura,Hystricidae,Rodentia,tblastn QZML01（GCA_016801275.1）,S,E,H,T,27.3,8000.0,1.39,AnAge acceptable,3
+Dasyprocta punctata,Dasyproctidae,Rodentia,tblastn RJWM01（GCA_004363535.1）,S,E,D,T,13.8,2150.0,0.865,AnAge acceptable,3
+Cuniculus paca,Cuniculidae,Rodentia,tblastn RJWT01（GCA_004365215.1）,S,E,N,K,16.3,9000.0,0.815,AnAge acceptable,2

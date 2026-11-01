@@ -1,0 +1,142 @@
+{
+  "chen_n_species": 18,
+  "chen_overlap_with_us": 18,
+  "chen_sites_agree": 18,
+  "chen_4of4": [
+    "Naked mole-rat",
+    "Damaraland mole-rat"
+  ],
+  "chen_3of4": [
+    "Chinchilla",
+    "Degu"
+  ],
+  "chen_hystricognath_rows": [
+    "Naked mole-rat",
+    "Damaraland mole-rat",
+    "Chinchilla",
+    "Degu"
+  ],
+  "chen_has_cavia": false,
+  "chen_lifespan_vs_anage": {
+    "Naked mole-rat": [
+      37,
+      31.0
+    ],
+    "Damaraland mole-rat": [
+      20,
+      15.5
+    ],
+    "Degu": [
+      8,
+      14.0
+    ],
+    "Rat": [
+      5,
+      3.8
+    ]
+  },
+  "nonrodent_taxa": 211,
+  "nonrodent_site431_nmr_n": 0,
+  "nonrodent_site431_nmr_species": [],
+  "nonrodent_site479_nmr_n": 3,
+  "nonrodent_site479_nmr_species": [
+    "Choloepus didactylus",
+    "Tamandua tetradactyla",
+    "Carlito syrichta"
+  ],
+  "nonrodent_site495_nmr_n": 0,
+  "nonrodent_site495_nmr_species": [],
+  "nonrodent_site498_nmr_n": 2,
+  "nonrodent_site498_nmr_species": [
+    "Monodelphis domestica",
+    "Chlorocebus sabaeus"
+  ],
+  "nonrodent_max_hits": 1,
+  "nonrodent_hits_ge2": 0,
+  "nonrodent_LQge2_n": 30,
+  "nonrodent_LQge2_with_hit": [],
+  "hyst_taxa": 24,
+  "hyst_4of4": [
+    "Fukomys damarensis",
+    "Heterocephalus glaber",
+    "Cavia porcellus",
+    "Fukomys anselli",
+    "Cavia tschudii"
+  ],
+  "hyst_3of4": [
+    "Chinchilla lanigera",
+    "Octodon degus",
+    "Thryonomys swinderianus",
+    "Octomys mimax",
+    "Tympanoctomys barrerae",
+    "Petromus typicus",
+    "Hystrix cristata",
+    "Dolichotis patagonum",
+    "Ctenomys sociabilis",
+    "Capromys pilorides",
+    "Hydrochoerus hydrochaeris",
+    "Hystrix brachyura",
+    "Dasyprocta punctata"
+  ],
+  "hyst_families": [
+    "Bathyergidae",
+    "Caviidae",
+    "Chinchillidae",
+    "Ctenomyidae",
+    "Cuniculidae",
+    "Dasyproctidae",
+    "Dinomyidae",
+    "Echimyidae",
+    "Erethizontidae",
+    "Hystricidae",
+    "Octodontidae",
+    "Petromuridae",
+    "Thryonomyidae"
+  ],
+  "cavia_rows": [
+    {
+      "物种": "Cavia porcellus",
+      "431": "S",
+      "479": "E",
+      "495": "Y",
+      "498": "T",
+      "最大寿命_年": 12.0,
+      "LQ": 0.893,
+      "命中": 4
+    },
+    {
+      "物种": "Cavia aperea",
+      "431": "S",
+      "479": "?",
+      "495": "?",
+      "498": "?",
+      "最大寿命_年": 6.0,
+      "LQ": 0.504,
+      "命中": 1
+    },
+    {
+      "物种": "Cavia tschudii",
+      "431": "S",
+      "479": "E",
+      "495": "Y",
+      "498": "T",
+      "最大寿命_年": 6.3,
+      "LQ": 0.479,
+      "命中": 4
+    }
+  ],
+  "degu_chinchilla": [
+    {
+      "物种": "Chinchilla lanigera",
+      "最大寿命_年": 17.2,
+      "LQ": 1.306,
+      "命中": 3
+    },
+    {
+      "物种": "Octodon degus",
+      "最大寿命_年": 14.0,
+      "LQ": 1.247,
+      "命中": 3
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+﻿implementation,synonymous_rate_alpha,true_omega,n_replicates,power_q_le_0.05_and_beta_lt_alpha,ci95_lo,ci95_hi,power_p_le_0.1
+"HyPhy FEL, simulated codons appended to the real alignment, full pipeline",0.65,0.1,100,0.94,0.8752,0.9722,0.98
+"HyPhy FEL, simulated codons appended to the real alignment, full pipeline",0.65,0.2,100,0.88,0.8019,0.93,0.96
+"HyPhy FEL, simulated codons appended to the real alignment, full pipeline",0.65,0.3,100,0.64,0.5424,0.7273,0.82
+"HyPhy FEL, simulated codons appended to the real alignment, full pipeline",0.65,0.5,100,0.34,0.2546,0.4372,0.51
+"HyPhy FEL, simulated codons appended to the real alignment, full pipeline",0.65,1.0,50,0.04,0.011,0.1346,0.06
+"independent Python FEL, global parameters fixed at fitted values",0.65,0.1,400,0.9025,0.8695,0.9279,0.95
+"independent Python FEL, global parameters fixed at fitted values",0.65,0.2,400,0.7625,0.7184,0.8016,0.8925
+"independent Python FEL, global parameters fixed at fitted values",0.65,0.3,400,0.6325,0.5842,0.6783,0.8025
+"independent Python FEL, global parameters fixed at fitted values",0.65,0.5,400,0.2725,0.2312,0.3181,0.54
+"independent Python FEL, global parameters fixed at fitted values",0.65,1.0,400,0.0075,0.0026,0.0218,0.0325
+"independent Python FEL, global parameters fixed at fitted values",0.537,0.1,200,0.875,0.822,0.9139,0.945
+"independent Python FEL, global parameters fixed at fitted values",0.537,0.2,200,0.715,0.6488,0.7731,0.865
+"independent Python FEL, global parameters fixed at fitted values",0.537,0.3,200,0.56,0.4907,0.627,0.755
+"independent Python FEL, global parameters fixed at fitted values",0.537,0.5,200,0.26,0.2041,0.3249,0.475
+"independent Python FEL, global parameters fixed at fitted values",0.537,1.0,200,0.005,0.0009,0.0278,0.045

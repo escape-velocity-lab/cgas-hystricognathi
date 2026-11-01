@@ -1,0 +1,55 @@
+﻿taxname,tax_id,species_taxid,问题,AnAge同名记录,处理
+Mus pahari,10093,10093,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Papio anubis,9555,9555,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Cricetulus griseus,10029,10029,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Bos mutus,72004,72004,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Myotis davidii,225400,225400,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Chrysochloris asiatica,185453,185453,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Chlorocebus sabaeus,60711,60711,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Equus przewalskii,9798,9798,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Galeopterus variegatus,482537,482537,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Nannospalax galili,1026970,1026970,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Fukomys damarensis,885580,885580,学名不同：AnAge「Cryptomys damarensis」→ NCBI「Fukomys damarensis」,,taxid 一致，采用（异名 / 亚种上卷）
+Propithecus coquereli,379532,379532,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Bos indicus,9915,9915,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Neomonachus schauinslandi,29088,29088,学名不同：AnAge「Monachus schauinslandi」→ NCBI「Neomonachus schauinslandi」,,taxid 一致，采用（异名 / 亚种上卷）
+Urocitellus parryii,9999,9999,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Grammomys surdaster,491861,491861,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Phocoena sinus,42100,42100,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Sturnira hondurensis,192404,192404,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Talpa occidentalis,50954,50954,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Herpailurus yagouaroundi,1608482,1608482,学名不同：AnAge「Puma yagouaroundi」→ NCBI「Herpailurus yagouaroundi」,,taxid 一致，采用（异名 / 亚种上卷）
+Ochotona curzoniae,130825,130825,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Microtus oregoni,111838,111838,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Cervus canadensis,1574408,1574408,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Neogale vison,452646,452646,学名不同：AnAge「Neovison vison」→ NCBI「Neogale vison」,,taxid 一致，采用（异名 / 亚种上卷）
+Panthera uncia,29064,29064,学名不同：AnAge「Uncia uncia」→ NCBI「Panthera uncia」,,taxid 一致，采用（异名 / 亚种上卷）
+Alexandromys fortis,100897,100897,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Pteronotus mesoamericanus,1884717,1884717,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Chionomys nivalis,269649,269649,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Lagenorhynchus albirostris,27610,27610,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Saccopteryx leptura,249018,249018,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Eulemur rufifrons,859984,859984,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Notamacropus eugenii,9315,9315,学名不同：AnAge「Macropus eugenii」→ NCBI「Notamacropus eugenii」,,taxid 一致，采用（异名 / 亚种上卷）
+Giraffa tippelskirchi,439328,439328,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Hipposideros armiger,186990,186990,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Piliocolobus tephrosceles,591936,591936,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Neophocaena asiaeorientalis asiaeorientalis,1706337,189058,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Manis javanica,9974,9974,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Camelus ferus,419612,419612,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Pongo abelii,9601,9601,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Cercocebus atys,9531,9531,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Aotus nancymaae,37293,37293,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Miniopterus natalensis,291302,291302,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Cebus imitator,2715852,2715852,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Rhinolophus sinicus,89399,89399,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Aethalodelphis obliquidens,3371155,3371155,学名不同：AnAge「Lagenorhynchus obliquidens」→ NCBI「Aethalodelphis obliquidens」,,taxid 一致，采用（异名 / 亚种上卷）
+Bos indicus x Bos taurus,30522,30522,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Pteropus medius,143291,143291,学名不同：AnAge「Pteropus giganteus」→ NCBI「Pteropus medius（手工）」,,taxid 一致，采用（异名 / 亚种上卷）
+Bubalus kerabau,3119969,3119969,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Balaenoptera ricei,2746895,2746895,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Cnephaeus nilssonii,3371016,3371016,学名不同：AnAge「Eptesicus nilssonii」→ NCBI「Cnephaeus nilssonii」,,taxid 一致，采用（异名 / 亚种上卷）
+Mesoplodon bidens,48745,48745,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Mesoplodon mirus,52113,52113,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）
+Leucopleurus acutus,3371109,3371109,学名不同：AnAge「Lagenorhynchus acutus」→ NCBI「Leucopleurus acutus」,,taxid 一致，采用（异名 / 亚种上卷）
+Pipistrellus hanaki,412090,412090,AnAge 无对应 taxid,,不进寿命分析（位点表仍保留）

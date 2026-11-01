@@ -1,0 +1,89 @@
+﻿tree,site,node,fitch_MPR_states,ML_multistate_ER_best,ML_multistate_ER_best_P,P_NMR_multistate_ER,P_NMR_binary_ER,P_NMR_binary_ARD,fitch_min_changes_whole_tree
+Upham 2019 completed (5911 spp.) MCC,D431S,Rodentia (crown),D,D,1.0,0.0,0.0,0.0,27
+Upham 2019 completed (5911 spp.) MCC,D431S,Ctenohystrica (gundi + Hystricognathi),CS,D,0.868,0.1006,0.0025,0.0146,27
+Upham 2019 completed (5911 spp.) MCC,D431S,Hystricognathi (crown),S,S,0.9971,0.9971,0.9985,0.9991,27
+Upham 2019 completed (5911 spp.) MCC,D431S,Phiomorpha excl. Hystricidae (mole-rats + cane rat + dassie rat),S,S,1.0,1.0,1.0,1.0,27
+Upham 2019 completed (5911 spp.) MCC,D431S,Bathyergidae s.l. (naked mole-rat + Fukomys),S,S,1.0,1.0,1.0,1.0,27
+Upham 2019 completed (5911 spp.) MCC,D431S,Caviomorpha,S,S,1.0,1.0,1.0,1.0,27
+Upham 2019 completed (5911 spp.) MCC,D431S,Cavioidea,S,S,1.0,1.0,1.0,1.0,27
+Upham 2019 completed (5911 spp.) MCC,D431S,Caviidae,S,S,1.0,1.0,1.0,1.0,27
+Upham 2019 completed (5911 spp.) MCC,D431S,Cavia,S,S,1.0,1.0,1.0,1.0,27
+Upham 2019 completed (5911 spp.) MCC,D431S,Chinchilloidea,S,S,1.0,1.0,1.0,1.0,27
+Upham 2019 completed (5911 spp.) MCC,D431S,Octodontoidea,S,S,1.0,1.0,1.0,1.0,27
+Upham 2019 completed (5911 spp.) MCC,K479E,Rodentia (crown),Q,Q,0.9987,0.0003,0.0,0.0,40
+Upham 2019 completed (5911 spp.) MCC,K479E,Ctenohystrica (gundi + Hystricognathi),ET,Q,0.8664,0.099,0.0053,0.0,40
+Upham 2019 completed (5911 spp.) MCC,K479E,Hystricognathi (crown),E,E,0.9965,0.9965,0.9968,0.9964,40
+Upham 2019 completed (5911 spp.) MCC,K479E,Phiomorpha excl. Hystricidae (mole-rats + cane rat + dassie rat),E,E,1.0,1.0,1.0,1.0,40
+Upham 2019 completed (5911 spp.) MCC,K479E,Bathyergidae s.l. (naked mole-rat + Fukomys),E,E,1.0,1.0,1.0,1.0,40
+Upham 2019 completed (5911 spp.) MCC,K479E,Caviomorpha,E,E,1.0,1.0,1.0,1.0,40
+Upham 2019 completed (5911 spp.) MCC,K479E,Cavioidea,E,E,1.0,1.0,1.0,1.0,40
+Upham 2019 completed (5911 spp.) MCC,K479E,Caviidae,E,E,1.0,1.0,1.0,1.0,40
+Upham 2019 completed (5911 spp.) MCC,K479E,Cavia,E,E,1.0,1.0,1.0,1.0,40
+Upham 2019 completed (5911 spp.) MCC,K479E,Chinchilloidea,E,E,1.0,1.0,1.0,1.0,40
+Upham 2019 completed (5911 spp.) MCC,K479E,Octodontoidea,E,E,1.0,1.0,1.0,1.0,40
+Upham 2019 completed (5911 spp.) MCC,L495Y,Rodentia (crown),K,Q,0.5146,0.0191,0.0,0.264,41
+Upham 2019 completed (5911 spp.) MCC,L495Y,Ctenohystrica (gundi + Hystricognathi),H,H,0.8581,0.0449,0.0,0.4486,41
+Upham 2019 completed (5911 spp.) MCC,L495Y,Hystricognathi (crown),H,H,0.9015,0.0907,0.0,0.9003,41
+Upham 2019 completed (5911 spp.) MCC,L495Y,Phiomorpha excl. Hystricidae (mole-rats + cane rat + dassie rat),Y,H,0.5157,0.3169,0.0065,0.9905,41
+Upham 2019 completed (5911 spp.) MCC,L495Y,Bathyergidae s.l. (naked mole-rat + Fukomys),Y,Y,0.9493,0.9493,0.9323,0.9992,41
+Upham 2019 completed (5911 spp.) MCC,L495Y,Caviomorpha,Y,H,0.88,0.1187,0.0001,0.9962,41
+Upham 2019 completed (5911 spp.) MCC,L495Y,Cavioidea,Y,H,0.8751,0.1093,0.0,0.9273,41
+Upham 2019 completed (5911 spp.) MCC,L495Y,Caviidae,Y,H,0.89,0.1064,0.0019,0.9144,41
+Upham 2019 completed (5911 spp.) MCC,L495Y,Cavia,Y,Y,0.9999,0.9999,0.9999,1.0,41
+Upham 2019 completed (5911 spp.) MCC,L495Y,Chinchilloidea,Y,H,0.6626,0.3353,0.2497,0.989,41
+Upham 2019 completed (5911 spp.) MCC,L495Y,Octodontoidea,Y,Y,0.7184,0.7184,0.6793,1.0,41
+Upham 2019 completed (5911 spp.) MCC,K498T,Rodentia (crown),K,K,1.0,0.0,0.0,0.0006,22
+Upham 2019 completed (5911 spp.) MCC,K498T,Ctenohystrica (gundi + Hystricognathi),K,K,0.9944,0.0053,0.0078,0.0463,22
+Upham 2019 completed (5911 spp.) MCC,K498T,Hystricognathi (crown),T,T,0.9962,0.9962,0.9914,0.9955,22
+Upham 2019 completed (5911 spp.) MCC,K498T,Phiomorpha excl. Hystricidae (mole-rats + cane rat + dassie rat),T,T,1.0,1.0,0.9998,1.0,22
+Upham 2019 completed (5911 spp.) MCC,K498T,Bathyergidae s.l. (naked mole-rat + Fukomys),T,T,1.0,1.0,1.0,0.9999,22
+Upham 2019 completed (5911 spp.) MCC,K498T,Caviomorpha,T,T,0.9992,0.9992,0.9944,0.9996,22
+Upham 2019 completed (5911 spp.) MCC,K498T,Cavioidea,T,T,0.9991,0.9991,0.9949,0.9994,22
+Upham 2019 completed (5911 spp.) MCC,K498T,Caviidae,T,T,1.0,1.0,1.0,1.0,22
+Upham 2019 completed (5911 spp.) MCC,K498T,Cavia,T,T,1.0,1.0,1.0,1.0,22
+Upham 2019 completed (5911 spp.) MCC,K498T,Chinchilloidea,K,K,0.9787,0.0143,0.0009,0.0335,22
+Upham 2019 completed (5911 spp.) MCC,K498T,Octodontoidea,QR,R,0.4892,0.1223,0.0001,0.0066,22
+Upham 2019 DNA-only (4098 spp.) MCC,D431S,Rodentia (crown),D,D,1.0,0.0,0.0,0.0,27
+Upham 2019 DNA-only (4098 spp.) MCC,D431S,Ctenohystrica (gundi + Hystricognathi),CS,D,0.8123,0.1439,0.0036,0.0247,27
+Upham 2019 DNA-only (4098 spp.) MCC,D431S,Hystricognathi (crown),S,S,0.9975,0.9975,0.9986,0.9992,27
+Upham 2019 DNA-only (4098 spp.) MCC,D431S,Phiomorpha excl. Hystricidae (mole-rats + cane rat + dassie rat),S,S,1.0,1.0,1.0,1.0,27
+Upham 2019 DNA-only (4098 spp.) MCC,D431S,Bathyergidae s.l. (naked mole-rat + Fukomys),S,S,1.0,1.0,1.0,1.0,27
+Upham 2019 DNA-only (4098 spp.) MCC,D431S,Caviomorpha,S,S,1.0,1.0,1.0,1.0,27
+Upham 2019 DNA-only (4098 spp.) MCC,D431S,Cavioidea,S,S,1.0,1.0,1.0,1.0,27
+Upham 2019 DNA-only (4098 spp.) MCC,D431S,Caviidae,S,S,1.0,1.0,1.0,1.0,27
+Upham 2019 DNA-only (4098 spp.) MCC,D431S,Cavia,S,S,1.0,1.0,1.0,1.0,27
+Upham 2019 DNA-only (4098 spp.) MCC,D431S,Chinchilloidea,S,S,1.0,1.0,1.0,1.0,27
+Upham 2019 DNA-only (4098 spp.) MCC,D431S,Octodontoidea,S,S,1.0,1.0,1.0,1.0,27
+Upham 2019 DNA-only (4098 spp.) MCC,K479E,Rodentia (crown),Q,Q,0.9833,0.0013,0.0,0.0,40
+Upham 2019 DNA-only (4098 spp.) MCC,K479E,Ctenohystrica (gundi + Hystricognathi),ET,Q,0.8004,0.1448,0.0075,0.0,40
+Upham 2019 DNA-only (4098 spp.) MCC,K479E,Hystricognathi (crown),E,E,0.997,0.997,0.9971,0.9968,40
+Upham 2019 DNA-only (4098 spp.) MCC,K479E,Phiomorpha excl. Hystricidae (mole-rats + cane rat + dassie rat),E,E,1.0,1.0,1.0,1.0,40
+Upham 2019 DNA-only (4098 spp.) MCC,K479E,Bathyergidae s.l. (naked mole-rat + Fukomys),E,E,1.0,1.0,1.0,1.0,40
+Upham 2019 DNA-only (4098 spp.) MCC,K479E,Caviomorpha,E,E,1.0,1.0,1.0,1.0,40
+Upham 2019 DNA-only (4098 spp.) MCC,K479E,Cavioidea,E,E,1.0,1.0,1.0,1.0,40
+Upham 2019 DNA-only (4098 spp.) MCC,K479E,Caviidae,E,E,1.0,1.0,1.0,1.0,40
+Upham 2019 DNA-only (4098 spp.) MCC,K479E,Cavia,E,E,1.0,1.0,1.0,1.0,40
+Upham 2019 DNA-only (4098 spp.) MCC,K479E,Chinchilloidea,E,E,1.0,1.0,1.0,1.0,40
+Upham 2019 DNA-only (4098 spp.) MCC,K479E,Octodontoidea,E,E,1.0,1.0,1.0,1.0,40
+Upham 2019 DNA-only (4098 spp.) MCC,L495Y,Rodentia (crown),K,Q,0.5747,0.0109,0.0,0.1634,41
+Upham 2019 DNA-only (4098 spp.) MCC,L495Y,Ctenohystrica (gundi + Hystricognathi),H,H,0.9338,0.0404,0.0,0.6976,41
+Upham 2019 DNA-only (4098 spp.) MCC,L495Y,Hystricognathi (crown),H,H,0.941,0.0568,0.0001,0.9466,41
+Upham 2019 DNA-only (4098 spp.) MCC,L495Y,Phiomorpha excl. Hystricidae (mole-rats + cane rat + dassie rat),Y,Y,0.4695,0.4695,0.0181,0.9946,41
+Upham 2019 DNA-only (4098 spp.) MCC,L495Y,Bathyergidae s.l. (naked mole-rat + Fukomys),Y,Y,0.9436,0.9436,0.901,0.9994,41
+Upham 2019 DNA-only (4098 spp.) MCC,L495Y,Caviomorpha,Y,H,0.9207,0.0788,0.0007,0.9981,41
+Upham 2019 DNA-only (4098 spp.) MCC,L495Y,Cavioidea,H,H,0.9236,0.0593,0.0,0.8962,41
+Upham 2019 DNA-only (4098 spp.) MCC,L495Y,Caviidae,H,H,0.9398,0.0581,0.0017,0.8854,41
+Upham 2019 DNA-only (4098 spp.) MCC,L495Y,Cavia,Y,Y,0.9999,0.9999,0.9998,1.0,41
+Upham 2019 DNA-only (4098 spp.) MCC,L495Y,Chinchilloidea,Y,H,0.7094,0.2886,0.2324,0.9913,41
+Upham 2019 DNA-only (4098 spp.) MCC,L495Y,Octodontoidea,Y,Y,0.7935,0.7935,0.773,1.0,41
+Upham 2019 DNA-only (4098 spp.) MCC,K498T,Rodentia (crown),K,K,1.0,0.0,0.0,0.0016,22
+Upham 2019 DNA-only (4098 spp.) MCC,K498T,Ctenohystrica (gundi + Hystricognathi),K,K,0.992,0.0076,0.0112,0.0931,22
+Upham 2019 DNA-only (4098 spp.) MCC,K498T,Hystricognathi (crown),T,T,0.9951,0.9951,0.9824,0.9955,22
+Upham 2019 DNA-only (4098 spp.) MCC,K498T,Phiomorpha excl. Hystricidae (mole-rats + cane rat + dassie rat),T,T,1.0,1.0,0.9999,1.0,22
+Upham 2019 DNA-only (4098 spp.) MCC,K498T,Bathyergidae s.l. (naked mole-rat + Fukomys),T,T,1.0,1.0,1.0,1.0,22
+Upham 2019 DNA-only (4098 spp.) MCC,K498T,Caviomorpha,T,T,0.9973,0.9973,0.9829,0.9981,22
+Upham 2019 DNA-only (4098 spp.) MCC,K498T,Cavioidea,T,T,0.9984,0.9984,0.9904,0.9993,22
+Upham 2019 DNA-only (4098 spp.) MCC,K498T,Caviidae,T,T,1.0,1.0,1.0,1.0,22
+Upham 2019 DNA-only (4098 spp.) MCC,K498T,Cavia,T,T,1.0,1.0,1.0,1.0,22
+Upham 2019 DNA-only (4098 spp.) MCC,K498T,Chinchilloidea,K,K,0.976,0.0173,0.0011,0.0567,22
+Upham 2019 DNA-only (4098 spp.) MCC,K498T,Octodontoidea,QR,Q,0.458,0.1026,0.0001,0.0071,22

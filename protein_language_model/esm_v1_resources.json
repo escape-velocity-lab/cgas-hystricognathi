@@ -1,0 +1,14 @@
+{
+ "model": "facebook/esm2_t33_650M_UR50D",
+ "dtype": "fp16",
+ "batch": 32,
+ "device": "NVIDIA GeForce RTX 5060 Ti",
+ "torch": "2.11.0+cu128",
+ "cuda": "12.8",
+ "peak_mem_allocated_GiB": 2.781,
+ "peak_mem_reserved_GiB": 10.689,
+ "n_forward_sequences": 154430,
+ "species_scored": 268,
+ "species_loop_seconds": 4676.6,
+ "total_seconds": 5004.3
+}

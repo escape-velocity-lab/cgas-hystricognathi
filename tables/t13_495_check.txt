@@ -1,0 +1,12 @@
+495 位，豪猪亚目内部（24 种）约束简约最少变化次数：
+  祖先固定为 D: 9
+  祖先固定为 H: 8
+  祖先固定为 N: 9
+  祖先固定为 Y: 8
+  祖先=H 的一个最简约重建：Y 获得 5 次 → {Fukomys anselli, Fukomys damarensis, Heterocephalus glaber}; {Cavia porcellus, Cavia tschudii}; {Chinchilla lanigera}; {Capromys pilorides}; {Ctenomys sociabilis, Octodon degus, Octomys mimax, Tympanoctomys barrerae}；Y 丢失 0 次 → 
+  祖先=Y 的一个最简约重建：Y 获得 0 次 → ；Y 丢失 8 次 → {Petromus typicus, Thryonomys swinderianus}; {Dolichotis patagonum, Hydrochoerus hydrochaeris}; {Dasyprocta punctata}; {Cuniculus paca}; {Dinomys branickii}; {Myocastor coypus}; {Coendou prehensilis, Erethizon dorsatum}; {Hystrix brachyura, Hystrix cristata}
+  梳趾鼠 vs 豪猪亚目分歧: 约 66.2 百万年前
+  豪猪亚目冠群: 约 48.3 百万年前
+  非洲鼹鼠科 s.l. 冠群（裸鼹鼠 vs Fukomys）: 约 30.0 百万年前
+  豚鼠属 vs 豚鼠科其他（Cavia vs 水豚/长耳豚鼠）: 约 18.8 百万年前
+  啮齿目冠群: 约 69.5 百万年前

@@ -1,0 +1,83 @@
+﻿PDB,space_group,site,residue,residue_human_number,min_dist_to_DNA_in_asymmetric_unit_A,min_dist_to_DNA_incl_symmetry_mates_A,contacts_DNA_within_4A
+6CT9,P 61 2 2,position studied here,ASP,431,26.67,,no
+6CT9,P 61 2 2,position studied here,LYS,479,28.58,3.77,yes
+6CT9,P 61 2 2,position studied here,LEU,495,26.17,,no
+6CT9,P 61 2 2,position studied here,LYS,498,34.49,2.89,yes
+6CT9,P 61 2 2,site A (Zhou et al. 2018),LYS,173,3.56,3.56,yes
+6CT9,P 61 2 2,site A (Zhou et al. 2018),ARG,176,2.83,2.83,yes
+6CT9,P 61 2 2,site A (Zhou et al. 2018),LYS,407,2.9,2.9,yes
+6CT9,P 61 2 2,site A (Zhou et al. 2018),LYS,411,4.23,4.23,no
+6CT9,P 61 2 2,site B (Zhou et al. 2018),LYS,347,16.56,3.01,yes
+6CT9,P 61 2 2,site B (Zhou et al. 2018),LYS,350,15.73,3.04,yes
+6CT9,P 61 2 2,"site C, KKH-loop 427-432 (Xie et al. 2019)",LYS,427,31.34,,no
+6CT9,P 61 2 2,"site C, KKH-loop 427-432 (Xie et al. 2019)",LYS,428,31.03,,no
+6CT9,P 61 2 2,"site C, KKH-loop 427-432 (Xie et al. 2019)",LYS,432,25.69,,no
+6CT9,P 61 2 2,"site C, KRKR-loop 299-302 (Xie et al. 2019)",LYS,299,19.15,,no
+6CT9,P 61 2 2,"site C, alpha-region 261-286 (Xie et al. 2019)",GLN,264,14.83,,no
+6CT9,P 61 2 2,"site C, alpha-region 261-286 (Xie et al. 2019)",LYS,275,21.46,,no
+6CT9,P 61 2 2,"site C, alpha-region 261-286 (Xie et al. 2019)",LYS,279,16.02,,no
+6CT9,P 61 2 2,"site C, alpha-region 261-286 (Xie et al. 2019)",LYS,282,19.64,,no
+6CT9,P 61 2 2,"site C, alpha-region 261-286 (Xie et al. 2019)",LYS,285,19.6,,no
+6CTA,P 61 2 2,position studied here,ASP,431,27.67,,no
+6CTA,P 61 2 2,position studied here,LYS,479,28.9,3.58,yes
+6CTA,P 61 2 2,position studied here,LEU,495,27.54,,no
+6CTA,P 61 2 2,position studied here,LYS,498,35.05,2.88,yes
+6CTA,P 61 2 2,site A (Zhou et al. 2018),LYS,173,3.49,3.49,yes
+6CTA,P 61 2 2,site A (Zhou et al. 2018),ARG,176,2.96,2.96,yes
+6CTA,P 61 2 2,site A (Zhou et al. 2018),LYS,407,2.51,2.51,yes
+6CTA,P 61 2 2,site A (Zhou et al. 2018),LYS,411,3.89,3.89,yes
+6CTA,P 61 2 2,site B (Zhou et al. 2018),LYS,347,16.6,3.19,yes
+6CTA,P 61 2 2,site B (Zhou et al. 2018),LYS,350,15.77,3.32,yes
+6CTA,P 61 2 2,"site C, KKH-loop 427-432 (Xie et al. 2019)",LYS,427,32.25,,no
+6CTA,P 61 2 2,"site C, KKH-loop 427-432 (Xie et al. 2019)",LYS,428,31.84,,no
+6CTA,P 61 2 2,"site C, KKH-loop 427-432 (Xie et al. 2019)",LYS,432,27.17,,no
+6CTA,P 61 2 2,"site C, KRKR-loop 299-302 (Xie et al. 2019)",LYS,299,18.63,,no
+6CTA,P 61 2 2,"site C, alpha-region 261-286 (Xie et al. 2019)",GLN,264,15.27,,no
+6CTA,P 61 2 2,"site C, alpha-region 261-286 (Xie et al. 2019)",LYS,275,22.33,,no
+6CTA,P 61 2 2,"site C, alpha-region 261-286 (Xie et al. 2019)",LYS,279,16.33,,no
+6CTA,P 61 2 2,"site C, alpha-region 261-286 (Xie et al. 2019)",LYS,282,20.0,,no
+6CTA,P 61 2 2,"site C, alpha-region 261-286 (Xie et al. 2019)",LYS,285,19.93,,no
+6EDB,I 2 2 2,position studied here,ASP,431,26.65,,no
+6EDB,I 2 2 2,position studied here,LYS,479,29.63,,no
+6EDB,I 2 2 2,position studied here,LEU,495,27.46,,no
+6EDB,I 2 2 2,position studied here,LYS,498,35.25,,no
+6EDB,I 2 2 2,site A (Zhou et al. 2018),LYS,173,2.44,2.44,yes
+6EDB,I 2 2 2,site A (Zhou et al. 2018),ARG,176,2.78,2.78,yes
+6EDB,I 2 2 2,site A (Zhou et al. 2018),LYS,407,3.04,3.04,yes
+6EDB,I 2 2 2,site A (Zhou et al. 2018),LYS,411,5.05,5.05,no
+6EDB,I 2 2 2,site B (Zhou et al. 2018),LYS,347,15.83,2.32,yes
+6EDB,I 2 2 2,site B (Zhou et al. 2018),LYS,350,14.49,2.74,yes
+6EDB,I 2 2 2,"site C, KKH-loop 427-432 (Xie et al. 2019)",LYS,427,31.83,3.67,yes
+6EDB,I 2 2 2,"site C, KKH-loop 427-432 (Xie et al. 2019)",LYS,428,32.43,3.23,yes
+6EDB,I 2 2 2,"site C, KKH-loop 427-432 (Xie et al. 2019)",LYS,432,27.07,2.78,yes
+6EDB,I 2 2 2,"site C, KRKR-loop 299-302 (Xie et al. 2019)",LYS,299,21.28,5.58,no
+6EDB,I 2 2 2,"site C, KRKR-loop 299-302 (Xie et al. 2019)",ARG,300,25.24,2.75,yes
+6EDB,I 2 2 2,"site C, KRKR-loop 299-302 (Xie et al. 2019)",LYS,301,24.95,2.33,yes
+6EDB,I 2 2 2,"site C, KRKR-loop 299-302 (Xie et al. 2019)",ARG,302,24.66,3.54,yes
+6EDB,I 2 2 2,"site C, alpha-region 261-286 (Xie et al. 2019)",GLN,264,27.58,5.14,no
+6EDB,I 2 2 2,"site C, alpha-region 261-286 (Xie et al. 2019)",LYS,275,29.03,3.83,yes
+6EDB,I 2 2 2,"site C, alpha-region 261-286 (Xie et al. 2019)",LYS,279,26.06,2.25,yes
+6EDB,I 2 2 2,"site C, alpha-region 261-286 (Xie et al. 2019)",LYS,282,25.86,3.48,yes
+6EDB,I 2 2 2,"site C, alpha-region 261-286 (Xie et al. 2019)",LYS,285,23.3,2.89,yes
+6EDC,P 61 2 2,position studied here,ASP,431,27.34,,no
+6EDC,P 61 2 2,position studied here,LYS,479,28.73,4.36,no
+6EDC,P 61 2 2,position studied here,LEU,495,26.52,,no
+6EDC,P 61 2 2,position studied here,LYS,498,33.34,5.2,no
+6EDC,P 61 2 2,site A (Zhou et al. 2018),LYS,173,3.24,3.24,yes
+6EDC,P 61 2 2,site A (Zhou et al. 2018),ARG,176,2.9,2.9,yes
+6EDC,P 61 2 2,site A (Zhou et al. 2018),LYS,407,2.65,2.65,yes
+6EDC,P 61 2 2,site A (Zhou et al. 2018),LYS,411,4.02,4.02,no
+6EDC,P 61 2 2,site B (Zhou et al. 2018),LYS,347,16.16,3.08,yes
+6EDC,P 61 2 2,site B (Zhou et al. 2018),LYS,350,15.55,2.93,yes
+6EDC,P 61 2 2,"site C, KKH-loop 427-432 (Xie et al. 2019)",LYS,427,31.54,,no
+6EDC,P 61 2 2,"site C, KKH-loop 427-432 (Xie et al. 2019)",LYS,428,31.73,,no
+6EDC,P 61 2 2,"site C, KKH-loop 427-432 (Xie et al. 2019)",LYS,432,26.22,,no
+6EDC,P 61 2 2,"site C, KRKR-loop 299-302 (Xie et al. 2019)",GLU,299,19.69,,no
+6EDC,P 61 2 2,"site C, KRKR-loop 299-302 (Xie et al. 2019)",ALA,300,21.14,,no
+6EDC,P 61 2 2,"site C, KRKR-loop 299-302 (Xie et al. 2019)",GLU,301,24.05,,no
+6EDC,P 61 2 2,"site C, KRKR-loop 299-302 (Xie et al. 2019)",ARG,302,25.26,,no
+6EDC,P 61 2 2,"site C, alpha-region 261-286 (Xie et al. 2019)",GLN,264,13.84,,no
+6EDC,P 61 2 2,"site C, alpha-region 261-286 (Xie et al. 2019)",LYS,275,20.4,,no
+6EDC,P 61 2 2,"site C, alpha-region 261-286 (Xie et al. 2019)",LYS,279,15.3,,no
+6EDC,P 61 2 2,"site C, alpha-region 261-286 (Xie et al. 2019)",LYS,282,19.44,,no
+6EDC,P 61 2 2,"site C, alpha-region 261-286 (Xie et al. 2019)",LYS,285,19.58,,no

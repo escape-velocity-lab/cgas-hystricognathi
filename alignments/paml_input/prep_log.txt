@@ -1,0 +1,14 @@
+！无覆盖外显子的 HSP Cavia aperea
+外显子 裸鼹鼠 438–554（117 个密码子），位点 527 在比对第 90 列
+核对：密码子比对第 527 位翻译 vs #13 位点表 495：全部一致
+物种 69；覆盖 <75% 的剔除：['Erethizon dorsatum']
+上树缺失： []
+参考：只用啮齿类这棵树重建时，P(Y) 豪猪亚目祖先 = 0.20（#13 在 277 种哺乳动物树上是 0.09；外群取样少会把祖先往 Y 拉——所以前景枝不用这棵树定，见下）
+前景枝（事先指定 = #13 的「H 祖先、Y 多次独立出现」情景）：
+  → Capromys pilorides  （啮齿类树 Mk-ER：P(Y) 父 0.75 → 子 1.00）
+  → Ctenomys sociabilis, Octodon degus, Octomys mimax, Tympanoctomys barrerae  （啮齿类树 Mk-ER：P(Y) 父 0.75 → 子 0.99）
+  → Sciurus carolinensis, Sciurus vulgaris  （啮齿类树 Mk-ER：P(Y) 父 0.22 → 子 0.99）
+  → Cavia porcellus, Cavia tschudii  （啮齿类树 Mk-ER：P(Y) 父 0.19 → 子 1.00）
+  → Fukomys anselli, Fukomys damarensis, Heterocephalus glaber  （啮齿类树 Mk-ER：P(Y) 父 0.40 → 子 0.91）
+  → Chinchilla lanigera  （啮齿类树 Mk-ER：P(Y) 父 0.43 → 子 1.00）
+密码子比对与树已写出 → 接着跑 17_t15_paml_run.py

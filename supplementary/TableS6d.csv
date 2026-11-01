@@ -1,0 +1,15 @@
+﻿PDB,structure_reference,cGAS_copy,residue,residue_human_number,min_dist_to_acidic_patch_A,nearest_H2A_chain,nearest_H2A_residue
+6Y5D,Pathare et al. 2020,K,ARG,255,2.75,G,ASP91
+6Y5D,Pathare et al. 2020,K,PRO,257,4.44,G,ASP91
+6Y5D,Pathare et al. 2020,L,ARG,255,2.9,S,ASP91
+6Y5D,Pathare et al. 2020,L,PRO,257,2.99,S,GLU92
+6Y5D,Pathare et al. 2020,L,LYS,258,4.04,S,GLU92
+6Y5E,Pathare et al. 2020,K,ARG,255,2.59,G,ASP91
+6Y5E,Pathare et al. 2020,K,PRO,257,4.14,G,GLU92
+6Y5E,Pathare et al. 2020,K,LYS,258,4.21,G,ASN90
+7CCQ,Cao et al. 2020,K,ARG,236,2.84,C,GLU61
+7CCQ,Cao et al. 2020,K,ILE,237,4.83,C,GLU64
+7CCQ,Cao et al. 2020,K,LYS,254,3.26,C,GLU64
+7CCQ,Cao et al. 2020,K,ARG,255,2.34,C,GLU61
+7CCQ,Cao et al. 2020,K,PRO,257,3.18,C,ASP90
+7CCQ,Cao et al. 2020,K,LYS,258,4.17,C,GLU91

@@ -1,0 +1,36 @@
+275 个比对物种里：
+位置来源
+分子数据     256
+不在树上      17
+分类学插补      2
+
+【豪猪亚目】逐个列出：
+                       物种              科  位置来源
+       Capromys pilorides     Echimyidae  分子数据
+          Cavia porcellus       Caviidae  分子数据
+           Cavia tschudii       Caviidae  分子数据
+      Chinchilla lanigera  Chinchillidae  分子数据
+      Coendou prehensilis Erethizontidae  分子数据
+      Ctenomys sociabilis    Ctenomyidae  分子数据
+           Cuniculus paca    Cuniculidae  分子数据
+      Dasyprocta punctata  Dasyproctidae  分子数据
+        Dinomys branickii     Dinomyidae  分子数据
+     Dolichotis patagonum       Caviidae  分子数据
+       Erethizon dorsatum Erethizontidae  分子数据
+          Fukomys anselli   Bathyergidae 分类学插补
+       Fukomys damarensis   Bathyergidae  分子数据
+    Heterocephalus glaber   Bathyergidae  分子数据
+Hydrochoerus hydrochaeris       Caviidae  分子数据
+        Hystrix brachyura    Hystricidae  分子数据
+         Hystrix cristata    Hystricidae  分子数据
+         Myocastor coypus     Echimyidae  分子数据
+            Octodon degus   Octodontidae  分子数据
+            Octomys mimax   Octodontidae  分子数据
+         Petromus typicus   Petromuridae  分子数据
+  Thryonomys swinderianus  Thryonomyidae  分子数据
+   Tympanoctomys barrerae   Octodontidae  分子数据
+
+全部 2 个位置为分类学插补的物种：
+                 物种         目            科  豪猪亚目
+    Fukomys anselli  Rodentia Bathyergidae  True
+Leopardus geoffroyi Carnivora      Felidae False

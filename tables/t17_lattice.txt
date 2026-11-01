@@ -1,0 +1,65 @@
+===== 4 个位点 + site A 对照残基（173/176/407）在 6 套人 cGAS 晶体里到 DNA 的最短距离（侧链重原子，截断 6 Å）
+（「对称」= 晶体对称生成的相邻分子。真界面会在多个独立晶型里重复；晶格接触通常只在一个晶型里出现。）
+
+6CT9（P 61 2 2，含 DNA）
+    431ASP: 同单元 DNA nan，对称拷贝 DNA nan（），对称蛋白 nan
+    479LYS: 同单元 DNA nan，对称拷贝 DNA 3.8（C/DT5#11），对称蛋白 nan
+    495LEU: 同单元 DNA nan，对称拷贝 DNA nan（），对称蛋白 nan
+    498LYS: 同单元 DNA nan，对称拷贝 DNA 2.9（B/DT16#11），对称蛋白 nan
+    173LYS: 同单元 DNA 3.6，对称拷贝 DNA nan（），对称蛋白 nan ← site A 已知 DNA 结合残基
+    176ARG: 同单元 DNA 2.8，对称拷贝 DNA nan（），对称蛋白 nan ← site A 已知 DNA 结合残基
+    407LYS: 同单元 DNA 2.9，对称拷贝 DNA nan（），对称蛋白 nan ← site A 已知 DNA 结合残基
+
+6CTA（P 61 2 2，含 DNA）
+    431ASP: 同单元 DNA nan，对称拷贝 DNA nan（），对称蛋白 nan
+    479LYS: 同单元 DNA nan，对称拷贝 DNA 3.6（C/DT5#11），对称蛋白 nan
+    495LEU: 同单元 DNA nan，对称拷贝 DNA nan（），对称蛋白 nan
+    498LYS: 同单元 DNA nan，对称拷贝 DNA 2.9（B/DT16#11），对称蛋白 nan
+    173LYS: 同单元 DNA 3.5，对称拷贝 DNA nan（），对称蛋白 nan ← site A 已知 DNA 结合残基
+    176ARG: 同单元 DNA 3.0，对称拷贝 DNA nan（），对称蛋白 nan ← site A 已知 DNA 结合残基
+    407LYS: 同单元 DNA 2.5，对称拷贝 DNA nan（），对称蛋白 nan ← site A 已知 DNA 结合残基
+
+6EDB（I 2 2 2，含 DNA）
+    431ASP: 同单元 DNA nan，对称拷贝 DNA nan（），对称蛋白 nan
+    479LYS: 同单元 DNA nan，对称拷贝 DNA nan（），对称蛋白 nan
+    495LEU: 同单元 DNA nan，对称拷贝 DNA nan（），对称蛋白 nan
+    498LYS: 同单元 DNA nan，对称拷贝 DNA nan（），对称蛋白 nan
+    173LYS: 同单元 DNA 2.4，对称拷贝 DNA nan（），对称蛋白 nan ← site A 已知 DNA 结合残基
+    176ARG: 同单元 DNA 2.8，对称拷贝 DNA nan（），对称蛋白 4.4 ← site A 已知 DNA 结合残基
+    407LYS: 同单元 DNA 3.0，对称拷贝 DNA nan（），对称蛋白 nan ← site A 已知 DNA 结合残基
+
+6EDC（P 61 2 2，含 DNA）
+    431ASP: 同单元 DNA nan，对称拷贝 DNA nan（），对称蛋白 nan
+    479LYS: 同单元 DNA nan，对称拷贝 DNA 4.4（B/DT5#11），对称蛋白 nan
+    495LEU: 同单元 DNA nan，对称拷贝 DNA nan（），对称蛋白 nan
+    498LYS: 同单元 DNA nan，对称拷贝 DNA 5.2（C/DT16#11），对称蛋白 nan
+    173LYS: 同单元 DNA 3.2，对称拷贝 DNA nan（），对称蛋白 nan ← site A 已知 DNA 结合残基
+    176ARG: 同单元 DNA 2.9，对称拷贝 DNA nan（），对称蛋白 nan ← site A 已知 DNA 结合残基
+    407LYS: 同单元 DNA 2.6，对称拷贝 DNA nan（），对称蛋白 nan ← site A 已知 DNA 结合残基
+
+4O68（P 21 21 2，无 DNA）
+    431ASP: 同单元 DNA nan，对称拷贝 DNA nan（），对称蛋白 4.8
+    479LYS: 同单元 DNA nan，对称拷贝 DNA nan（），对称蛋白 nan
+    495LEU: 同单元 DNA nan，对称拷贝 DNA nan（），对称蛋白 nan
+    498LYS: 同单元 DNA nan，对称拷贝 DNA nan（），对称蛋白 4.0
+    173LYS: 同单元 DNA nan，对称拷贝 DNA nan（），对称蛋白 nan ← site A 已知 DNA 结合残基
+    176ARG: 同单元 DNA nan，对称拷贝 DNA nan（），对称蛋白 nan ← site A 已知 DNA 结合残基
+    407LYS: 同单元 DNA nan，对称拷贝 DNA nan（），对称蛋白 nan ← site A 已知 DNA 结合残基
+
+4KM5（P 21 21 2，无 DNA）
+    431ASP: 同单元 DNA nan，对称拷贝 DNA nan（），对称蛋白 nan
+    479LYS: 同单元 DNA nan，对称拷贝 DNA nan（），对称蛋白 nan
+    495LEU: 同单元 DNA nan，对称拷贝 DNA nan（），对称蛋白 nan
+    498LYS: 同单元 DNA nan，对称拷贝 DNA nan（），对称蛋白 5.4
+    173LYS: 同单元 DNA nan，对称拷贝 DNA nan（），对称蛋白 nan ← site A 已知 DNA 结合残基
+    176ARG: 同单元 DNA nan，对称拷贝 DNA nan（），对称蛋白 nan ← site A 已知 DNA 结合残基
+    407LYS: 同单元 DNA nan，对称拷贝 DNA nan（），对称蛋白 nan ← site A 已知 DNA 结合残基
+
+===== 判读
+  431: 4 套含 DNA 结构里，同单元 DNA ≤4.5 Å 的 0 套；对称 DNA ≤4.5 Å 的 0 套
+  479: 4 套含 DNA 结构里，同单元 DNA ≤4.5 Å 的 0 套；对称 DNA ≤4.5 Å 的 3 套（空间群 ['P 61 2 2']）
+  495: 4 套含 DNA 结构里，同单元 DNA ≤4.5 Å 的 0 套；对称 DNA ≤4.5 Å 的 0 套
+  498: 4 套含 DNA 结构里，同单元 DNA ≤4.5 Å 的 0 套；对称 DNA ≤4.5 Å 的 2 套（空间群 ['P 61 2 2']）
+  173: 4 套含 DNA 结构里，同单元 DNA ≤4.5 Å 的 4 套；对称 DNA ≤4.5 Å 的 0 套  ← site A 对照
+  176: 4 套含 DNA 结构里，同单元 DNA ≤4.5 Å 的 4 套；对称 DNA ≤4.5 Å 的 0 套  ← site A 对照
+  407: 4 套含 DNA 结构里，同单元 DNA ≤4.5 Å 的 4 套；对称 DNA ≤4.5 Å 的 0 套  ← site A 对照

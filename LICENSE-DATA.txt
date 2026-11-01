@@ -1,0 +1,15 @@
+The derived data files in this repository (tables/, alignments/, selection_tests/,
+supplementary/, figures/) are released under the Creative Commons Attribution 4.0
+International licence (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+They are derived from public databases that carry their own terms:
+  NCBI RefSeq / GenBank / WGS   public domain (see NCBI data usage policies)
+  Ensembl                       no restriction on use
+  UniProt                       CC BY 4.0
+  Protein Data Bank (6CT9 etc.) CC0 1.0
+  AnAge Build 15 (HAGR)         free for academic use; cite de Magalhaes et al. 2024
+  Upham et al. (2019) trees     CC BY 4.0, via VertLife
+
+No sequence, figure or supplementary file from Chen et al. (2025) is redistributed
+here. Table S4 contains only the residue identities we read from the published
+figure, which are facts, together with our own independent calls.

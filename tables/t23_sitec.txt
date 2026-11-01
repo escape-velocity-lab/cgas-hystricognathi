@@ -1,0 +1,60 @@
+==============================================================================
+6CT9  空间群 P 61 2 2
+  已报道位点的代表残基（侧链到 DNA 的最近距离，单位 A；sym = 含晶体对称拷贝）
+    site A                   LYS173 asu=3.6 sym=3.6 | ARG176 asu=2.8 sym=2.8 | LYS407 asu=2.9 sym=2.9 | LYS411 asu=4.2 sym=4.2
+    site B                   LYS347 asu=16.6 sym=3.0 | LYS350 asu=15.7 sym=3.0
+    site C alpha(261-286)    GLN264 asu=14.8 sym=>6 | LYS275 asu=21.5 sym=>6 | LYS279 asu=16.0 sym=>6 | LYS282 asu=19.6 sym=>6 | LYS285 asu=19.6 sym=>6
+    site C KRKR(299-302)     LYS299 asu=19.2 sym=>6 | 300:缺失 | 301:缺失 | 302:缺失
+    site C KKH(427-432)      LYS427 asu=31.3 sym=>6 | LYS428 asu=31.0 sym=>6 | LYS432 asu=25.7 sym=>6
+  我们研究的 4 个位点
+    ASP431  asu=26.7  sym=>6  <-- 落在 site C 的 KKH-loop(427-432) 区间内
+    LYS479  asu=28.6  sym=3.8
+    LEU495  asu=26.2  sym=>6
+    LYS498  asu=34.5  sym=2.9
+  site C KKH-loop 全段逐残基（看 431 在这段里的角色）
+    K427 sym=>6  K428 sym=>6  H429 sym=>6  L430 sym=>6  D431 sym=>6  K432 sym=>6
+==============================================================================
+6CTA  空间群 P 61 2 2
+  已报道位点的代表残基（侧链到 DNA 的最近距离，单位 A；sym = 含晶体对称拷贝）
+    site A                   LYS173 asu=3.5 sym=3.5 | ARG176 asu=3.0 sym=3.0 | LYS407 asu=2.5 sym=2.5 | LYS411 asu=3.9 sym=3.9
+    site B                   LYS347 asu=16.6 sym=3.2 | LYS350 asu=15.8 sym=3.3
+    site C alpha(261-286)    GLN264 asu=15.3 sym=>6 | LYS275 asu=22.3 sym=>6 | LYS279 asu=16.3 sym=>6 | LYS282 asu=20.0 sym=>6 | LYS285 asu=19.9 sym=>6
+    site C KRKR(299-302)     LYS299 asu=18.6 sym=>6 | 300:缺失 | 301:缺失 | 302:缺失
+    site C KKH(427-432)      LYS427 asu=32.2 sym=>6 | LYS428 asu=31.8 sym=>6 | LYS432 asu=27.2 sym=>6
+  我们研究的 4 个位点
+    ASP431  asu=27.7  sym=>6  <-- 落在 site C 的 KKH-loop(427-432) 区间内
+    LYS479  asu=28.9  sym=3.6
+    LEU495  asu=27.5  sym=>6
+    LYS498  asu=35.1  sym=2.9
+  site C KKH-loop 全段逐残基（看 431 在这段里的角色）
+    K427 sym=>6  K428 sym=>6  H429 sym=>6  L430 sym=>6  D431 sym=>6  K432 sym=>6
+==============================================================================
+6EDB  空间群 I 2 2 2
+  已报道位点的代表残基（侧链到 DNA 的最近距离，单位 A；sym = 含晶体对称拷贝）
+    site A                   LYS173 asu=2.4 sym=2.4 | ARG176 asu=2.8 sym=2.8 | LYS407 asu=3.0 sym=3.0 | LYS411 asu=5.0 sym=5.0
+    site B                   LYS347 asu=15.8 sym=2.3 | LYS350 asu=14.5 sym=2.7
+    site C alpha(261-286)    GLN264 asu=27.6 sym=5.1 | LYS275 asu=29.0 sym=3.8 | LYS279 asu=26.1 sym=2.3 | LYS282 asu=25.9 sym=3.5 | LYS285 asu=23.3 sym=2.9
+    site C KRKR(299-302)     LYS299 asu=21.3 sym=5.6 | ARG300 asu=25.2 sym=2.8 | LYS301 asu=24.9 sym=2.3 | ARG302 asu=24.7 sym=3.5
+    site C KKH(427-432)      LYS427 asu=31.8 sym=3.7 | LYS428 asu=32.4 sym=3.2 | LYS432 asu=27.1 sym=2.8
+  我们研究的 4 个位点
+    ASP431  asu=26.7  sym=>6  <-- 落在 site C 的 KKH-loop(427-432) 区间内
+    LYS479  asu=29.6  sym=>6
+    LEU495  asu=27.5  sym=>6
+    LYS498  asu=35.3  sym=>6
+  site C KKH-loop 全段逐残基（看 431 在这段里的角色）
+    K427 sym=3.7  K428 sym=3.2  H429 sym=>6  L430 sym=>6  D431 sym=>6  K432 sym=2.8
+==============================================================================
+6EDC  空间群 P 61 2 2
+  已报道位点的代表残基（侧链到 DNA 的最近距离，单位 A；sym = 含晶体对称拷贝）
+    site A                   LYS173 asu=3.2 sym=3.2 | ARG176 asu=2.9 sym=2.9 | LYS407 asu=2.6 sym=2.6 | LYS411 asu=4.0 sym=4.0
+    site B                   LYS347 asu=16.2 sym=3.1 | LYS350 asu=15.6 sym=2.9
+    site C alpha(261-286)    GLN264 asu=13.8 sym=>6 | LYS275 asu=20.4 sym=>6 | LYS279 asu=15.3 sym=>6 | LYS282 asu=19.4 sym=>6 | LYS285 asu=19.6 sym=>6
+    site C KRKR(299-302)     GLU299 asu=19.7 sym=>6 | ALA300 asu=21.1 sym=>6 | GLU301 asu=24.1 sym=>6 | ARG302 asu=25.3 sym=>6
+    site C KKH(427-432)      LYS427 asu=31.5 sym=>6 | LYS428 asu=31.7 sym=>6 | LYS432 asu=26.2 sym=>6
+  我们研究的 4 个位点
+    ASP431  asu=27.3  sym=>6  <-- 落在 site C 的 KKH-loop(427-432) 区间内
+    LYS479  asu=28.7  sym=4.4
+    LEU495  asu=26.5  sym=>6
+    LYS498  asu=33.3  sym=5.2
+  site C KKH-loop 全段逐残基（看 431 在这段里的角色）
+    K427 sym=>6  K428 sym=>6  H429 sym=>6  L430 sym=>6  D431 sym=>6  K432 sym=>6

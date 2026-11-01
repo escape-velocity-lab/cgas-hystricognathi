@@ -1,0 +1,157 @@
+物种总数 281；其中啮齿目 70；豪猪亚目+梳趾鼠新增 20
+
+===== 树 Completed5911：277 个物种上树；缺 4：Balaenoptera ricei, Bubalus kerabau, Cervus canadensis, Pteronotus mesoamericanus
+  节点 啮齿目祖先 Rodentia: 下含 70 种（…）
+  节点 梳趾鼠+豪猪亚目 Ctenohystrica: 下含 25 种（Capromys pilorides, Cavia aperea, Cavia porcellus, Cavia tschudii, Chinchilla lanigera, Coendou prehensilis, Ctenodactylus gundi, Ctenomys sociabilis, Cuniculus paca, Dasyprocta punctata, Dinomys branickii, Dolichotis patagonum, Erethizon dorsatum, Fukomys anselli, Fukomys damarensis, Heterocephalus glaber, Hydrochoerus hydrochaeris, Hystrix brachyura, Hystrix cristata, Myocastor coypus, Octodon degus, Octomys mimax, Petromus typicus, Thryonomys swinderianus, Tympanoctomys barrerae）
+  节点 豪猪亚目祖先 Hystricognathi: 下含 24 种（Capromys pilorides, Cavia aperea, Cavia porcellus, Cavia tschudii, Chinchilla lanigera, Coendou prehensilis, Ctenomys sociabilis, Cuniculus paca, Dasyprocta punctata, Dinomys branickii, Dolichotis patagonum, Erethizon dorsatum, Fukomys anselli, Fukomys damarensis, Heterocephalus glaber, Hydrochoerus hydrochaeris, Hystrix brachyura, Hystrix cristata, Myocastor coypus, Octodon degus, Octomys mimax, Petromus typicus, Thryonomys swinderianus, Tympanoctomys barrerae）
+  节点 非洲鼹鼠+蔗鼠+岩鼠（除豪猪科）: 下含 5 种（Fukomys anselli, Fukomys damarensis, Heterocephalus glaber, Petromus typicus, Thryonomys swinderianus）
+  节点 非洲鼹鼠科 Bathyergidae s.l.: 下含 3 种（Fukomys anselli, Fukomys damarensis, Heterocephalus glaber）
+  节点 南美支 Caviomorpha: 下含 17 种（Capromys pilorides, Cavia aperea, Cavia porcellus, Cavia tschudii, Chinchilla lanigera, Coendou prehensilis, Ctenomys sociabilis, Cuniculus paca, Dasyprocta punctata, Dinomys branickii, Dolichotis patagonum, Erethizon dorsatum, Hydrochoerus hydrochaeris, Myocastor coypus, Octodon degus, Octomys mimax, Tympanoctomys barrerae）
+  节点 豚鼠总科 Cavioidea: 下含 7 种（Cavia aperea, Cavia porcellus, Cavia tschudii, Cuniculus paca, Dasyprocta punctata, Dolichotis patagonum, Hydrochoerus hydrochaeris）
+  节点 豚鼠科 Caviidae: 下含 5 种（Cavia aperea, Cavia porcellus, Cavia tschudii, Dolichotis patagonum, Hydrochoerus hydrochaeris）
+  节点 豚鼠属 Cavia: 下含 2 种（Cavia porcellus, Cavia tschudii）
+  节点 毛丝鼠总科 Chinchilloidea: 下含 2 种（Chinchilla lanigera, Dinomys branickii）
+  节点 八齿鼠总科 Octodontoidea: 下含 6 种（Capromys pilorides, Ctenomys sociabilis, Myocastor coypus, Octodon degus, Octomys mimax, Tympanoctomys barrerae）
+  梳趾鼠+豪猪亚目子树拓扑（括号后数字 = 该节点上方枝长，百万年）：(Ctenodactylus_gundi,((Hystrix_brachyura,Hystrix_cristata):44.6,(((Thryonomys_swinderianus,Petromus_typicus):15.7,(Heterocephalus_glaber,(Fukomys_damarensis,Fukomys_anselli):28.1):11.5):4.9,((Cuniculus_paca,(Dasyprocta_punctata,((Hydrochoerus_hydrochaeris,Dolichotis_patagonum):2.9,((Cavia_porcellus,Cavia_tschudii):1.1,Cavia_aperea):16.2):10.4):1.1):9.8,((Erethizon_dorsatum,Coendou_prehensilis):28.6,((Dinomys_branickii,Chinchilla_lanigera):11.8,((Myocastor_coypus,Capromys_pilorides):4.2,(Ctenomys_sociabilis,((Tympanoctomys_barrerae,Octomys_mimax):3.2,Octodon_degus):9.8):6.5):9.1):5.0):1.1):6.3):1.9):17.9):2.1
+
+  位点 D431（裸鼹鼠型 S）：Fitch 最少变化 27 次；Mk-ER 9 态 q=0.0005874/Myr lnL=-146.13；二态 ER q=0.0003192 lnL=-12.56；二态 ARD 得=0.000179 失=0.002 lnL=-11.35
+    啮齿目祖先 Rodentia                           Fitch=D      ML: D=1.000 S=0.000 N=0.000 | P(裸鼹鼠型) 多态ER=0.000 二态ER=0.000 二态ARD=0.000
+    梳趾鼠+豪猪亚目 Ctenohystrica                   Fitch=CS     ML: D=0.868 S=0.101 C=0.025 | P(裸鼹鼠型) 多态ER=0.101 二态ER=0.003 二态ARD=0.015
+    豪猪亚目祖先 Hystricognathi                    Fitch=S      ML: S=0.997 D=0.003 C=0.000 | P(裸鼹鼠型) 多态ER=0.997 二态ER=0.998 二态ARD=0.999
+    非洲鼹鼠+蔗鼠+岩鼠（除豪猪科）                         Fitch=S      ML: S=1.000 D=0.000 C=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    非洲鼹鼠科 Bathyergidae s.l.                  Fitch=S      ML: S=1.000 D=0.000 C=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    南美支 Caviomorpha                          Fitch=S      ML: S=1.000 T=0.000 D=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    豚鼠总科 Cavioidea                           Fitch=S      ML: S=1.000 T=0.000 D=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    豚鼠科 Caviidae                             Fitch=S      ML: S=1.000 T=0.000 D=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    豚鼠属 Cavia                                Fitch=S      ML: S=1.000 T=0.000 D=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    毛丝鼠总科 Chinchilloidea                     Fitch=S      ML: S=1.000 T=0.000 D=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    八齿鼠总科 Octodontoidea                      Fitch=S      ML: S=1.000 T=0.000 D=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+
+  位点 K479（裸鼹鼠型 E）：Fitch 最少变化 40 次；Mk-ER 12 态 q=0.0006473/Myr lnL=-215.11；二态 ER q=0.0006707 lnL=-21.81；二态 ARD 得=0.000747 失=6.42e-17 lnL=-21.32
+    啮齿目祖先 Rodentia                           Fitch=Q      ML: Q=0.999 K=0.001 E=0.000 | P(裸鼹鼠型) 多态ER=0.000 二态ER=0.000 二态ARD=0.000
+    梳趾鼠+豪猪亚目 Ctenohystrica                   Fitch=ET     ML: Q=0.866 E=0.099 T=0.023 | P(裸鼹鼠型) 多态ER=0.099 二态ER=0.005 二态ARD=0.000
+    豪猪亚目祖先 Hystricognathi                    Fitch=E      ML: E=0.997 Q=0.003 T=0.000 | P(裸鼹鼠型) 多态ER=0.997 二态ER=0.997 二态ARD=0.996
+    非洲鼹鼠+蔗鼠+岩鼠（除豪猪科）                         Fitch=E      ML: E=1.000 Q=0.000 T=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    非洲鼹鼠科 Bathyergidae s.l.                  Fitch=E      ML: E=1.000 Q=0.000 T=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    南美支 Caviomorpha                          Fitch=E      ML: E=1.000 Q=0.000 T=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    豚鼠总科 Cavioidea                           Fitch=E      ML: E=1.000 Q=0.000 T=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    豚鼠科 Caviidae                             Fitch=E      ML: E=1.000 Q=0.000 T=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    豚鼠属 Cavia                                Fitch=E      ML: E=1.000 Q=0.000 T=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    毛丝鼠总科 Chinchilloidea                     Fitch=E      ML: E=1.000 Q=0.000 T=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    八齿鼠总科 Octodontoidea                      Fitch=E      ML: E=1.000 Q=0.000 T=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+
+  位点 L495（裸鼹鼠型 Y）：Fitch 最少变化 41 次；Mk-ER 10 态 q=0.0008634/Myr lnL=-212.76；二态 ER q=0.001001 lnL=-30.79；二态 ARD 得=0.000442 失=0.0263 lnL=-24.21
+    啮齿目祖先 Rodentia                           Fitch=K      ML: Q=0.515 H=0.345 K=0.097 | P(裸鼹鼠型) 多态ER=0.019 二态ER=0.000 二态ARD=0.264
+    梳趾鼠+豪猪亚目 Ctenohystrica                   Fitch=H      ML: H=0.858 Q=0.075 Y=0.045 | P(裸鼹鼠型) 多态ER=0.045 二态ER=0.000 二态ARD=0.449
+    豪猪亚目祖先 Hystricognathi                    Fitch=H      ML: H=0.902 Y=0.091 Q=0.004 | P(裸鼹鼠型) 多态ER=0.091 二态ER=0.000 二态ARD=0.900
+    非洲鼹鼠+蔗鼠+岩鼠（除豪猪科）                         Fitch=Y      ML: H=0.516 Y=0.317 N=0.151 | P(裸鼹鼠型) 多态ER=0.317 二态ER=0.007 二态ARD=0.990
+    非洲鼹鼠科 Bathyergidae s.l.                  Fitch=Y      ML: Y=0.949 H=0.035 N=0.011 | P(裸鼹鼠型) 多态ER=0.949 二态ER=0.932 二态ARD=0.999
+    南美支 Caviomorpha                          Fitch=Y      ML: H=0.880 Y=0.119 N=0.001 | P(裸鼹鼠型) 多态ER=0.119 二态ER=0.000 二态ARD=0.996
+    豚鼠总科 Cavioidea                           Fitch=Y      ML: H=0.875 Y=0.109 N=0.008 | P(裸鼹鼠型) 多态ER=0.109 二态ER=0.000 二态ARD=0.927
+    豚鼠科 Caviidae                             Fitch=Y      ML: H=0.890 Y=0.106 D=0.002 | P(裸鼹鼠型) 多态ER=0.106 二态ER=0.002 二态ARD=0.914
+    豚鼠属 Cavia                                Fitch=Y      ML: Y=1.000 H=0.000 D=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    毛丝鼠总科 Chinchilloidea                     Fitch=Y      ML: H=0.663 Y=0.335 N=0.000 | P(裸鼹鼠型) 多态ER=0.335 二态ER=0.250 二态ARD=0.989
+    八齿鼠总科 Octodontoidea                      Fitch=Y      ML: Y=0.718 H=0.281 N=0.000 | P(裸鼹鼠型) 多态ER=0.718 二态ER=0.679 二态ARD=1.000
+
+  位点 K498（裸鼹鼠型 T）：Fitch 最少变化 22 次；Mk-ER 7 态 q=0.0006231/Myr lnL=-116.84；二态 ER q=0.0009948 lnL=-30.54；二态 ARD 得=0.00077 失=0.00759 lnL=-27.93
+    啮齿目祖先 Rodentia                           Fitch=K      ML: K=1.000 T=0.000 Q=0.000 | P(裸鼹鼠型) 多态ER=0.000 二态ER=0.000 二态ARD=0.001
+    梳趾鼠+豪猪亚目 Ctenohystrica                   Fitch=K      ML: K=0.994 T=0.005 Q=0.000 | P(裸鼹鼠型) 多态ER=0.005 二态ER=0.008 二态ARD=0.046
+    豪猪亚目祖先 Hystricognathi                    Fitch=T      ML: T=0.996 K=0.004 R=0.000 | P(裸鼹鼠型) 多态ER=0.996 二态ER=0.991 二态ARD=0.995
+    非洲鼹鼠+蔗鼠+岩鼠（除豪猪科）                         Fitch=T      ML: T=1.000 K=0.000 R=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    非洲鼹鼠科 Bathyergidae s.l.                  Fitch=T      ML: T=1.000 K=0.000 R=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    南美支 Caviomorpha                          Fitch=T      ML: T=0.999 K=0.001 R=0.000 | P(裸鼹鼠型) 多态ER=0.999 二态ER=0.994 二态ARD=1.000
+    豚鼠总科 Cavioidea                           Fitch=T      ML: T=0.999 K=0.001 R=0.000 | P(裸鼹鼠型) 多态ER=0.999 二态ER=0.995 二态ARD=0.999
+    豚鼠科 Caviidae                             Fitch=T      ML: T=1.000 K=0.000 R=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    豚鼠属 Cavia                                Fitch=T      ML: T=1.000 K=0.000 R=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    毛丝鼠总科 Chinchilloidea                     Fitch=K      ML: K=0.979 T=0.014 R=0.004 | P(裸鼹鼠型) 多态ER=0.014 二态ER=0.001 二态ARD=0.034
+    八齿鼠总科 Octodontoidea                      Fitch=QR     ML: R=0.489 Q=0.333 T=0.122 | P(裸鼹鼠型) 多态ER=0.122 二态ER=0.000 二态ARD=0.007
+
+===== 树 DNAonly4098：275 个物种上树；缺 6：Balaenoptera ricei, Bubalus kerabau, Cervus canadensis, Leopardus geoffroyi, Pteronotus mesoamericanus, Fukomys anselli
+  节点 啮齿目祖先 Rodentia: 下含 69 种（…）
+  节点 梳趾鼠+豪猪亚目 Ctenohystrica: 下含 24 种（Capromys pilorides, Cavia aperea, Cavia porcellus, Cavia tschudii, Chinchilla lanigera, Coendou prehensilis, Ctenodactylus gundi, Ctenomys sociabilis, Cuniculus paca, Dasyprocta punctata, Dinomys branickii, Dolichotis patagonum, Erethizon dorsatum, Fukomys damarensis, Heterocephalus glaber, Hydrochoerus hydrochaeris, Hystrix brachyura, Hystrix cristata, Myocastor coypus, Octodon degus, Octomys mimax, Petromus typicus, Thryonomys swinderianus, Tympanoctomys barrerae）
+  节点 豪猪亚目祖先 Hystricognathi: 下含 23 种（Capromys pilorides, Cavia aperea, Cavia porcellus, Cavia tschudii, Chinchilla lanigera, Coendou prehensilis, Ctenomys sociabilis, Cuniculus paca, Dasyprocta punctata, Dinomys branickii, Dolichotis patagonum, Erethizon dorsatum, Fukomys damarensis, Heterocephalus glaber, Hydrochoerus hydrochaeris, Hystrix brachyura, Hystrix cristata, Myocastor coypus, Octodon degus, Octomys mimax, Petromus typicus, Thryonomys swinderianus, Tympanoctomys barrerae）
+  节点 非洲鼹鼠+蔗鼠+岩鼠（除豪猪科）: 下含 4 种（Fukomys damarensis, Heterocephalus glaber, Petromus typicus, Thryonomys swinderianus）
+  节点 非洲鼹鼠科 Bathyergidae s.l.: 下含 2 种（Fukomys damarensis, Heterocephalus glaber）
+  节点 南美支 Caviomorpha: 下含 17 种（Capromys pilorides, Cavia aperea, Cavia porcellus, Cavia tschudii, Chinchilla lanigera, Coendou prehensilis, Ctenomys sociabilis, Cuniculus paca, Dasyprocta punctata, Dinomys branickii, Dolichotis patagonum, Erethizon dorsatum, Hydrochoerus hydrochaeris, Myocastor coypus, Octodon degus, Octomys mimax, Tympanoctomys barrerae）
+  节点 豚鼠总科 Cavioidea: 下含 7 种（Cavia aperea, Cavia porcellus, Cavia tschudii, Cuniculus paca, Dasyprocta punctata, Dolichotis patagonum, Hydrochoerus hydrochaeris）
+  节点 豚鼠科 Caviidae: 下含 5 种（Cavia aperea, Cavia porcellus, Cavia tschudii, Dolichotis patagonum, Hydrochoerus hydrochaeris）
+  节点 豚鼠属 Cavia: 下含 2 种（Cavia porcellus, Cavia tschudii）
+  节点 毛丝鼠总科 Chinchilloidea: 下含 2 种（Chinchilla lanigera, Dinomys branickii）
+  节点 八齿鼠总科 Octodontoidea: 下含 6 种（Capromys pilorides, Ctenomys sociabilis, Myocastor coypus, Octodon degus, Octomys mimax, Tympanoctomys barrerae）
+  梳趾鼠+豪猪亚目子树拓扑（括号后数字 = 该节点上方枝长，百万年）：(Ctenodactylus_gundi,((Hystrix_brachyura,Hystrix_cristata):41.0,(((Thryonomys_swinderianus,Petromus_typicus):13.4,(Heterocephalus_glaber,Fukomys_damarensis):6.7):9.7,(((Erethizon_dorsatum,Coendou_prehensilis):25.3,(Cuniculus_paca,(Dasyprocta_punctata,((Hydrochoerus_hydrochaeris,Dolichotis_patagonum):1.5,((Cavia_tschudii,Cavia_porcellus):0.5,Cavia_aperea):10.8):11.6):1.0):10.5):0.9,((Dinomys_branickii,Chinchilla_lanigera):10.5,((Capromys_pilorides,Myocastor_coypus):4.6,(Ctenomys_sociabilis,((Tympanoctomys_barrerae,Octomys_mimax):1.5,Octodon_degus):10.6):4.0):10.2):4.2):7.0):1.7):16.5):3.0
+
+  位点 D431（裸鼹鼠型 S）：Fitch 最少变化 27 次；Mk-ER 9 态 q=0.0005977/Myr lnL=-146.79；二态 ER q=0.0003233 lnL=-12.75；二态 ARD 得=0.00018 失=0.00231 lnL=-11.42
+    啮齿目祖先 Rodentia                           Fitch=D      ML: D=1.000 N=0.000 S=0.000 | P(裸鼹鼠型) 多态ER=0.000 二态ER=0.000 二态ARD=0.000
+    梳趾鼠+豪猪亚目 Ctenohystrica                   Fitch=CS     ML: D=0.812 S=0.144 C=0.035 | P(裸鼹鼠型) 多态ER=0.144 二态ER=0.004 二态ARD=0.025
+    豪猪亚目祖先 Hystricognathi                    Fitch=S      ML: S=0.997 D=0.002 C=0.000 | P(裸鼹鼠型) 多态ER=0.997 二态ER=0.999 二态ARD=0.999
+    非洲鼹鼠+蔗鼠+岩鼠（除豪猪科）                         Fitch=S      ML: S=1.000 D=0.000 C=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    非洲鼹鼠科 Bathyergidae s.l.                  Fitch=S      ML: S=1.000 D=0.000 C=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    南美支 Caviomorpha                          Fitch=S      ML: S=1.000 T=0.000 D=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    豚鼠总科 Cavioidea                           Fitch=S      ML: S=1.000 T=0.000 D=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    豚鼠科 Caviidae                             Fitch=S      ML: S=1.000 T=0.000 D=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    豚鼠属 Cavia                                Fitch=S      ML: S=1.000 T=0.000 D=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    毛丝鼠总科 Chinchilloidea                     Fitch=S      ML: S=1.000 T=0.000 D=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    八齿鼠总科 Octodontoidea                      Fitch=S      ML: S=1.000 T=0.000 D=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+
+  位点 K479（裸鼹鼠型 E）：Fitch 最少变化 40 次；Mk-ER 12 态 q=0.0006549/Myr lnL=-215.63；二态 ER q=0.0006676 lnL=-21.42；二态 ARD 得=0.000735 失=3.17e-18 lnL=-20.98
+    啮齿目祖先 Rodentia                           Fitch=Q      ML: Q=0.983 K=0.015 E=0.001 | P(裸鼹鼠型) 多态ER=0.001 二态ER=0.000 二态ARD=0.000
+    梳趾鼠+豪猪亚目 Ctenohystrica                   Fitch=ET     ML: Q=0.800 E=0.145 T=0.033 | P(裸鼹鼠型) 多态ER=0.145 二态ER=0.007 二态ARD=0.000
+    豪猪亚目祖先 Hystricognathi                    Fitch=E      ML: E=0.997 Q=0.002 T=0.000 | P(裸鼹鼠型) 多态ER=0.997 二态ER=0.997 二态ARD=0.997
+    非洲鼹鼠+蔗鼠+岩鼠（除豪猪科）                         Fitch=E      ML: E=1.000 Q=0.000 T=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    非洲鼹鼠科 Bathyergidae s.l.                  Fitch=E      ML: E=1.000 Q=0.000 T=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    南美支 Caviomorpha                          Fitch=E      ML: E=1.000 Q=0.000 T=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    豚鼠总科 Cavioidea                           Fitch=E      ML: E=1.000 Q=0.000 T=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    豚鼠科 Caviidae                             Fitch=E      ML: E=1.000 Q=0.000 T=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    豚鼠属 Cavia                                Fitch=E      ML: E=1.000 Q=0.000 T=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    毛丝鼠总科 Chinchilloidea                     Fitch=E      ML: E=1.000 Q=0.000 T=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    八齿鼠总科 Octodontoidea                      Fitch=E      ML: E=1.000 Q=0.000 T=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+
+  位点 L495（裸鼹鼠型 Y）：Fitch 最少变化 41 次；Mk-ER 10 态 q=0.0008731/Myr lnL=-211.55；二态 ER q=0.001019 lnL=-32.01；二态 ARD 得=0.00039 失=0.0276 lnL=-24.52
+    啮齿目祖先 Rodentia                           Fitch=K      ML: Q=0.575 H=0.210 L=0.098 | P(裸鼹鼠型) 多态ER=0.011 二态ER=0.000 二态ARD=0.163
+    梳趾鼠+豪猪亚目 Ctenohystrica                   Fitch=H      ML: H=0.934 Y=0.040 Q=0.017 | P(裸鼹鼠型) 多态ER=0.040 二态ER=0.000 二态ARD=0.698
+    豪猪亚目祖先 Hystricognathi                    Fitch=H      ML: H=0.941 Y=0.057 Q=0.001 | P(裸鼹鼠型) 多态ER=0.057 二态ER=0.000 二态ARD=0.947
+    非洲鼹鼠+蔗鼠+岩鼠（除豪猪科）                         Fitch=Y      ML: Y=0.470 H=0.301 N=0.210 | P(裸鼹鼠型) 多态ER=0.470 二态ER=0.018 二态ARD=0.995
+    非洲鼹鼠科 Bathyergidae s.l.                  Fitch=Y      ML: Y=0.944 H=0.031 N=0.022 | P(裸鼹鼠型) 多态ER=0.944 二态ER=0.901 二态ARD=0.999
+    南美支 Caviomorpha                          Fitch=Y      ML: H=0.921 Y=0.079 N=0.000 | P(裸鼹鼠型) 多态ER=0.079 二态ER=0.001 二态ARD=0.998
+    豚鼠总科 Cavioidea                           Fitch=H      ML: H=0.924 Y=0.059 N=0.008 | P(裸鼹鼠型) 多态ER=0.059 二态ER=0.000 二态ARD=0.896
+    豚鼠科 Caviidae                             Fitch=H      ML: H=0.940 Y=0.058 D=0.001 | P(裸鼹鼠型) 多态ER=0.058 二态ER=0.002 二态ARD=0.885
+    豚鼠属 Cavia                                Fitch=Y      ML: Y=1.000 H=0.000 D=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    毛丝鼠总科 Chinchilloidea                     Fitch=Y      ML: H=0.709 Y=0.289 N=0.000 | P(裸鼹鼠型) 多态ER=0.289 二态ER=0.232 二态ARD=0.991
+    八齿鼠总科 Octodontoidea                      Fitch=Y      ML: Y=0.793 H=0.206 N=0.000 | P(裸鼹鼠型) 多态ER=0.793 二态ER=0.773 二态ARD=1.000
+
+  位点 K498（裸鼹鼠型 T）：Fitch 最少变化 22 次；Mk-ER 7 态 q=0.0006328/Myr lnL=-116.67；二态 ER q=0.001007 lnL=-31.05；二态 ARD 得=0.000789 失=0.00918 lnL=-28.07
+    啮齿目祖先 Rodentia                           Fitch=K      ML: K=1.000 T=0.000 Q=0.000 | P(裸鼹鼠型) 多态ER=0.000 二态ER=0.000 二态ARD=0.002
+    梳趾鼠+豪猪亚目 Ctenohystrica                   Fitch=K      ML: K=0.992 T=0.008 Q=0.000 | P(裸鼹鼠型) 多态ER=0.008 二态ER=0.011 二态ARD=0.093
+    豪猪亚目祖先 Hystricognathi                    Fitch=T      ML: T=0.995 K=0.005 Q=0.000 | P(裸鼹鼠型) 多态ER=0.995 二态ER=0.982 二态ARD=0.995
+    非洲鼹鼠+蔗鼠+岩鼠（除豪猪科）                         Fitch=T      ML: T=1.000 K=0.000 Q=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    非洲鼹鼠科 Bathyergidae s.l.                  Fitch=T      ML: T=1.000 K=0.000 Q=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    南美支 Caviomorpha                          Fitch=T      ML: T=0.997 K=0.002 Q=0.000 | P(裸鼹鼠型) 多态ER=0.997 二态ER=0.983 二态ARD=0.998
+    豚鼠总科 Cavioidea                           Fitch=T      ML: T=0.998 K=0.002 Q=0.000 | P(裸鼹鼠型) 多态ER=0.998 二态ER=0.990 二态ARD=0.999
+    豚鼠科 Caviidae                             Fitch=T      ML: T=1.000 K=0.000 Q=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    豚鼠属 Cavia                                Fitch=T      ML: T=1.000 K=0.000 Q=0.000 | P(裸鼹鼠型) 多态ER=1.000 二态ER=1.000 二态ARD=1.000
+    毛丝鼠总科 Chinchilloidea                     Fitch=K      ML: K=0.976 T=0.017 Q=0.003 | P(裸鼹鼠型) 多态ER=0.017 二态ER=0.001 二态ARD=0.057
+    八齿鼠总科 Octodontoidea                      Fitch=QR     ML: Q=0.458 R=0.395 T=0.103 | P(裸鼹鼠型) 多态ER=0.103 二态ER=0.000 二态ARD=0.007
+
+===== 4 位点同时为裸鼹鼠型（位点独立近似，P 相乘）
+  Completed5911  啮齿目祖先 Rodentia                           多态ER=0.000 二态ER=0.000 二态ARD=0.000
+  Completed5911  梳趾鼠+豪猪亚目 Ctenohystrica                   多态ER=0.000 二态ER=0.000 二态ARD=0.000
+  Completed5911  豪猪亚目祖先 Hystricognathi                    多态ER=0.090 二态ER=0.000 二态ARD=0.892
+  Completed5911  非洲鼹鼠+蔗鼠+岩鼠（除豪猪科）                         多态ER=0.317 二态ER=0.006 二态ARD=0.991
+  Completed5911  非洲鼹鼠科 Bathyergidae s.l.                  多态ER=0.949 二态ER=0.932 二态ARD=0.999
+  Completed5911  南美支 Caviomorpha                          多态ER=0.119 二态ER=0.000 二态ARD=0.996
+  Completed5911  豚鼠总科 Cavioidea                           多态ER=0.109 二态ER=0.000 二态ARD=0.927
+  Completed5911  豚鼠科 Caviidae                             多态ER=0.106 二态ER=0.002 二态ARD=0.914
+  Completed5911  豚鼠属 Cavia                                多态ER=1.000 二态ER=1.000 二态ARD=1.000
+  Completed5911  毛丝鼠总科 Chinchilloidea                     多态ER=0.005 二态ER=0.000 二态ARD=0.033
+  Completed5911  八齿鼠总科 Octodontoidea                      多态ER=0.088 二态ER=0.000 二态ARD=0.007
+  DNAonly4098    啮齿目祖先 Rodentia                           多态ER=0.000 二态ER=0.000 二态ARD=0.000
+  DNAonly4098    梳趾鼠+豪猪亚目 Ctenohystrica                   多态ER=0.000 二态ER=0.000 二态ARD=0.000
+  DNAonly4098    豪猪亚目祖先 Hystricognathi                    多态ER=0.056 二态ER=0.000 二态ARD=0.939
+  DNAonly4098    非洲鼹鼠+蔗鼠+岩鼠（除豪猪科）                         多态ER=0.469 二态ER=0.018 二态ARD=0.995
+  DNAonly4098    非洲鼹鼠科 Bathyergidae s.l.                  多态ER=0.944 二态ER=0.901 二态ARD=0.999
+  DNAonly4098    南美支 Caviomorpha                          多态ER=0.079 二态ER=0.001 二态ARD=0.996
+  DNAonly4098    豚鼠总科 Cavioidea                           多态ER=0.059 二态ER=0.000 二态ARD=0.896
+  DNAonly4098    豚鼠科 Caviidae                             多态ER=0.058 二态ER=0.002 二态ARD=0.885
+  DNAonly4098    豚鼠属 Cavia                                多态ER=1.000 二态ER=1.000 二态ARD=1.000
+  DNAonly4098    毛丝鼠总科 Chinchilloidea                     多态ER=0.005 二态ER=0.000 二态ARD=0.056
+  DNAonly4098    八齿鼠总科 Octodontoidea                      多态ER=0.081 二态ER=0.000 二态ARD=0.007

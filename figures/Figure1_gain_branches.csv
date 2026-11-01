@@ -1,0 +1,10 @@
+site,branch_to,P_parent,P_child,age_from,age_to
+K498T,Nannospalax galili,0.041,1.0,54.7,-0.0
+L495Y,Sciurus vulgaris,0.141,1.0,30.5,0.0
+L495Y,"Fukomys anselli, Fukomys damarensis, Heterocephalus glaber",0.317,0.949,41.5,30.0
+L495Y,"Cavia aperea, Cavia porcellus, Cavia tschudii",0.106,0.941,18.8,2.6
+L495Y,Chinchilla lanigera,0.335,1.0,22.1,0.0
+L495Y,6 spp. clade,0.332,0.718,33.9,24.8
+D431S,24 spp. clade,0.101,0.997,66.2,48.3
+K479E,24 spp. clade,0.099,0.997,66.2,48.3
+K498T,24 spp. clade,0.005,0.996,66.2,48.3

@@ -1,0 +1,904 @@
+{
+ "v1_genes": 270,
+ "v1_species": 268,
+ "v1_usable_species": 262,
+ "v1_unusable": [
+  "Leptonychotes weddellii",
+  "Hipposideros armiger",
+  "Myotis brandtii",
+  "Lepus europaeus",
+  "Manis javanica",
+  "Manis pentadactyla"
+ ],
+ "v1_usable_with_LQ": 204,
+ "v1_usable_LQ_by_source": {
+  "taxid 精确": 202,
+  "借用近缘种（AnAge 只有婆罗洲猩猩记录，苏门答腊猩猩 2001 年才拆分为独立种）": 1,
+  "借用近缘种（AnAge 只有 S. ehrenbergi 复合种记录，N. galili 是从该复合种拆出的种）": 1
+ },
+ "v1_LQ_groups": {
+  "短寿": 72,
+  "中间": 71,
+  "长寿": 61
+ },
+ "v1_orders": 22,
+ "v1_hyst_species": [
+  "Fukomys damarensis",
+  "Heterocephalus glaber",
+  "Cavia porcellus",
+  "Chinchilla lanigera",
+  "Octodon degus"
+ ],
+ "v1_site431_counts": {
+  "D": 179,
+  "E": 33,
+  "N": 14,
+  "G": 13,
+  "K": 8,
+  "T": 6,
+  "S": 5,
+  "A": 4
+ },
+ "v1_site431_nmr_all": 5,
+ "v1_site431_human": 179,
+ "v1_site431_nmr_outside_hyst": 0,
+ "v1_site431_nmr_outside_hyst_species": [],
+ "v1_site479_counts": {
+  "Q": 118,
+  "H": 45,
+  "K": 45,
+  "R": 19,
+  "N": 11,
+  "E": 10,
+  "S": 4,
+  "C": 4,
+  "D": 3,
+  "Y": 1,
+  "T": 1,
+  "I": 1
+ },
+ "v1_site479_nmr_all": 10,
+ "v1_site479_human": 45,
+ "v1_site479_nmr_outside_hyst": 5,
+ "v1_site479_nmr_outside_hyst_species": [
+  "Choloepus didactylus",
+  "Tamandua tetradactyla",
+  "Carlito syrichta",
+  "Arvicanthis niloticus",
+  "Grammomys surdaster"
+ ],
+ "v1_site495_counts": {
+  "Q": 85,
+  "L": 71,
+  "H": 32,
+  "K": 31,
+  "E": 26,
+  "R": 7,
+  "Y": 7,
+  "D": 1,
+  "F": 1,
+  "N": 1
+ },
+ "v1_site495_nmr_all": 7,
+ "v1_site495_human": 71,
+ "v1_site495_nmr_outside_hyst": 2,
+ "v1_site495_nmr_outside_hyst_species": [
+  "Sciurus carolinensis",
+  "Sciurus vulgaris"
+ ],
+ "v1_site498_counts": {
+  "K": 206,
+  "Q": 23,
+  "R": 22,
+  "T": 6,
+  "N": 3,
+  "S": 1,
+  "P": 1
+ },
+ "v1_site498_nmr_all": 6,
+ "v1_site498_human": 206,
+ "v1_site498_nmr_outside_hyst": 3,
+ "v1_site498_nmr_outside_hyst_species": [
+  "Monodelphis domestica",
+  "Chlorocebus sabaeus",
+  "Nannospalax galili"
+ ],
+ "v1_n_outside_hyst": 257,
+ "v1_hits_dist": {
+  "0": 247,
+  "1": 10,
+  "3": 2,
+  "4": 3
+ },
+ "v1_outside_hyst_hits_ge2": 0,
+ "v1_outside_hyst_hits_1": 10,
+ "v1_outside_hyst_hits1_species": [
+  [
+   "Monodelphis domestica",
+   "K498T",
+   0.516
+  ],
+  [
+   "Choloepus didactylus",
+   "K479E",
+   1.948
+  ],
+  [
+   "Tamandua tetradactyla",
+   "K479E",
+   1.06
+  ],
+  [
+   "Chlorocebus sabaeus",
+   "K498T",
+   NaN
+  ],
+  [
+   "Carlito syrichta",
+   "K479E",
+   1.587
+  ],
+  [
+   "Arvicanthis niloticus",
+   "K479E",
+   0.673
+  ],
+  [
+   "Grammomys surdaster",
+   "K479E",
+   NaN
+  ],
+  [
+   "Sciurus carolinensis",
+   "L495Y",
+   1.846
+  ],
+  [
+   "Sciurus vulgaris",
+   "L495Y",
+   1.136
+  ],
+  [
+   "Nannospalax galili",
+   "K498T",
+   1.912
+  ]
+ ],
+ "anage_species_total": null,
+ "anage_mammals": 1349,
+ "lq_fit_n": 997,
+ "lq_fit_a": 0.6743,
+ "lq_fit_b": 0.1586,
+ "ext_species": 281,
+ "ext_source_counts": {
+  "RefSeq": 261,
+  "tblastn": 18,
+  "GenBank": 2
+ },
+ "ext_rodents": 70,
+ "ext_hyst_species": 24,
+ "ext_hyst_families": 13,
+ "ext_hyst_refseq": 5,
+ "ext_hyst_genbank": 1,
+ "ext_hyst_tblastn": 18,
+ "hyst_site431_readable": 24,
+ "hyst_site431_nmr": 22,
+ "hyst_site431_counts": {
+  "S": 22,
+  "T": 2
+ },
+ "hyst_site479_readable": 23,
+ "hyst_site479_nmr": 23,
+ "hyst_site479_counts": {
+  "E": 23
+ },
+ "hyst_site495_readable": 23,
+ "hyst_site495_nmr": 11,
+ "hyst_site495_counts": {
+  "Y": 11,
+  "H": 8,
+  "N": 3,
+  "D": 1
+ },
+ "hyst_site498_readable": 23,
+ "hyst_site498_nmr": 14,
+ "hyst_site498_counts": {
+  "T": 14,
+  "Q": 4,
+  "K": 3,
+  "R": 2
+ },
+ "hyst_fully_resolved": 23,
+ "hyst_unresolved": [
+  "Cavia aperea"
+ ],
+ "hyst_hits_dist": {
+  "2": 5,
+  "3": 13,
+  "4": 5
+ },
+ "hyst_4of4": [
+  [
+   "Fukomys damarensis",
+   "Bathyergidae",
+   15.5,
+   180.0,
+   1.44
+  ],
+  [
+   "Heterocephalus glaber",
+   "Bathyergidae",
+   31.0,
+   35.0,
+   3.735
+  ],
+  [
+   "Cavia porcellus",
+   "Caviidae",
+   12.0,
+   728.0,
+   0.893
+  ],
+  [
+   "Fukomys anselli",
+   "Bathyergidae",
+   20.6,
+   90.0,
+   2.137
+  ],
+  [
+   "Cavia tschudii",
+   "Caviidae",
+   6.3,
+   637.5,
+   0.479
+  ]
+ ],
+ "hyst_3of4": [
+  [
+   "Chinchilla lanigera",
+   "Chinchillidae",
+   17.2,
+   642.5,
+   1.306,
+   "S",
+   "E",
+   "Y",
+   "K"
+  ],
+  [
+   "Octodon degus",
+   "Octodontidae",
+   14.0,
+   235.0,
+   1.247,
+   "S",
+   "E",
+   "Y",
+   "Q"
+  ],
+  [
+   "Thryonomys swinderianus",
+   "Thryonomyidae",
+   5.4,
+   6600.0,
+   0.283,
+   "S",
+   "E",
+   "N",
+   "T"
+  ],
+  [
+   "Octomys mimax",
+   "Octodontidae",
+   NaN,
+   NaN,
+   NaN,
+   "S",
+   "E",
+   "Y",
+   "Q"
+  ],
+  [
+   "Tympanoctomys barrerae",
+   "Octodontidae",
+   NaN,
+   NaN,
+   NaN,
+   "S",
+   "E",
+   "Y",
+   "Q"
+  ],
+  [
+   "Petromus typicus",
+   "Petromuridae",
+   NaN,
+   NaN,
+   NaN,
+   "S",
+   "E",
+   "N",
+   "T"
+  ],
+  [
+   "Hystrix cristata",
+   "Hystricidae",
+   28.0,
+   20000.0,
+   1.233,
+   "S",
+   "E",
+   "H",
+   "T"
+  ],
+  [
+   "Dolichotis patagonum",
+   "Caviidae",
+   14.4,
+   12500.0,
+   0.683,
+   "S",
+   "E",
+   "H",
+   "T"
+  ],
+  [
+   "Ctenomys sociabilis",
+   "Ctenomyidae",
+   NaN,
+   NaN,
+   NaN,
+   "S",
+   "E",
+   "Y",
+   "Q"
+  ],
+  [
+   "Capromys pilorides",
+   "Echimyidae",
+   13.8,
+   4683.3,
+   0.765,
+   "S",
+   "E",
+   "Y",
+   "R"
+  ],
+  [
+   "Hydrochoerus hydrochaeris",
+   "Caviidae",
+   15.1,
+   55000.0,
+   0.566,
+   "S",
+   "E",
+   "H",
+   "T"
+  ],
+  [
+   "Hystrix brachyura",
+   "Hystricidae",
+   27.3,
+   8000.0,
+   1.39,
+   "S",
+   "E",
+   "H",
+   "T"
+  ],
+  [
+   "Dasyprocta punctata",
+   "Dasyproctidae",
+   13.8,
+   2150.0,
+   0.865,
+   "S",
+   "E",
+   "D",
+   "T"
+  ]
+ ],
+ "ext_outside_hyst_resolved": 257,
+ "ext_outside_hyst_hits_ge2": 0,
+ "gundi": {
+  "431": "C",
+  "479": "T",
+  "495": "H",
+  "498": "K",
+  "最大寿命_年": 5.8,
+  "LQ": 0.5,
+  "来源": "GenBank KAM5256511.1"
+ },
+ "fig2_n_total": 219,
+ "fig2_n_hyst": 19,
+ "fig2_n_other": 200,
+ "fig2_LQ_by_hits": {
+  "0": {
+   "n": 192,
+   "median": 1.06,
+   "min": 0.25,
+   "max": 5.0
+  },
+  "1": {
+   "n": 8,
+   "median": 1.36,
+   "min": 0.52,
+   "max": 1.95
+  },
+  "2": {
+   "n": 5,
+   "median": 0.97,
+   "min": 0.61,
+   "max": 1.52
+  },
+  "3": {
+   "n": 9,
+   "median": 0.86,
+   "min": 0.28,
+   "max": 1.39
+  },
+  "4": {
+   "n": 5,
+   "median": 1.44,
+   "min": 0.48,
+   "max": 3.73
+  }
+ },
+ "hyst_LQ_median": 0.97,
+ "hyst_LQ_range": [
+  0.28,
+  3.73
+ ],
+ "nonhyst_LQ_median": 1.07,
+ "fig2_spearman_rho_all_descriptive": -0.03,
+ "hyst_spearman_rho_descriptive": 0.2,
+ "asr_rows": 88,
+ "asr": {
+  "Completed5911|D431S|啮齿目祖先 Rodentia": [
+   "D",
+   "D",
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   27
+  ],
+  "Completed5911|D431S|梳趾鼠+豪猪亚目 Ctenohystrica": [
+   "CS",
+   "D",
+   0.868,
+   0.1006,
+   0.0025,
+   0.0146,
+   27
+  ],
+  "Completed5911|D431S|豪猪亚目祖先 Hystricognathi": [
+   "S",
+   "S",
+   0.9971,
+   0.9971,
+   0.9985,
+   0.9991,
+   27
+  ],
+  "Completed5911|D431S|非洲鼹鼠科 Bathyergidae s.l.": [
+   "S",
+   "S",
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   27
+  ],
+  "Completed5911|D431S|南美支 Caviomorpha": [
+   "S",
+   "S",
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   27
+  ],
+  "Completed5911|D431S|豚鼠属 Cavia": [
+   "S",
+   "S",
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   27
+  ],
+  "Completed5911|K479E|啮齿目祖先 Rodentia": [
+   "Q",
+   "Q",
+   0.9987,
+   0.0003,
+   0.0,
+   0.0,
+   40
+  ],
+  "Completed5911|K479E|梳趾鼠+豪猪亚目 Ctenohystrica": [
+   "ET",
+   "Q",
+   0.8664,
+   0.099,
+   0.0053,
+   0.0,
+   40
+  ],
+  "Completed5911|K479E|豪猪亚目祖先 Hystricognathi": [
+   "E",
+   "E",
+   0.9965,
+   0.9965,
+   0.9968,
+   0.9964,
+   40
+  ],
+  "Completed5911|K479E|非洲鼹鼠科 Bathyergidae s.l.": [
+   "E",
+   "E",
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   40
+  ],
+  "Completed5911|K479E|南美支 Caviomorpha": [
+   "E",
+   "E",
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   40
+  ],
+  "Completed5911|K479E|豚鼠属 Cavia": [
+   "E",
+   "E",
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   40
+  ],
+  "Completed5911|L495Y|啮齿目祖先 Rodentia": [
+   "K",
+   "Q",
+   0.5146,
+   0.0191,
+   0.0,
+   0.264,
+   41
+  ],
+  "Completed5911|L495Y|梳趾鼠+豪猪亚目 Ctenohystrica": [
+   "H",
+   "H",
+   0.8581,
+   0.0449,
+   0.0,
+   0.4486,
+   41
+  ],
+  "Completed5911|L495Y|豪猪亚目祖先 Hystricognathi": [
+   "H",
+   "H",
+   0.9015,
+   0.0907,
+   0.0,
+   0.9003,
+   41
+  ],
+  "Completed5911|L495Y|非洲鼹鼠科 Bathyergidae s.l.": [
+   "Y",
+   "Y",
+   0.9493,
+   0.9493,
+   0.9323,
+   0.9992,
+   41
+  ],
+  "Completed5911|L495Y|南美支 Caviomorpha": [
+   "Y",
+   "H",
+   0.88,
+   0.1187,
+   0.0001,
+   0.9962,
+   41
+  ],
+  "Completed5911|L495Y|豚鼠属 Cavia": [
+   "Y",
+   "Y",
+   0.9999,
+   0.9999,
+   0.9999,
+   1.0,
+   41
+  ],
+  "Completed5911|K498T|啮齿目祖先 Rodentia": [
+   "K",
+   "K",
+   1.0,
+   0.0,
+   0.0,
+   0.0006,
+   22
+  ],
+  "Completed5911|K498T|梳趾鼠+豪猪亚目 Ctenohystrica": [
+   "K",
+   "K",
+   0.9944,
+   0.0053,
+   0.0078,
+   0.0463,
+   22
+  ],
+  "Completed5911|K498T|豪猪亚目祖先 Hystricognathi": [
+   "T",
+   "T",
+   0.9962,
+   0.9962,
+   0.9914,
+   0.9955,
+   22
+  ],
+  "Completed5911|K498T|非洲鼹鼠科 Bathyergidae s.l.": [
+   "T",
+   "T",
+   1.0,
+   1.0,
+   1.0,
+   0.9999,
+   22
+  ],
+  "Completed5911|K498T|南美支 Caviomorpha": [
+   "T",
+   "T",
+   0.9992,
+   0.9992,
+   0.9944,
+   0.9996,
+   22
+  ],
+  "Completed5911|K498T|豚鼠属 Cavia": [
+   "T",
+   "T",
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   22
+  ],
+  "DNAonly4098|D431S|啮齿目祖先 Rodentia": [
+   "D",
+   "D",
+   1.0,
+   0.0,
+   0.0,
+   0.0,
+   27
+  ],
+  "DNAonly4098|D431S|梳趾鼠+豪猪亚目 Ctenohystrica": [
+   "CS",
+   "D",
+   0.8123,
+   0.1439,
+   0.0036,
+   0.0247,
+   27
+  ],
+  "DNAonly4098|D431S|豪猪亚目祖先 Hystricognathi": [
+   "S",
+   "S",
+   0.9975,
+   0.9975,
+   0.9986,
+   0.9992,
+   27
+  ],
+  "DNAonly4098|D431S|非洲鼹鼠科 Bathyergidae s.l.": [
+   "S",
+   "S",
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   27
+  ],
+  "DNAonly4098|D431S|南美支 Caviomorpha": [
+   "S",
+   "S",
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   27
+  ],
+  "DNAonly4098|D431S|豚鼠属 Cavia": [
+   "S",
+   "S",
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   27
+  ],
+  "DNAonly4098|K479E|啮齿目祖先 Rodentia": [
+   "Q",
+   "Q",
+   0.9833,
+   0.0013,
+   0.0,
+   0.0,
+   40
+  ],
+  "DNAonly4098|K479E|梳趾鼠+豪猪亚目 Ctenohystrica": [
+   "ET",
+   "Q",
+   0.8004,
+   0.1448,
+   0.0075,
+   0.0,
+   40
+  ],
+  "DNAonly4098|K479E|豪猪亚目祖先 Hystricognathi": [
+   "E",
+   "E",
+   0.997,
+   0.997,
+   0.9971,
+   0.9968,
+   40
+  ],
+  "DNAonly4098|K479E|非洲鼹鼠科 Bathyergidae s.l.": [
+   "E",
+   "E",
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   40
+  ],
+  "DNAonly4098|K479E|南美支 Caviomorpha": [
+   "E",
+   "E",
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   40
+  ],
+  "DNAonly4098|K479E|豚鼠属 Cavia": [
+   "E",
+   "E",
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   40
+  ],
+  "DNAonly4098|L495Y|啮齿目祖先 Rodentia": [
+   "K",
+   "Q",
+   0.5747,
+   0.0109,
+   0.0,
+   0.1634,
+   41
+  ],
+  "DNAonly4098|L495Y|梳趾鼠+豪猪亚目 Ctenohystrica": [
+   "H",
+   "H",
+   0.9338,
+   0.0404,
+   0.0,
+   0.6976,
+   41
+  ],
+  "DNAonly4098|L495Y|豪猪亚目祖先 Hystricognathi": [
+   "H",
+   "H",
+   0.941,
+   0.0568,
+   0.0001,
+   0.9466,
+   41
+  ],
+  "DNAonly4098|L495Y|非洲鼹鼠科 Bathyergidae s.l.": [
+   "Y",
+   "Y",
+   0.9436,
+   0.9436,
+   0.901,
+   0.9994,
+   41
+  ],
+  "DNAonly4098|L495Y|南美支 Caviomorpha": [
+   "Y",
+   "H",
+   0.9207,
+   0.0788,
+   0.0007,
+   0.9981,
+   41
+  ],
+  "DNAonly4098|L495Y|豚鼠属 Cavia": [
+   "Y",
+   "Y",
+   0.9999,
+   0.9999,
+   0.9998,
+   1.0,
+   41
+  ],
+  "DNAonly4098|K498T|啮齿目祖先 Rodentia": [
+   "K",
+   "K",
+   1.0,
+   0.0,
+   0.0,
+   0.0016,
+   22
+  ],
+  "DNAonly4098|K498T|梳趾鼠+豪猪亚目 Ctenohystrica": [
+   "K",
+   "K",
+   0.992,
+   0.0076,
+   0.0112,
+   0.0931,
+   22
+  ],
+  "DNAonly4098|K498T|豪猪亚目祖先 Hystricognathi": [
+   "T",
+   "T",
+   0.9951,
+   0.9951,
+   0.9824,
+   0.9955,
+   22
+  ],
+  "DNAonly4098|K498T|非洲鼹鼠科 Bathyergidae s.l.": [
+   "T",
+   "T",
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   22
+  ],
+  "DNAonly4098|K498T|南美支 Caviomorpha": [
+   "T",
+   "T",
+   0.9973,
+   0.9973,
+   0.9829,
+   0.9981,
+   22
+  ],
+  "DNAonly4098|K498T|豚鼠属 Cavia": [
+   "T",
+   "T",
+   1.0,
+   1.0,
+   1.0,
+   1.0,
+   22
+  ]
+ },
+ "asr_495_check": "495 位，豪猪亚目内部（24 种）约束简约最少变化次数：\n  祖先固定为 D: 9\n  祖先固定为 H: 8\n  祖先固定为 N: 9\n  祖先固定为 Y: 8\n  祖先=H 的一个最简约重建：Y 获得 5 次 → {Fukomys anselli, Fukomys damarensis, Heterocephalus glaber}; {Cavia porcellus, Cavia tschudii}; {Chinchilla lanigera}; {Capromys pilorides}; {Ctenomys sociabilis, Octodon degus, Octomys mimax, Tympanoctomys barrerae}；Y 丢失 0 次 → \n  祖先=Y 的一个最简约重建：Y 获得 0 次 → ；Y 丢失 8 次 → {Petromus typicus, Thryonomys swinderianus}; {Dolichotis patagonum, Hydrochoerus hydrochaeris}; {Dasyprocta punctata}; {Cuniculus paca}; {Dinomys branickii}; {Myocastor coypus}; {Coendou prehensilis, Erethizon dorsatum}; {Hystrix brachyura, Hystrix cristata}\n  梳趾鼠 vs 豪猪亚目分歧: 约 66.2 百万年前\n  豪猪亚目冠群: 约 48.3 百万年前\n  非洲鼹鼠科 s.l. 冠群（裸鼹鼠 vs Fukomys）: 约 30.0 百万年前\n  豚鼠属 vs 豚鼠科其他（Cavia vs 水豚/长耳豚鼠）: 约 18.8 百万年前\n  啮齿目冠群: 约 69.5 百万年前\n",
+ "secondsource_rows": 29,
+ "tblastn_jobs": 28,
+ "tblastn_status": {
+  "ok": 27,
+  "无命中": 1
+ },
+ "S1_rows": 290,
+ "S2_rows": 67,
+ "S3_rows": 88,
+ "S1_cells_with_chinese": 0,
+ "S2_cells_with_chinese": 0,
+ "S3_cells_with_chinese": 0
+}
